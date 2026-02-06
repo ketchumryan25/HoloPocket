@@ -1,0 +1,4 @@
+repository "HoloPocket/HoloPocket@1375771932818@cloud"
+  path "/"
+    br "/main"
+    co "/main"
