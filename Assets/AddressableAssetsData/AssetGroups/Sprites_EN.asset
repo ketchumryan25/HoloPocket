@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Sprites_EN
+  m_EditorClassIdentifier: 
+  m_GroupName: Sprites_EN
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2456b2d87f0a6c34a96bd146dd4a08db
+  m_SerializeEntries:
+  - m_GUID: 2138df3f47f82444281930887bd6bee1
+    m_Address: Assets/Textures/Atlases/EN/hBP01.spriteatlasv2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Common
+    - EN
+    - hBP01
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: dc23405f280790b4bb5ebb400c6e8c62, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 82b187478806f624b9fd08945ce4b391, type: 2}
+    - {fileID: 11400000, guid: 0f9090acca5616c4cbdf14cc4ca67b6b, type: 2}
