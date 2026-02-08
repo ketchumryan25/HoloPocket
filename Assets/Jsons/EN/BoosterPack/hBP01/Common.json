@@ -1,0 +1,20 @@
+{
+    "009_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "011_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    }
+
+
+}

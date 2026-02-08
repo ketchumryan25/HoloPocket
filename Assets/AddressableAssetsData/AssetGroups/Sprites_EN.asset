@@ -16,15 +16,7 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 2456b2d87f0a6c34a96bd146dd4a08db
-  m_SerializeEntries:
-  - m_GUID: 2138df3f47f82444281930887bd6bee1
-    m_Address: Assets/Textures/Atlases/EN/hBP01.spriteatlasv2
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Common
-    - EN
-    - hBP01
-    FlaggedDuringContentUpdateRestriction: 0
+  m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: dc23405f280790b4bb5ebb400c6e8c62, type: 2}
   m_SchemaSet:
