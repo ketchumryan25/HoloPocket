@@ -511,6 +511,14 @@
         "source_index":"hBP01",
         "rarity":"Common"
     },
+    "hBP01-034_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
     "hBP01-034_S":
     {
         "card_name":"Amane Kanata",
@@ -1655,7 +1663,7 @@
         "source_index":"hBP01",
         "rarity":"Common"
     },
-    "108_U":
+    "hBP01-108_U":
     {
         "card_name":"Amane Kanata",
         "source_name":"Blooming Radiance",
