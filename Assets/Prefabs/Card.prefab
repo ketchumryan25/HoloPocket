@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 3607364673943751219}
   - component: {fileID: 8107850353948903672}
   - component: {fileID: 4763877727176171439}
-  - component: {fileID: 2936316439310123108}
+  - component: {fileID: -3364662139279507396}
   m_Layer: 0
   m_Name: Card
   m_TagString: Untagged
@@ -56,7 +56,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ac82a58ea76552543ab88b9728b89e97, type: 2}
+  - {fileID: 2100000, guid: e5da0ff77c334b249a84db6f41e7c2a3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -149,9 +149,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"CardOffScreen","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
---- !u!114 &2936316439310123108
+--- !u!114 &-3364662139279507396
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -166,4 +167,4 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: 4cfaa3858ab57cd4db794ef189b59d62, type: 2}
+    - {fileID: 11400000, guid: 59e91d1a57ff92c4eb57d93d336ffb9c, type: 2}

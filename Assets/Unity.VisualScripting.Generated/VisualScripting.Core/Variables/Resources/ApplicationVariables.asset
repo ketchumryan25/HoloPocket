@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c63e9930078442aa987ca9a1511ae44, type: 3}
+  m_Name: ApplicationVariables
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Flow","collection":{"$content":[{"name":"PackPrefab","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"CardPrefab","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Backgrounds","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"PersistentObject","value":{"$content":3,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"MenuScriptHolder","value":null,"typeHandle":{"Identification":null,"$version":"A"},"$version":"A"},{"name":"PackScriptHolder","value":null,"typeHandle":{"Identification":null,"$version":"A"},"$version":"A"},{"name":"SpriteHolders","value":null,"typeHandle":{"Identification":null,"$version":"A"},"$version":"A"},{"name":"Variables","value":null,"typeHandle":{"Identification":null,"$version":"A"},"$version":"A"},{"name":"MainCamera","value":null,"typeHandle":{"Identification":null,"$version":"A"},"$version":"A"},{"name":"MainLight","value":null,"typeHandle":{"Identification":null,"$version":"A"},"$version":"A"},{"name":"EventSystem","value":null,"typeHandle":{"Identification":null,"$version":"A"},"$version":"A"},{"name":"Canvas","value":null,"typeHandle":{"Identification":null,"$version":"A"},"$version":"A"},{"name":"MoveBetweenScenes","value":null,"typeHandle":{"Identification":null,"$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 1304584321123684009, guid: 09abe50dff6cf1d4fbf419ef2e56b4dc, type: 3}
+    - {fileID: 2021401058484271839, guid: c3d3598bcbe25db488410b1bc4f91c90, type: 3}
+    - {fileID: 4701292266487278467, guid: bcc96f9b2ef430240ac4491e5683992b, type: 3}
+    - {fileID: 2389491008803709699, guid: 0206202a8d61aad438a6b825924b87fa, type: 3}
