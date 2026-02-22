@@ -6,13 +6,25 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Core.unity
+    guid: 823b32423a1be0d4ebe5b2bebc2120ff
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: 5052438d1b6329b41b248546dd27a86b
+  - enabled: 1
+    path: Assets/Scenes/Session.unity
+    guid: d2d321076debe384086d40a0b6d5c1fe
+  - enabled: 1
     path: Assets/Scenes/MainMenu.unity
-    guid: 1ac2799c58c60e347ac286b5e1bdf058
+    guid: 4ef82c5aa19cd57408423d49ccd2731d
   - enabled: 1
-    path: Assets/Scenes/BoosterPackTest.unity
-    guid: 10406b2d3aee9c34db348b991f8fbd71
+    path: Assets/Scenes/Shop.unity
+    guid: cda70fa6fcda07044a5accb3c8c2730f
   - enabled: 1
-    path: Assets/Scenes/Blank.unity
-    guid: 397404c1987b372498a2309f36d123d9
+    path: Assets/Scenes/Collection.unity
+    guid: befb410560c2c974caf3ca397fc04d81
+  - enabled: 1
+    path: Assets/Scenes/BoosterPackOpen.unity
+    guid: a5232b9fe11d66748ac60630f9db8d56
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: fbd251c14973a4c46b357860bd1cc210, type: 2}
