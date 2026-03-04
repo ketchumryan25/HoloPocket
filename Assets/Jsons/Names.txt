@@ -1,0 +1,35 @@
+"Common"
+"Uncommon"
+"Rare"
+"DoubleRare"
+"Special"
+"SpecialYell"
+"SuperRare"
+"OshiSpecialRare"
+"UltraRare"
+"OshiUltraRare"
+"Secret"
+
+Amana Kanata
+Nanashi Mumei
+Aki Rosenthal
+Usada Pekora
+Takane Lui
+Takanashi Kiara
+Hoshimachi Suisei
+Kobo Kanaeru
+Tokino Sora
+Vestia Zeta
+IRyS
+AZKi
+Kazama Iroha
+Airani lofiteen
+Omaru Polka
+Hakos Baelz
+Moona Hoshinova
+Ouro Kronii
+Shiranui Flare
+Shirogane Noel
+Houshou Marine
+Mori Calliope
+Watson Amelia
