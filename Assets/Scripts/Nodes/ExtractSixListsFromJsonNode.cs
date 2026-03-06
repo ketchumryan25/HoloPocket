@@ -7,6 +7,7 @@ using Newtonsoft.Json.Linq; // Requires Newtonsoft.Json
 [UnitCategory("Custom")]
 public class ExtractSixListsFromJsonNode : Unit
 {
+
     // Input: JSON data string
     [DoNotSerialize]
     public ValueInput jsonDataInput;

@@ -5,6 +5,7 @@ using Unity.VisualScripting;
 [UnitCategory("Gameplay")]
 public class PickRarityByPercentagesUnit : Unit
 {
+
     // Inputs for each rarity percentage
     [DoNotSerialize]
     public ValueInput commonPercent;

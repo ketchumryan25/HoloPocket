@@ -1,0 +1,38 @@
+{
+  "Counts": {
+    "Packs": {
+      "EN_hBP01": {
+        "count": "0"
+      },
+      "EN_hBP02": {
+        "count": "0"
+      },
+      "EN_hBP03": {
+        "count": "0"
+      },
+      "JP_hBP01": {
+        "count": "0"
+      },
+      "JP_hBP02": {
+        "count": "0"
+      },
+      "JP_hBP03": {
+        "count": "0"
+      }
+    },
+    "Currency": {
+      "TimeSkip": {
+        "count": "0"
+      },
+      "ShopTicket": {
+        "count": "0"
+      },
+      "CardDust": {
+        "count": "0"
+      },
+      "Spyglasses": {
+        "count": "0"
+      }
+    }
+  }
+}

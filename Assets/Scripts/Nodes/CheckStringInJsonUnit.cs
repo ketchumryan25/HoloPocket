@@ -6,6 +6,7 @@ using Newtonsoft.Json.Linq;
 [UnitCategory("Data")]
 public class CheckStringInJsonUnit : Unit
 {
+
     // Input: JSON string
     [DoNotSerialize]
     public ValueInput jsonInput;

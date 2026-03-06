@@ -6,6 +6,7 @@ using Newtonsoft.Json.Linq; // Ensure Newtonsoft.Json is included in your projec
 [UnitCategory("Data")]
 public class ParseJsonNestedPropertyUnit : Unit
 {
+
     // Input: JSON string
     [DoNotSerialize]
     public ValueInput jsonStringInput;

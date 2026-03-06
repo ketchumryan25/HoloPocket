@@ -8,6 +8,7 @@ using System.Collections.Generic;
 [UnitCategory("Custom")]
 public class CardDataToJsonData : Unit
 {
+
     // Control ports
     public ControlInput inputTrigger;
     public ControlOutput outputTrigger;

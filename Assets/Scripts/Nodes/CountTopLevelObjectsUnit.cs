@@ -7,6 +7,7 @@ using System.Linq; // Make sure Newtonsoft.Json package is included
 [UnitCategory("Data")]
 public class CountTopLevelObjectsUnit : Unit
 {
+
     // Input: JSON string
     [DoNotSerialize]
     public ValueInput jsonInput;

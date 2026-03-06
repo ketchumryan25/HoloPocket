@@ -8,6 +8,7 @@ using System.Collections.Generic;
 [UnitCategory("Custom/JSON")]
 public class IncreaseCountCardData : Unit
 {
+
     // Inputs
     [DoNotSerialize]
     public ValueInput jsonFilePathInput;

@@ -1,0 +1,1722 @@
+{
+    "hBP02-001_OSR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-001_OUR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-001_SEC":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-002_OSR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-002_OUR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-003_OSR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-003_SEC":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-004_OSR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-004_OUR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-004_SEC":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-005_OSR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-005_OUR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-006_OSR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-006_OUR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-007_OSR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-007_OUR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-008_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-009_U":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-010_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-010_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-011_U":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-011_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-012_R":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-012_SR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-013_RR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-013_SR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-014_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-015_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-015_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-016_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-016_U":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-017_RR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-017_SR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-017_UR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-018_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-019_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-019_U":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-020_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-020_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-021_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-021_U":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-022_SR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-022_R":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-023_RR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-023_SR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-023_UR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-024_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-025_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-025_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-026_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-026_U":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-027_RR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-027_SR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-027_UR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-028_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-029_U":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-030_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-030_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-031_U":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-031_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-032_R":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-032_SR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-033_RR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-033_SR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-033_UR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-034_RR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-034_SR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-034_UR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-035_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-036_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-036_U":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-037_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-037_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-038_U":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-038_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-039_R":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-039_SR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-040_RR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-040_SR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-040_UR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-041_RR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-041_SR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-041_UR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-042_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-043_U":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-044_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-044_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-045_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-045_U":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-046_R":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-046_SR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-047_RR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-047_SR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-047_UR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-048_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-049_U":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-049_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-050_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-050_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-051_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-051_U":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-052_R":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-052_SR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-053_RR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-053_SR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-053_UR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-054_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-055_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-055_U":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-056_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-056_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-057_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-057_U":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-058_R":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-058_SR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-059_RR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-059_SR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-059_UR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-060_R":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-060_SR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-061_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-062_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-062_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-063_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-063_U":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-064_RR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-064_SR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-064_UR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-065_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-066_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-066_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-067_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-067_U":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-068_R":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-068_SR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-069_R":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-069_SR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-070_R":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-070_SR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-071_R":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-071_SR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-072_R":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-072_SR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-073_R":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-073_SR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-074_R":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-074_SR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-075_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-075_U":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-076_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-076_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-077_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-077_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-078_U":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-078_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-079_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-079_U":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-080_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-080_U":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-081_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-081_U":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-082_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-082_U":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-083_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-083_U":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-084_SEC":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-084_U":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-085_U":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-085_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-086_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-087_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-087_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-088_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-088_U":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-089_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-089_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-090_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-090_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-091_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-091_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-092_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-092_U":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-093_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-093_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-094_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-094_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-095_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-095_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-096_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-096_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-097_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-097_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-098_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-098_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-099_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-099_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-100_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-100_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"009",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-101_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-101_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-102_S":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hBP02-102_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hSD02-009_SR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hSD03-009_SR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hSD04-009_SR":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hY01-001_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hY01-003_SY":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hY02-001_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hY02-002_SY":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hY03-001_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hY03-002_SY":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hY04-001_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hY04-002_SY":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hY05-001_C":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    },
+    "hY05-002_SY":
+    {
+        "card_name":"Amane Kanata",
+        "source_name":"Blooming Radiance",
+        "card_index":"011",
+        "source_index":"hBP01",
+        "rarity":"Common"
+    }
+}
