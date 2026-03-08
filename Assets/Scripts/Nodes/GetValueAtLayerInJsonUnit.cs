@@ -24,12 +24,12 @@ public class GetValueAtLayerInJsonUnit : Unit
         string jsonString = flow.GetValue<string>(jsonInput);
         string path = flow.GetValue<string>(keyPathInput);
 
-        Debug.Log($"JSON Input: {jsonString}");
-        Debug.Log($"Key Path: {path}");
+        //Debug.Log($"JSON Input: {jsonString}");
+        //Debug.Log($"Key Path: {path}");
 
         if (string.IsNullOrEmpty(jsonString))
         {
-            Debug.LogWarning("JSON string is null or empty");
+            //Debug.LogWarning("JSON string is null or empty");
             return "";
         }
 
@@ -42,7 +42,7 @@ public class GetValueAtLayerInJsonUnit : Unit
             {
                 if (token == null)
                 {
-                    Debug.LogWarning($"Path segment '{key}' not found.");
+                    //Debug.LogWarning($"Path segment '{key}' not found.");
                     return "";
                 }
                 token = token[key];
@@ -50,11 +50,11 @@ public class GetValueAtLayerInJsonUnit : Unit
 
             if (token == null)
             {
-                Debug.LogWarning("Key not found at specified path.");
+                //Debug.LogWarning("Key not found at specified path.");
                 return "";
             }
 
-            Debug.Log($"Found value: {token}");
+            //Debug.Log($"Found value: {token}");
             return token.ToString();
         }
         catch (Exception e)

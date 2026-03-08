@@ -29,14 +29,14 @@ public class ReadJsonFileDefaultPath : Unit
 
         if (!File.Exists(path))
         {
-            Debug.LogWarning($"File not found: {path}");
+            //Debug.LogWarning($"File not found: {path}");
             return ""; // or null, or a default value
         }
 
         try
         {
             string jsonData = File.ReadAllText(path);
-            Debug.Log($"Read JSON from: {path}");
+            //Debug.Log($"Read JSON from: {path}");
             return jsonData;
         }
         catch (Exception e)
