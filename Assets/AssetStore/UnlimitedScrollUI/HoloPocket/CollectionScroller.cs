@@ -1,11 +1,14 @@
 using System.Collections;
 using UnityEngine;
+using Newtonsoft.Json;
 
-namespace UnlimitedScrollUI.Collection {
+namespace UnlimitedScrollUI {
     public class CollectionScroller : MonoBehaviour {
         public GameObject cell;
         public bool autoGenerate;
         public int totalCount = 33;
+        public string lang;
+        public string source;
 
         private IUnlimitedScroller unlimitedScroller;
 

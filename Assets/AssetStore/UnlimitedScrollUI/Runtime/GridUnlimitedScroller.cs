@@ -2,8 +2,10 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using Unity.VisualScripting;
 
 namespace UnlimitedScrollUI {
+    [IncludeInSettings(true)]
     public class GridUnlimitedScroller : GridLayoutGroup, IUnlimitedScroller {
         #region Properties
 

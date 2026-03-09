@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEditor.UI;
 
-namespace UnlimitedScrollUI.Editor {
+namespace UnlimitedScrollUI {
     [CustomEditor(typeof(VerticalUnlimitedScroller), true)]
     [CanEditMultipleObjects]
     public class VerticalUnlimitedScrollerEditor : HorizontalOrVerticalLayoutGroupEditor {

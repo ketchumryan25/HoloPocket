@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace UnlimitedScrollUI.Collection {
+namespace UnlimitedScrollUI {
     public class Popup : MonoBehaviour {
         public Text text;
         public Button btn;

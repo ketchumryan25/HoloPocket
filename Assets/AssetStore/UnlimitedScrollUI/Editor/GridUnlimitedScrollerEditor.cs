@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEditor.UI;
 
-namespace UnlimitedScrollUI.Editor {
+namespace UnlimitedScrollUI {
     [CustomEditor(typeof(GridUnlimitedScroller), true)]
     [CanEditMultipleObjects]
     public class GridUnlimitedScrollerEditor : GridLayoutGroupEditor {

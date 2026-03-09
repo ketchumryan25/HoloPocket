@@ -1,30 +1,114 @@
 using System;
+using System.IO;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using Coffee.UIEffects;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
+using Unity.VisualScripting;
 
-namespace UnlimitedScrollUI.Collection {
+namespace UnlimitedScrollUI {
     public class CardCell : MonoBehaviour {
-        public TextMeshProUGUI TMP_Text;
+        public TextMeshProUGUI Slot_Text;
+        public TextMeshProUGUI Count_Text;
         public GameObject popup;
         public bool useInfoDisplay;
-        public List<Sprite> spriteList;
+        public bool isOwned;
+        public GameObject content;
+        public string cardName;
+        public UIEffect effect;
+        public int cardCount = 0;
         
         private InfoDisplay infoDisplay;
+        private GameObject spritesObject;
         private int index;
 
-        public void SetTMPText(int newIndex) {
-            index = newIndex;
-            TMP_Text.text = $"{index}";
+        public void SetContent()
+        {
+            if (transform.parent != null)
+            {
+                content = transform.parent.gameObject;  
+            } 
         }
 
-        public void SetSprite(int newIndex) {
+        public void SetSlotText(int newIndex) {
+            index = newIndex;
+            Slot_Text.text = $"{index}";
+        }
+
+        public void SetCountText() {
+            Count_Text.text = $"{cardCount}";
+        }
+
+        public void SetSprite(int newIndex) 
+        {
             index = newIndex;
             Image image = GetComponent<Image>();
-            image.sprite = spriteList[index];
-            
+            if (Variables.Object(content).IsDefined("Sprites"))
+            {
+                object obj = Variables.Object(content).Get("Sprites");
+                if (obj is GameObject)
+                {
+                    GameObject contentSprites = (GameObject)obj;
+                    if (contentSprites != null)
+                    {
+                        SpriteManager spritesManager = contentSprites.GetComponent<SpriteManager>();
+
+                        Sprite sprite = spritesManager.GetSpriteByIndex(index);
+                        image.sprite = sprite;
+                    }
+                }
+            }
+        }
+
+        public void SetUIEffect()
+        {
+            if (effect != null)
+            {
+                //Debug.Log($"{isOwned}");
+                effect.enabled = !isOwned;
+            }
+        }
+
+        public void GetOwned()
+        {
+            Image image = GetComponent<Image>();
+            cardName = image.sprite.name;
+            CollectionScroller scroller = content.GetComponent<CollectionScroller>();
+            string countString = "count";
+            string path = Path.Combine(Application.persistentDataPath, "CollectionData.json");
+            string tokenPath = $"{scroller.lang}.{scroller.source}.{cardName}.{countString}";
+            //Debug.Log($"{tokenPath}");
+            if (File.Exists(path))
+            {
+                string json = File.ReadAllText(path);
+                JObject jsonObject = JObject.Parse(json);
+                JToken token = jsonObject.SelectToken(tokenPath);
+                if (token != null)
+                {
+                    string numberString = token.ToString();
+                    if (int.TryParse(numberString, out int number))
+                    {
+                        isOwned = number > 0;
+                        cardCount = number;
+                    }
+                    else
+                    {
+                        Debug.Log("Failed to parse token to int");
+                    }
+                }
+                else
+                {
+                    Debug.Log("Token is null");
+                }
+            }
+            else
+            {
+                Debug.Log($"File not found at path {path}");
+            }
         }
 
         public void SetupPopup(int newIndex) {
