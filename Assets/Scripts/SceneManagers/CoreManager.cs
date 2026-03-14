@@ -8,7 +8,7 @@ public class CoreManager : MonoBehaviour
     {
         SceneController.Instance
             .NewTransition()
-            .Load(SceneDatabase.Slots.Title, SceneDatabase.Scenes.TitleScreen)
+            .Load(SceneDatabase.Slots.Title, SceneDatabase.Scenes.TitleScreen, setActive: true)
             .WithOverlay()
             .Perform();
     }

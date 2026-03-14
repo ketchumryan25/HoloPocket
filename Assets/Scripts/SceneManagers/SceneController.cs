@@ -19,7 +19,7 @@ public class SceneController : MonoBehaviour
     #endregion
     [SerializeField] private LoadingOverlay loadingOverlay;
     private Dictionary<string, string> loadedSceneBySlot = new();
-    [SerializeField] private bool isBusy = false;
+    [SerializeField] public bool isBusy = false;
     [SerializeField] public bool sceneChanged = false;
 
     public SceneTransitionPlan NewTransition()
