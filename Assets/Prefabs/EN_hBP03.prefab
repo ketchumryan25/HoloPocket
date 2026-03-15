@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 6460029892507289088}
   - component: {fileID: 7378377428230785795}
   - component: {fileID: 5776261740158998065}
+  - component: {fileID: 8650861312750443664}
   m_Layer: 5
   m_Name: EN_hBP03
   m_TagString: Untagged
@@ -50,7 +51,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Padding:
-    m_Left: 55
+    m_Left: 35
     m_Right: 0
     m_Top: 15
     m_Bottom: 50
@@ -83,3 +84,19 @@ MonoBehaviour:
   totalCount: 229
   lang: EN
   source: EliteSpark
+--- !u!114 &8650861312750443664
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6033137083578984365}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Sprites","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []

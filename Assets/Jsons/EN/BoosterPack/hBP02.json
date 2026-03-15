@@ -1,1722 +1,1964 @@
 {
     "hBP02-001_OSR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shirakami Fubuki",
+        "source_name":"QuintetSpectrum",
+        "card_index":"001",
+        "source_index":"hBP02",
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
     },
     "hBP02-001_OUR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shirakami Fubuki",
+        "source_name":"QuintetSpectrum",
+        "card_index":"001",
+        "source_index":"hBP02",
+        "rarity":"OshiUltraRare",
+        "lang": "EN"
     },
     "hBP02-001_SEC":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shirakami Fubuki",
+        "source_name":"QuintetSpectrum",
+        "card_index":"001",
+        "source_index":"hBP02",
+        "rarity":"Secret",
+        "lang": "EN"
     },
     "hBP02-002_OSR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Pavolia Reine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"002",
+        "source_index":"hBP02",
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
     },
     "hBP02-002_OUR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Pavolia Reine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"002",
+        "source_index":"hBP02",
+        "rarity":"OshiUltraRare",
+        "lang": "EN"
     },
     "hBP02-003_OSR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Houshou Marine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"003",
+        "source_index":"hBP02",
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
+    },
+    "hBP02-003_OUR":
+    {
+        "card_name":"Houshou Marine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"003",
+        "source_index":"hBP02",
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
     },
     "hBP02-003_SEC":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Houshou Marine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"003",
+        "source_index":"hBP02",
+        "rarity":"Secret",
+        "lang": "EN"
     },
     "hBP02-004_OSR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sakamata Chloe",
+        "source_name":"QuintetSpectrum",
+        "card_index":"004",
+        "source_index":"hBP02",
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
     },
     "hBP02-004_OUR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sakamata Chloe",
+        "source_name":"QuintetSpectrum",
+        "card_index":"004",
+        "source_index":"hBP02",
+        "rarity":"OshiUltraRare",
+        "lang": "EN"
     },
     "hBP02-004_SEC":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sakamata Chloe",
+        "source_name":"QuintetSpectrum",
+        "card_index":"004",
+        "source_index":"hBP02",
+        "rarity":"Secret",
+        "lang": "EN"
     },
     "hBP02-005_OSR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
+        "card_name":"Murasaki Shion",
+        "source_name":"QuintetSpectrum",
         "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "source_index":"hBP02",
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
     },
     "hBP02-005_OUR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Murasaki Shion",
+        "source_name":"QuintetSpectrum",
+        "card_index":"005",
+        "source_index":"hBP02",
+        "rarity":"OshiUltraRare",
+        "lang": "EN"
     },
     "hBP02-006_OSR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Kureiji Ollie",
+        "source_name":"QuintetSpectrum",
+        "card_index":"006",
+        "source_index":"hBP02",
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
     },
     "hBP02-006_OUR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Kureiji Ollie",
+        "source_name":"QuintetSpectrum",
+        "card_index":"006",
+        "source_index":"hBP02",
+        "rarity":"OshiUltraRare",
+        "lang": "EN"
     },
     "hBP02-007_OSR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Mori Calliope",
+        "source_name":"QuintetSpectrum",
+        "card_index":"007",
+        "source_index":"hBP02",
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
     },
     "hBP02-007_OUR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Mori Calliope",
+        "source_name":"QuintetSpectrum",
+        "card_index":"007",
+        "source_index":"hBP02",
+        "rarity":"OshiUltraRare",
+        "lang": "EN"
     },
     "hBP02-008_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shirakami Fubuki",
+        "source_name":"QuintetSpectrum",
+        "card_index":"008",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-009_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
+        "card_name":"Shirakami Fubuki",
+        "source_name":"QuintetSpectrum",
         "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "source_index":"hBP02",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP02-010_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shirakami Fubuki",
+        "source_name":"QuintetSpectrum",
+        "card_index":"010",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-010_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shirakami Fubuki",
+        "source_name":"QuintetSpectrum",
+        "card_index":"010",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-011_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
+        "card_name":"Shirakami Fubuki",
+        "source_name":"QuintetSpectrum",
         "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "source_index":"hBP02",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP02-011_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shirakami Fubuki",
+        "source_name":"QuintetSpectrum",
+        "card_index":"011",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-012_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shirakami Fubuki",
+        "source_name":"QuintetSpectrum",
+        "card_index":"012",
+        "source_index":"hBP02",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP02-012_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shirakami Fubuki",
+        "source_name":"QuintetSpectrum",
+        "card_index":"012",
+        "source_index":"hBP02",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP02-013_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shirakami Fubuki",
+        "source_name":"QuintetSpectrum",
+        "card_index":"013",
+        "source_index":"hBP02",
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP02-013_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shirakami Fubuki",
+        "source_name":"QuintetSpectrum",
+        "card_index":"013",
+        "source_index":"hBP02",
+        "rarity":"SuperRare",
+        "lang": "EN"
+    },
+    "hBP02-013_UR":
+    {
+        "card_name":"Shirakami Fubuki",
+        "source_name":"QuintetSpectrum",
+        "card_index":"013",
+        "source_index":"hBP02",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP02-014_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shirogane Noel",
+        "source_name":"QuintetSpectrum",
+        "card_index":"014",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-015_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shirogane Noel",
+        "source_name":"QuintetSpectrum",
+        "card_index":"015",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-015_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shirogane Noel",
+        "source_name":"QuintetSpectrum",
+        "card_index":"015",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-016_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shirogane Noel",
+        "source_name":"QuintetSpectrum",
+        "card_index":"016",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-016_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shirogane Noel",
+        "source_name":"QuintetSpectrum",
+        "card_index":"016",
+        "source_index":"hBP02",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP02-017_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shirogane Noel",
+        "source_name":"QuintetSpectrum",
+        "card_index":"017",
+        "source_index":"hBP02",
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP02-017_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shirogane Noel",
+        "source_name":"QuintetSpectrum",
+        "card_index":"017",
+        "source_index":"hBP02",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP02-017_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shirogane Noel",
+        "source_name":"QuintetSpectrum",
+        "card_index":"017",
+        "source_index":"hBP02",
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP02-018_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Pavolia Reine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"018",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-019_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Pavolia Reine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"019",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-019_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Pavolia Reine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"019",
+        "source_index":"hBP02",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP02-020_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Pavolia Reine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"020",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-020_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Pavolia Reine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"020",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-021_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Pavolia Reine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"021",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-021_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Pavolia Reine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"021",
+        "source_index":"hBP02",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP02-022_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Pavolia Reine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"022",
+        "source_index":"hBP02",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP02-022_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Pavolia Reine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"022",
+        "source_index":"hBP02",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP02-023_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Pavolia Reine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"023",
+        "source_index":"hBP02",
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP02-023_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Pavolia Reine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"023",
+        "source_index":"hBP02",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP02-023_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Pavolia Reine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"023",
+        "source_index":"hBP02",
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP02-024_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ookami Mio",
+        "source_name":"QuintetSpectrum",
+        "card_index":"024",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-025_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ookami Mio",
+        "source_name":"QuintetSpectrum",
+        "card_index":"025",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-025_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ookami Mio",
+        "source_name":"QuintetSpectrum",
+        "card_index":"025",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-026_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ookami Mio",
+        "source_name":"QuintetSpectrum",
+        "card_index":"026",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-026_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ookami Mio",
+        "source_name":"QuintetSpectrum",
+        "card_index":"026",
+        "source_index":"hBP02",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP02-027_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ookami Mio",
+        "source_name":"QuintetSpectrum",
+        "card_index":"027",
+        "source_index":"hBP02",
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP02-027_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ookami Mio",
+        "source_name":"QuintetSpectrum",
+        "card_index":"027",
+        "source_index":"hBP02",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP02-027_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ookami Mio",
+        "source_name":"QuintetSpectrum",
+        "card_index":"027",
+        "source_index":"hBP02",
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP02-028_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Houshou Marine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"028",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-029_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Houshou Marine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"029",
+        "source_index":"hBP02",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP02-030_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Houshou Marine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"030",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-030_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Houshou Marine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"030",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-031_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Houshou Marine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"031",
+        "source_index":"hBP02",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP02-031_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Houshou Marine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"031",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-032_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Houshou Marine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"032",
+        "source_index":"hBP02",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP02-032_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Houshou Marine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"032",
+        "source_index":"hBP02",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP02-033_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Houshou Marine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"033",
+        "source_index":"hBP02",
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP02-033_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Houshou Marine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"033",
+        "source_index":"hBP02",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP02-033_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Houshou Marine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"033",
+        "source_index":"hBP02",
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP02-034_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Nakiri Ayame",
+        "source_name":"QuintetSpectrum",
+        "card_index":"034",
+        "source_index":"hBP02",
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP02-034_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Nakiri Ayame",
+        "source_name":"QuintetSpectrum",
+        "card_index":"034",
+        "source_index":"hBP02",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP02-034_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Nakiri Ayame",
+        "source_name":"QuintetSpectrum",
+        "card_index":"034",
+        "source_index":"hBP02",
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP02-035_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sakamata Chloe",
+        "source_name":"QuintetSpectrum",
+        "card_index":"035",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-036_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sakamata Chloe",
+        "source_name":"QuintetSpectrum",
+        "card_index":"036",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-036_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sakamata Chloe",
+        "source_name":"QuintetSpectrum",
+        "card_index":"036",
+        "source_index":"hBP02",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP02-037_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sakamata Chloe",
+        "source_name":"QuintetSpectrum",
+        "card_index":"037",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-037_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sakamata Chloe",
+        "source_name":"QuintetSpectrum",
+        "card_index":"037",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-038_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sakamata Chloe",
+        "source_name":"QuintetSpectrum",
+        "card_index":"038",
+        "source_index":"hBP02",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP02-038_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sakamata Chloe",
+        "source_name":"QuintetSpectrum",
+        "card_index":"038",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-039_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sakamata Chloe",
+        "source_name":"QuintetSpectrum",
+        "card_index":"039",
+        "source_index":"hBP02",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP02-039_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sakamata Chloe",
+        "source_name":"QuintetSpectrum",
+        "card_index":"039",
+        "source_index":"hBP02",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP02-040_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sakamata Chloe",
+        "source_name":"QuintetSpectrum",
+        "card_index":"040",
+        "source_index":"hBP02",
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP02-040_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sakamata Chloe",
+        "source_name":"QuintetSpectrum",
+        "card_index":"040",
+        "source_index":"hBP02",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP02-040_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sakamata Chloe",
+        "source_name":"QuintetSpectrum",
+        "card_index":"040",
+        "source_index":"hBP02",
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP02-041_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Nekomata Okayu",
+        "source_name":"QuintetSpectrum",
+        "card_index":"041",
+        "source_index":"hBP02",
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP02-041_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Nekomata Okayu",
+        "source_name":"QuintetSpectrum",
+        "card_index":"041",
+        "source_index":"hBP02",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP02-041_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Nekomata Okayu",
+        "source_name":"QuintetSpectrum",
+        "card_index":"041",
+        "source_index":"hBP02",
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP02-042_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Murasaki Shion",
+        "source_name":"QuintetSpectrum",
+        "card_index":"042",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-043_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Murasaki Shion",
+        "source_name":"QuintetSpectrum",
+        "card_index":"043",
+        "source_index":"hBP02",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP02-044_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Murasaki Shion",
+        "source_name":"QuintetSpectrum",
+        "card_index":"044",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-044_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Murasaki Shion",
+        "source_name":"QuintetSpectrum",
+        "card_index":"044",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-045_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Murasaki Shion",
+        "source_name":"QuintetSpectrum",
+        "card_index":"045",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-045_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Murasaki Shion",
+        "source_name":"QuintetSpectrum",
+        "card_index":"045",
+        "source_index":"hBP02",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP02-046_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Murasaki Shion",
+        "source_name":"QuintetSpectrum",
+        "card_index":"046",
+        "source_index":"hBP02",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP02-046_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Murasaki Shion",
+        "source_name":"QuintetSpectrum",
+        "card_index":"046",
+        "source_index":"hBP02",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP02-047_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Murasaki Shion",
+        "source_name":"QuintetSpectrum",
+        "card_index":"047",
+        "source_index":"hBP02",
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP02-047_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Murasaki Shion",
+        "source_name":"QuintetSpectrum",
+        "card_index":"047",
+        "source_index":"hBP02",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP02-047_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Murasaki Shion",
+        "source_name":"QuintetSpectrum",
+        "card_index":"047",
+        "source_index":"hBP02",
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP02-048_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Kureiji Ollie",
+        "source_name":"QuintetSpectrum",
+        "card_index":"048",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-049_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Kureiji Ollie",
+        "source_name":"QuintetSpectrum",
+        "card_index":"049",
+        "source_index":"hBP02",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP02-049_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Kureiji Ollie",
+        "source_name":"QuintetSpectrum",
+        "card_index":"049",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-050_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Kureiji Ollie",
+        "source_name":"QuintetSpectrum",
+        "card_index":"050",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-050_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Kureiji Ollie",
+        "source_name":"QuintetSpectrum",
+        "card_index":"050",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-051_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Kureiji Ollie",
+        "source_name":"QuintetSpectrum",
+        "card_index":"051",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-051_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Kureiji Ollie",
+        "source_name":"QuintetSpectrum",
+        "card_index":"051",
+        "source_index":"hBP02",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP02-052_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Kureiji Ollie",
+        "source_name":"QuintetSpectrum",
+        "card_index":"052",
+        "source_index":"hBP02",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP02-052_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Kureiji Ollie",
+        "source_name":"QuintetSpectrum",
+        "card_index":"052",
+        "source_index":"hBP02",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP02-053_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Kureiji Ollie",
+        "source_name":"QuintetSpectrum",
+        "card_index":"053",
+        "source_index":"hBP02",
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP02-053_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Kureiji Ollie",
+        "source_name":"QuintetSpectrum",
+        "card_index":"053",
+        "source_index":"hBP02",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP02-053_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Kureiji Ollie",
+        "source_name":"QuintetSpectrum",
+        "card_index":"053",
+        "source_index":"hBP02",
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP02-054_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Mori Calliope",
+        "source_name":"QuintetSpectrum",
+        "card_index":"054",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-055_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Mori Calliope",
+        "source_name":"QuintetSpectrum",
+        "card_index":"055",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-055_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Mori Calliope",
+        "source_name":"QuintetSpectrum",
+        "card_index":"055",
+        "source_index":"hBP02",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP02-056_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Mori Calliope",
+        "source_name":"QuintetSpectrum",
+        "card_index":"056",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-056_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Mori Calliope",
+        "source_name":"QuintetSpectrum",
+        "card_index":"056",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-057_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Mori Calliope",
+        "source_name":"QuintetSpectrum",
+        "card_index":"057",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-057_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Mori Calliope",
+        "source_name":"QuintetSpectrum",
+        "card_index":"057",
+        "source_index":"hBP02",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP02-058_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Mori Calliope",
+        "source_name":"QuintetSpectrum",
+        "card_index":"058",
+        "source_index":"hBP02",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP02-058_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Mori Calliope",
+        "source_name":"QuintetSpectrum",
+        "card_index":"058",
+        "source_index":"hBP02",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP02-059_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Mori Calliope",
+        "source_name":"QuintetSpectrum",
+        "card_index":"059",
+        "source_index":"hBP02",
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP02-059_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Mori Calliope",
+        "source_name":"QuintetSpectrum",
+        "card_index":"059",
+        "source_index":"hBP02",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP02-059_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Mori Calliope",
+        "source_name":"QuintetSpectrum",
+        "card_index":"059",
+        "source_index":"hBP02",
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP02-060_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Yuzuki Choco",
+        "source_name":"QuintetSpectrum",
+        "card_index":"060",
+        "source_index":"hBP02",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP02-060_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Yuzuki Choco",
+        "source_name":"QuintetSpectrum",
+        "card_index":"060",
+        "source_index":"hBP02",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP02-061_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ninomae Ina'nis",
+        "source_name":"QuintetSpectrum",
+        "card_index":"061",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-062_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ninomae Ina'nis",
+        "source_name":"QuintetSpectrum",
+        "card_index":"062",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-062_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ninomae Ina'nis",
+        "source_name":"QuintetSpectrum",
+        "card_index":"062",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-063_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ninomae Ina'nis",
+        "source_name":"QuintetSpectrum",
+        "card_index":"063",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-063_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ninomae Ina'nis",
+        "source_name":"QuintetSpectrum",
+        "card_index":"063",
+        "source_index":"hBP02",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP02-064_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ninomae Ina'nis",
+        "source_name":"QuintetSpectrum",
+        "card_index":"064",
+        "source_index":"hBP02",
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP02-064_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ninomae Ina'nis",
+        "source_name":"QuintetSpectrum",
+        "card_index":"064",
+        "source_index":"hBP02",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP02-064_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ninomae Ina'nis",
+        "source_name":"QuintetSpectrum",
+        "card_index":"064",
+        "source_index":"hBP02",
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP02-065_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Nerissa Ravencroft",
+        "source_name":"QuintetSpectrum",
+        "card_index":"065",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-066_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Nerissa Ravencroft",
+        "source_name":"QuintetSpectrum",
+        "card_index":"066",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-066_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Nerissa Ravencroft",
+        "source_name":"QuintetSpectrum",
+        "card_index":"066",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-067_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Nerissa Ravencroft",
+        "source_name":"QuintetSpectrum",
+        "card_index":"067",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-067_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Nerissa Ravencroft",
+        "source_name":"QuintetSpectrum",
+        "card_index":"067",
+        "source_index":"hBP02",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP02-068_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Nerissa Ravencroft",
+        "source_name":"QuintetSpectrum",
+        "card_index":"068",
+        "source_index":"hBP02",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP02-068_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Nerissa Ravencroft",
+        "source_name":"QuintetSpectrum",
+        "card_index":"068",
+        "source_index":"hBP02",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP02-069_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Magical Girl Miko",
+        "source_name":"QuintetSpectrum",
+        "card_index":"069",
+        "source_index":"hBP02",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP02-069_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Magical Girl Miko",
+        "source_name":"QuintetSpectrum",
+        "card_index":"069",
+        "source_index":"hBP02",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP02-070_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Magical Girl Kanata",
+        "source_name":"QuintetSpectrum",
+        "card_index":"070",
+        "source_index":"hBP02",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP02-070_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Magical Girl Kanata",
+        "source_name":"QuintetSpectrum",
+        "card_index":"070",
+        "source_index":"hBP02",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP02-071_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Magical Girl Luna",
+        "source_name":"QuintetSpectrum",
+        "card_index":"071",
+        "source_index":"hBP02",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP02-071_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Magical Girl Luna",
+        "source_name":"QuintetSpectrum",
+        "card_index":"071",
+        "source_index":"hBP02",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP02-072_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Magical Girl Shion",
+        "source_name":"QuintetSpectrum",
+        "card_index":"072",
+        "source_index":"hBP02",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP02-072_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Magical Girl Shion",
+        "source_name":"QuintetSpectrum",
+        "card_index":"072",
+        "source_index":"hBP02",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP02-073_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Magical Girl Marine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"073",
+        "source_index":"hBP02",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP02-073_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Magical Girl Marine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"073",
+        "source_index":"hBP02",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP02-074_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Magical Girl Chloe",
+        "source_name":"QuintetSpectrum",
+        "card_index":"074",
+        "source_index":"hBP02",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP02-074_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Magical Girl Chloe",
+        "source_name":"QuintetSpectrum",
+        "card_index":"074",
+        "source_index":"hBP02",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP02-075_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Idol's Autograph Pen",
+        "source_name":"QuintetSpectrum",
+        "card_index":"075",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-075_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Idol's Autograph Pen",
+        "source_name":"QuintetSpectrum",
+        "card_index":"075",
+        "source_index":"hBP02",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP02-076_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Custom PC",
+        "source_name":"QuintetSpectrum",
+        "card_index":"076",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-076_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Custom PC",
+        "source_name":"QuintetSpectrum",
+        "card_index":"076",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-077_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Retro PC",
+        "source_name":"QuintetSpectrum",
+        "card_index":"077",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-077_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Retro PC",
+        "source_name":"QuintetSpectrum",
+        "card_index":"077",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-078_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Kanata Construction",
+        "source_name":"QuintetSpectrum",
+        "card_index":"078",
+        "source_index":"hBP02",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP02-078_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Kanata Construction",
+        "source_name":"QuintetSpectrum",
+        "card_index":"078",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-079_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Explosion Magic",
+        "source_name":"QuintetSpectrum",
+        "card_index":"079",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-079_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Explosion Magic",
+        "source_name":"QuintetSpectrum",
+        "card_index":"079",
+        "source_index":"hBP02",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP02-080_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"holox",
+        "source_name":"QuintetSpectrum",
+        "card_index":"080",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-080_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"holox",
+        "source_name":"QuintetSpectrum",
+        "card_index":"080",
+        "source_index":"hBP02",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP02-081_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"hololive Indonesia Gen 2",
+        "source_name":"QuintetSpectrum",
+        "card_index":"081",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-081_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"hololive Indonesia Gen 2",
+        "source_name":"QuintetSpectrum",
+        "card_index":"081",
+        "source_index":"hBP02",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP02-082_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"hololive GAMERS",
+        "source_name":"QuintetSpectrum",
+        "card_index":"082",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-082_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"hololive GAMERS",
+        "source_name":"QuintetSpectrum",
+        "card_index":"082",
+        "source_index":"hBP02",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP02-083_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Magic Dresser",
+        "source_name":"QuintetSpectrum",
+        "card_index":"083",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-083_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Magic Dresser",
+        "source_name":"QuintetSpectrum",
+        "card_index":"083",
+        "source_index":"hBP02",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP02-084_SEC":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Mikkorone 24",
+        "source_name":"QuintetSpectrum",
+        "card_index":"084",
+        "source_index":"hBP02",
+        "rarity":"Secret",
+        "lang": "EN"
+    },
+    "hBP02-084_S":
+    {
+        "card_name":"Mikkorone 24",
+        "source_name":"QuintetSpectrum",
+        "card_index":"084",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-084_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Mikkorone 24",
+        "source_name":"QuintetSpectrum",
+        "card_index":"084",
+        "source_index":"hBP02",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP02-085_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"HOLOLIVE FANTASY",
+        "source_name":"QuintetSpectrum",
+        "card_index":"085",
+        "source_index":"hBP02",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP02-085_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"HOLOLIVE FANTASY",
+        "source_name":"QuintetSpectrum",
+        "card_index":"085",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-086_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"holoSparkling",
+        "source_name":"QuintetSpectrum",
+        "card_index":"086",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-087_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Murasaki Shion's Magic Wand",
+        "source_name":"QuintetSpectrum",
+        "card_index":"087",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-087_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Murasaki Shion's Magic Wand",
+        "source_name":"QuintetSpectrum",
+        "card_index":"087",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-088_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Mori Calliope's Scythe",
+        "source_name":"QuintetSpectrum",
+        "card_index":"088",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-088_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Mori Calliope's Scythe",
+        "source_name":"QuintetSpectrum",
+        "card_index":"088",
+        "source_index":"hBP02",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP02-089_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Oruyanke",
+        "source_name":"QuintetSpectrum",
+        "card_index":"089",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-089_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Oruyanke",
+        "source_name":"QuintetSpectrum",
+        "card_index":"089",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-090_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Nejimakitsune",
+        "source_name":"QuintetSpectrum",
+        "card_index":"090",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-090_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Nejimakitsune",
+        "source_name":"QuintetSpectrum",
+        "card_index":"090",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-091_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Fubu-chan",
+        "source_name":"QuintetSpectrum",
+        "card_index":"091",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-091_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Fubu-chan",
+        "source_name":"QuintetSpectrum",
+        "card_index":"091",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-092_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Fubzilla",
+        "source_name":"QuintetSpectrum",
+        "card_index":"092",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-092_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Fubzilla",
+        "source_name":"QuintetSpectrum",
+        "card_index":"092",
+        "source_index":"hBP02",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP02-093_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Miteiru",
+        "source_name":"QuintetSpectrum",
+        "card_index":"093",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-093_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Miteiru",
+        "source_name":"QuintetSpectrum",
+        "card_index":"093",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-094_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tatang",
+        "source_name":"QuintetSpectrum",
+        "card_index":"094",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-094_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tatang",
+        "source_name":"QuintetSpectrum",
+        "card_index":"094",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-095_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Dokuro-kun",
+        "source_name":"QuintetSpectrum",
+        "card_index":"095",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-095_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Dokuro-kun",
+        "source_name":"QuintetSpectrum",
+        "card_index":"095",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-096_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"inu",
+        "source_name":"QuintetSpectrum",
+        "card_index":"096",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-096_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"inu",
+        "source_name":"QuintetSpectrum",
+        "card_index":"096",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-097_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"UDIN",
+        "source_name":"QuintetSpectrum",
+        "card_index":"097",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-097_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"UDIN",
+        "source_name":"QuintetSpectrum",
+        "card_index":"097",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-098_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Death-sensei",
+        "source_name":"QuintetSpectrum",
+        "card_index":"098",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-098_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Death-sensei",
+        "source_name":"QuintetSpectrum",
+        "card_index":"098",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-099_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sukonbu",
+        "source_name":"QuintetSpectrum",
+        "card_index":"099",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-099_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sukonbu",
+        "source_name":"QuintetSpectrum",
+        "card_index":"099",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-100_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Knight's Order of Shirogane",
+        "source_name":"QuintetSpectrum",
+        "card_index":"100",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-100_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Knight's Order of Shirogane",
+        "source_name":"QuintetSpectrum",
+        "card_index":"100",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-101_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Mio-fam",
+        "source_name":"QuintetSpectrum",
+        "card_index":"101",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP02-101_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Mio-fam",
+        "source_name":"QuintetSpectrum",
+        "card_index":"101",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-102_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shiokko",
+        "source_name":"QuintetSpectrum",
+        "card_index":"102",
+        "source_index":"hBP02",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP02-102_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shiokko",
+        "source_name":"QuintetSpectrum",
+        "card_index":"102",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hSD02-009_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Nakiri Ayame",
+        "source_name":"QuintetSpectrum",
+        "card_index":"009",
+        "source_index":"hSD02",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hSD03-009_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Nekomata Okayu",
+        "source_name":"QuintetSpectrum",
+        "card_index":"009",
+        "source_index":"hSD03",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hSD04-009_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Yuzuki Choco",
+        "source_name":"QuintetSpectrum",
+        "card_index":"009",
+        "source_index":"hSD04",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hY01-001_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"White Cheer",
+        "source_name":"Cheer",
+        "card_index":"001",
+        "source_index":"hY01",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hY01-003_SY":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"White Cheer",
+        "source_name":"Cheer",
+        "card_index":"003",
+        "source_index":"hY01",
+        "rarity":"SpecialYell",
+        "lang": "EN"
     },
     "hY02-001_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Green Cheer",
+        "source_name":"Cheer",
+        "card_index":"001",
+        "source_index":"hY02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hY02-002_SY":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Green Cheer",
+        "source_name":"Cheer",
+        "card_index":"002",
+        "source_index":"hY02",
+        "rarity":"SpecialYell",
+        "lang": "EN"
     },
     "hY03-001_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Red Cheer",
+        "source_name":"Cheer",
+        "card_index":"001",
+        "source_index":"hY03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hY03-002_SY":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Red Cheer",
+        "source_name":"Cheer",
+        "card_index":"002",
+        "source_index":"hY03",
+        "rarity":"SpecialYell",
+        "lang": "EN"
     },
     "hY04-001_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Blue Cheer",
+        "source_name":"Cheer",
+        "card_index":"001",
+        "source_index":"hY04",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hY04-002_SY":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Blue Cheer",
+        "source_name":"Cheer",
+        "card_index":"002",
+        "source_index":"hY04",
+        "rarity":"SpecialYell",
+        "lang": "EN"
     },
     "hY05-001_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Purple Cheer",
+        "source_name":"Cheer",
+        "card_index":"001",
+        "source_index":"hY05",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hY05-002_SY":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Purple Cheer",
+        "source_name":"Cheer",
+        "card_index":"002",
+        "source_index":"hY05",
+        "rarity":"SpecialYell",
+        "lang": "EN"
     }
 }

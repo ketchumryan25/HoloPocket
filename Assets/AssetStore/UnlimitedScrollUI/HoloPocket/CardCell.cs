@@ -97,12 +97,12 @@ namespace UnlimitedScrollUI {
                     }
                     else
                     {
-                        Debug.Log("Failed to parse token to int");
+                        Debug.Log($"Failed to parse token {cardName} to int");
                     }
                 }
                 else
                 {
-                    Debug.Log("Token is null");
+                    Debug.Log($"{cardName} Token is null");
                 }
             }
             else

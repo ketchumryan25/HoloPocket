@@ -6,8 +6,6 @@
         "card_index":"001",
         "source_index":"hBP01",
         "rarity":"OshiSpecialRare",
-        "sibling_index":"0",
-        "sprite_index":"1",
         "lang": "EN"
     },
     "hBP01-001_OUR":
@@ -17,20 +15,15 @@
         "card_index":"001",
         "source_index":"hBP01",
         "rarity":"OshiUltraRare",
-        "sibling_index":"1",
-        "sprite_index":"1",
         "lang": "EN"
     },
     "hBP01-002_OSR":
     {
-        "lang": "EN",
         "card_name":"Nanashi Mumei",
         "source_name":"BloomingRadiance",
         "card_index":"002",
         "source_index":"hBP01",
         "rarity":"OshiSpecialRare",
-        "sibling_index":"2",
-        "sprite_index":"2",
         "lang": "EN"
     },
     "hBP01-002_OUR":
@@ -40,8 +33,6 @@
         "card_index":"002",
         "source_index":"hBP01",
         "rarity":"OshiUltraRare",
-        "sibling_index":"3",
-        "sprite_index":"2",
         "lang": "EN"
     },
     "hBP01-003_OSR":
@@ -51,8 +42,6 @@
         "card_index":"003",
         "source_index":"hBP01",
         "rarity":"OshiSpecialRare",
-        "sibling_index":"4",
-        "sprite_index":"3",
         "lang": "EN"
     },
     "hBP01-003_OUR":
@@ -62,8 +51,6 @@
         "card_index":"003",
         "source_index":"hBP01",
         "rarity":"OshiUltraRare",
-        "sibling_index":"5",
-        "sprite_index":"3",
         "lang": "EN"
     },
     "hBP01-004_OSR":
@@ -73,8 +60,6 @@
         "card_index":"004",
         "source_index":"hBP01",
         "rarity":"OshiSpecialRare",
-        "sibling_index":"6",
-        "sprite_index":"4",
         "lang": "EN"
     },
     "hBP01-004_OUR":
@@ -84,8 +69,6 @@
         "card_index":"004",
         "source_index":"hBP01",
         "rarity":"OshiUltraRare",
-        "sibling_index":"7",
-        "sprite_index":"4",
         "lang": "EN"
     },
     "hBP01-005_OSR":
@@ -95,8 +78,6 @@
         "card_index":"005",
         "source_index":"hBP01",
         "rarity":"OshiSpecialRare",
-        "sibling_index":"8",
-        "sprite_index":"5",
         "lang": "EN"
     },
     "hBP01-005_OUR":
@@ -106,8 +87,6 @@
         "card_index":"005",
         "source_index":"hBP01",
         "rarity":"OshiUltraRare",
-        "sibling_index":"9",
-        "sprite_index":"5",
         "lang": "EN"
     },
     "hBP01-006_OSR":
@@ -117,8 +96,7 @@
         "card_index":"006",
         "source_index":"hBP01",
         "rarity":"OshiSpecialRare",
-        "sibling_index":"10",
-        "sprite_index":"6",
+
         "lang": "EN"
     },
     "hBP01-006_OUR":
@@ -128,8 +106,7 @@
         "card_index":"006",
         "source_index":"hBP01",
         "rarity":"OshiUltraRare",
-        "sibling_index":"11",
-        "sprite_index":"6",
+
         "lang": "EN"
     },
     "hBP01-006_SEC":
@@ -139,8 +116,6 @@
         "card_index":"006",
         "source_index":"hBP01",
         "rarity":"Secret",
-        "sibling_index":"12",
-        "sprite_index":"1",
         "lang": "EN"
     },
     "hBP01-007_OSR":
@@ -150,8 +125,6 @@
         "card_index":"007",
         "source_index":"hBP01",
         "rarity":"OshiSpecialRare",
-        "sibling_index":"13",
-        "sprite_index":"7",
         "lang": "EN"
     },
     "hBP01-007_OUR":
@@ -161,8 +134,6 @@
         "card_index":"007",
         "source_index":"hBP01",
         "rarity":"OshiUltraRare",
-        "sibling_index":"14",
-        "sprite_index":"7",
         "lang": "EN"
     },
     "hBP01-007_SEC":
@@ -172,8 +143,6 @@
         "card_index":"007",
         "source_index":"hBP01",
         "rarity":"Secret",
-        "sibling_index":"15",
-        "sprite_index":"2",
         "lang": "EN"
     },
     "hBP01-008_OSR":
@@ -183,8 +152,6 @@
         "card_index":"008",
         "source_index":"hBP01",
         "rarity":"OshiSpecialRare",
-        "sibling_index":"16",
-        "sprite_index":"8",
         "lang": "EN"
     },
     "hBP01-008_OUR":
@@ -194,8 +161,6 @@
         "card_index":"008",
         "source_index":"hBP01",
         "rarity":"OshiUltraRare",
-        "sibling_index":"17",
-        "sprite_index":"8",
         "lang": "EN"
     },
     "hBP01-009_C":
@@ -205,8 +170,6 @@
         "card_index":"009",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"18",
-        "sprite_index":"1",
         "lang": "EN"
     },
     "hBP01-010_S":
@@ -216,8 +179,6 @@
         "card_index":"010",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"19",
-        "sprite_index":"1",
         "lang": "EN"
     },
     "hBP01-010_U":
@@ -227,8 +188,6 @@
         "card_index":"010",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"20",
-        "sprite_index":"1",
         "lang": "EN"
     },
     "hBP01-011_C":
@@ -238,8 +197,6 @@
         "card_index":"011",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"21",
-        "sprite_index":"2",
         "lang": "EN"
     },
     "hBP01-011_S":
@@ -249,8 +206,6 @@
         "card_index":"011",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"22",
-        "sprite_index":"2",
         "lang": "EN"
     },
     "hBP01-012_S":
@@ -260,8 +215,6 @@
         "card_index":"012",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"23",
-        "sprite_index":"3",
         "lang": "EN"
     },
     "hBP01-012_U":
@@ -271,8 +224,6 @@
         "card_index":"012",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"24",
-        "sprite_index":"2",
         "lang": "EN"
     },
     "hBP01-013_R":
@@ -282,8 +233,6 @@
         "card_index":"013",
         "source_index":"hBP01",
         "rarity":"Rare",
-        "sibling_index":"25",
-        "sprite_index":"1",
         "lang": "EN"
     },
     "hBP01-013_SR":
@@ -293,8 +242,6 @@
         "card_index":"013",
         "source_index":"hBP01",
         "rarity":"SuperRare",
-        "sibling_index":"26",
-        "sprite_index":"1",
         "lang": "EN"
     },
     "hBP01-014_RR":
@@ -304,8 +251,6 @@
         "card_index":"014",
         "source_index":"hBP01",
         "rarity":"DoubleRare",
-        "sibling_index":"27",
-        "sprite_index":"1",
         "lang": "EN"
     },
     "hBP01-014_SR":
@@ -315,8 +260,6 @@
         "card_index":"014",
         "source_index":"hBP01",
         "rarity":"SuperRare",
-        "sibling_index":"28",
-        "sprite_index":"2",
         "lang": "EN"
     },
     "hBP01-014_UR":
@@ -326,8 +269,6 @@
         "card_index":"014",
         "source_index":"hBP01",
         "rarity":"UltraRare",
-        "sibling_index":"29",
-        "sprite_index":"1",
         "lang": "EN"
     },
     "hBP01-015_C":
@@ -337,8 +278,6 @@
         "card_index":"015",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"30",
-        "sprite_index":"3",
         "lang": "EN"
     },
     "hBP01-016_S":
@@ -348,8 +287,6 @@
         "card_index":"016",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"31",
-        "sprite_index":"4",
         "lang": "EN"
     },
     "hBP01-016_U":
@@ -359,8 +296,6 @@
         "card_index":"016",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"32",
-        "sprite_index":"3",
         "lang": "EN"
     },
     "hBP01-017_C":
@@ -370,8 +305,6 @@
         "card_index":"017",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"33",
-        "sprite_index":"4",
         "lang": "EN"
     },
     "hBP01-017_S":
@@ -381,8 +314,6 @@
         "card_index":"017",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"34",
-        "sprite_index":"5",
         "lang": "EN"
     },
     "hBP01-018_C":
@@ -392,8 +323,6 @@
         "card_index":"018",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"35",
-        "sprite_index":"5",
         "lang": "EN"
     },
     "hBP01-018_S":
@@ -403,8 +332,6 @@
         "card_index":"018",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"36",
-        "sprite_index":"6",
         "lang": "EN"
     },
     "hBP01-019_S":
@@ -414,8 +341,6 @@
         "card_index":"019",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"37",
-        "sprite_index":"7",
         "lang": "EN"
     },
     "hBP01-019_U":
@@ -425,8 +350,6 @@
         "card_index":"019",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"38",
-        "sprite_index":"4",
         "lang": "EN"
     },
     "hBP01-020_R":
@@ -436,8 +359,6 @@
         "card_index":"020",
         "source_index":"hBP01",
         "rarity":"Rare",
-        "sibling_index":"39",
-        "sprite_index":"2",
         "lang": "EN"
     },
     "hBP01-020_SR":
@@ -447,8 +368,6 @@
         "card_index":"020",
         "source_index":"hBP01",
         "rarity":"SuperRare",
-        "sibling_index":"40",
-        "sprite_index":"3",
         "lang": "EN"
     },
     "hBP01-021_C":
@@ -458,8 +377,6 @@
         "card_index":"021",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"41",
-        "sprite_index":"6",
         "lang": "EN"
     },
     "hBP01-022_S":
@@ -469,8 +386,6 @@
         "card_index":"022",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"42",
-        "sprite_index":"8",
         "lang": "EN"
     },
     "hBP01-022_U":
@@ -480,8 +395,6 @@
         "card_index":"022",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"43",
-        "sprite_index":"5",
         "lang": "EN"
     },
     "hBP01-023_RR":
@@ -491,8 +404,6 @@
         "card_index":"023",
         "source_index":"hBP01",
         "rarity":"DoubleRare",
-        "sibling_index":"44",
-        "sprite_index":"2",
         "lang": "EN"
     },
     "hBP01-023_SR":
@@ -502,8 +413,6 @@
         "card_index":"023",
         "source_index":"hBP01",
         "rarity":"SuperRare",
-        "sibling_index":"45",
-        "sprite_index":"4",
         "lang": "EN"
     },
     "hBP01-023_UR":
@@ -513,8 +422,6 @@
         "card_index":"023",
         "source_index":"hBP01",
         "rarity":"UltraRare",
-        "sibling_index":"46",
-        "sprite_index":"2",
         "lang": "EN"
     },
     "hBP01-024_C":
@@ -524,8 +431,6 @@
         "card_index":"024",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"47",
-        "sprite_index":"7",
         "lang": "EN"
     },
     "hBP01-025_C":
@@ -535,8 +440,6 @@
         "card_index":"025",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"48",
-        "sprite_index":"8",
         "lang": "EN"
     },
     "hBP01-025_S":
@@ -546,8 +449,6 @@
         "card_index":"025",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"49",
-        "sprite_index":"9",
         "lang": "EN"
     },
     "hBP01-026_S":
@@ -557,8 +458,6 @@
         "card_index":"026",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"50",
-        "sprite_index":"10",
         "lang": "EN"
     },
     "hBP01-026_U":
@@ -568,8 +467,6 @@
         "card_index":"026",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"51",
-        "sprite_index":"6",
         "lang": "EN"
     },
     "hBP01-027_RR":
@@ -579,8 +476,6 @@
         "card_index":"027",
         "source_index":"hBP01",
         "rarity":"DoubleRare",
-        "sibling_index":"52",
-        "sprite_index":"3",
         "lang": "EN"
     },
     "hBP01-027_SR":
@@ -590,8 +485,6 @@
         "card_index":"027",
         "source_index":"hBP01",
         "rarity":"SuperRare",
-        "sibling_index":"53",
-        "sprite_index":"5",
         "lang": "EN"
     },
     "hBP01-027_UR":
@@ -601,8 +494,6 @@
         "card_index":"027",
         "source_index":"hBP01",
         "rarity":"UltraRare",
-        "sibling_index":"54",
-        "sprite_index":"3",
         "lang": "EN"
     },
     "hBP01-028_C":
@@ -612,8 +503,6 @@
         "card_index":"028",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"55",
-        "sprite_index":"9",
         "lang": "EN"
     },
     "hBP01-029_C":
@@ -623,8 +512,6 @@
         "card_index":"029",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"56",
-        "sprite_index":"10",
         "lang": "EN"
     },
     "hBP01-029_S":
@@ -634,8 +521,6 @@
         "card_index":"029",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"57",
-        "sprite_index":"11",
         "lang": "EN"
     },
     "hBP01-030_S":
@@ -645,8 +530,6 @@
         "card_index":"030",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"58",
-        "sprite_index":"12",
         "lang": "EN"
     },
     "hBP01-030_U":
@@ -656,8 +539,6 @@
         "card_index":"030",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"59",
-        "sprite_index":"7",
         "lang": "EN"
     },
     "hBP01-031_R":
@@ -667,8 +548,6 @@
         "card_index":"031",
         "source_index":"hBP01",
         "rarity":"Rare",
-        "sibling_index":"60",
-        "sprite_index":"3",
         "lang": "EN"
     },
     "hBP01-031_SR":
@@ -678,8 +557,6 @@
         "card_index":"031",
         "source_index":"hBP01",
         "rarity":"SuperRare",
-        "sibling_index":"61",
-        "sprite_index":"6",
         "lang": "EN"
     },
     "hBP01-032_C":
@@ -689,8 +566,6 @@
         "card_index":"032",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"62",
-        "sprite_index":"11",
         "lang": "EN"
     },
     "hBP01-033_S":
@@ -700,8 +575,6 @@
         "card_index":"033",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"63",
-        "sprite_index":"13",
         "lang": "EN"
     },
     "hBP01-033_U":
@@ -711,8 +584,6 @@
         "card_index":"033",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"64",
-        "sprite_index":"8",
         "lang": "EN"
     },
     "hBP01-034_C":
@@ -722,8 +593,6 @@
         "card_index":"034",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"65",
-        "sprite_index":"12",
         "lang": "EN"
     },
     "hBP01-034_S":
@@ -733,8 +602,6 @@
         "card_index":"034",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"66",
-        "sprite_index":"14",
         "lang": "EN"
     },
     "hBP01-035_C":
@@ -744,8 +611,6 @@
         "card_index":"035",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"67",
-        "sprite_index":"13",
         "lang": "EN"
     },
     "hBP01-035_S":
@@ -755,8 +620,6 @@
         "card_index":"035",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"68",
-        "sprite_index":"15",
         "lang": "EN"
     },
     "hBP01-036_S":
@@ -766,8 +629,6 @@
         "card_index":"036",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"69",
-        "sprite_index":"16",
         "lang": "EN"
     },
     "hBP01-036_U":
@@ -777,8 +638,6 @@
         "card_index":"036",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"70",
-        "sprite_index":"9",
         "lang": "EN"
     },
     "hBP01-037_R":
@@ -788,8 +647,6 @@
         "card_index":"037",
         "source_index":"hBP01",
         "rarity":"Rare",
-        "sibling_index":"71",
-        "sprite_index":"4",
         "lang": "EN"
     },
     "hBP01-037_SR":
@@ -799,8 +656,6 @@
         "card_index":"037",
         "source_index":"hBP01",
         "rarity":"SuperRare",
-        "sibling_index":"72",
-        "sprite_index":"7",
         "lang": "EN"
     },
     "hBP01-038_C":
@@ -810,8 +665,6 @@
         "card_index":"038",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"73",
-        "sprite_index":"14",
         "lang": "EN"
     },
     "hBP01-039_S":
@@ -821,8 +674,6 @@
         "card_index":"039",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"74",
-        "sprite_index":"17",
         "lang": "EN"
     },
     "hBP01-039_U":
@@ -832,8 +683,6 @@
         "card_index":"039",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"75",
-        "sprite_index":"10",
         "lang": "EN"
     },
     "hBP01-040_C":
@@ -843,8 +692,6 @@
         "card_index":"040",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"76",
-        "sprite_index":"15",
         "lang": "EN"
     },
     "hBP01-040_S":
@@ -854,8 +701,6 @@
         "card_index":"040",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"77",
-        "sprite_index":"18",
         "lang": "EN"
     },
     "hBP01-041_S":
@@ -865,8 +710,6 @@
         "card_index":"041",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"78",
-        "sprite_index":"19",
         "lang": "EN"
     },
     "hBP01-041_U":
@@ -876,8 +719,6 @@
         "card_index":"041",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"79",
-        "sprite_index":"11",
         "lang": "EN"
     },
     "hBP01-042_R":
@@ -887,8 +728,6 @@
         "card_index":"042",
         "source_index":"hBP01",
         "rarity":"Rare",
-        "sibling_index":"80",
-        "sprite_index":"5",
         "lang": "EN"
     },
     "hBP01-042_SR":
@@ -898,8 +737,6 @@
         "card_index":"042",
         "source_index":"hBP01",
         "rarity":"SuperRare",
-        "sibling_index":"81",
-        "sprite_index":"8",
         "lang": "EN"
     },
     "hBP01-043_RR":
@@ -909,8 +746,6 @@
         "card_index":"043",
         "source_index":"hBP01",
         "rarity":"DoubleRare",
-        "sibling_index":"82",
-        "sprite_index":"4",
         "lang": "EN"
     },
     "hBP01-043_SR":
@@ -920,8 +755,6 @@
         "card_index":"043",
         "source_index":"hBP01",
         "rarity":"SuperRare",
-        "sibling_index":"83",
-        "sprite_index":"9",
         "lang": "EN"
     },
     "hBP01-043_UR":
@@ -931,8 +764,6 @@
         "card_index":"043",
         "source_index":"hBP01",
         "rarity":"UltraRare",
-        "sibling_index":"84",
-        "sprite_index":"4",
         "lang": "EN"
     },
     "hBP01-044_C":
@@ -942,8 +773,6 @@
         "card_index":"044",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"85",
-        "sprite_index":"16",
         "lang": "EN"
     },
     "hBP01-045_S":
@@ -953,8 +782,6 @@
         "card_index":"045",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"86",
-        "sprite_index":"20",
         "lang": "EN"
     },
     "hBP01-045_U":
@@ -964,8 +791,6 @@
         "card_index":"045",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"87",
-        "sprite_index":"12",
         "lang": "EN"
     },
     "hBP01-046_C":
@@ -975,8 +800,6 @@
         "card_index":"046",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"88",
-        "sprite_index":"17",
         "lang": "EN"
     },
     "hBP01-046_S":
@@ -986,8 +809,6 @@
         "card_index":"046",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"89",
-        "sprite_index":"21",
         "lang": "EN"
     },
     "hBP01-047_RR":
@@ -997,8 +818,6 @@
         "card_index":"047",
         "source_index":"hBP01",
         "rarity":"DoubleRare",
-        "sibling_index":"90",
-        "sprite_index":"5",
         "lang": "EN"
     },
     "hBP01-047_SR":
@@ -1008,8 +827,6 @@
         "card_index":"047",
         "source_index":"hBP01",
         "rarity":"SuperRare",
-        "sibling_index":"91",
-        "sprite_index":"10",
         "lang": "EN"
     },
     "hBP01-047_UR":
@@ -1019,8 +836,6 @@
         "card_index":"047",
         "source_index":"hBP01",
         "rarity":"UltraRare",
-        "sibling_index":"92",
-        "sprite_index":"5",
         "lang": "EN"
     },
     "hBP01-048_C":
@@ -1030,8 +845,6 @@
         "card_index":"048",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"93",
-        "sprite_index":"18",
         "lang": "EN"
     },
     "hBP01-049_C":
@@ -1041,8 +854,6 @@
         "card_index":"049",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"94",
-        "sprite_index":"19",
         "lang": "EN"
     },
     "hBP01-049_S":
@@ -1052,8 +863,6 @@
         "card_index":"049",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"95",
-        "sprite_index":"22",
         "lang": "EN"
     },
     "hBP01-050_S":
@@ -1063,8 +872,6 @@
         "card_index":"050",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"96",
-        "sprite_index":"23",
         "lang": "EN"
     },
     "hBP01-050_U":
@@ -1074,8 +881,6 @@
         "card_index":"050",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"97",
-        "sprite_index":"13",
         "lang": "EN"
     },
     "hBP01-051_RR":
@@ -1085,8 +890,6 @@
         "card_index":"051",
         "source_index":"hBP01",
         "rarity":"DoubleRare",
-        "sibling_index":"98",
-        "sprite_index":"6",
         "lang": "EN"
     },
     "hBP01-051_SR":
@@ -1096,8 +899,6 @@
         "card_index":"051",
         "source_index":"hBP01",
         "rarity":"SuperRare",
-        "sibling_index":"99",
-        "sprite_index":"11",
         "lang": "EN"
     },
     "hBP01-051_UR":
@@ -1107,8 +908,6 @@
         "card_index":"051",
         "source_index":"hBP01",
         "rarity":"UltraRare",
-        "sibling_index":"100",
-        "sprite_index":"6",
         "lang": "EN"
     },
     "hBP01-052_C":
@@ -1118,8 +917,6 @@
         "card_index":"052",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"101",
-        "sprite_index":"20",
         "lang": "EN"
     },
     "hBP01-053_C":
@@ -1129,8 +926,6 @@
         "card_index":"053",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"102",
-        "sprite_index":"21",
         "lang": "EN"
     },
     "hBP01-053_S":
@@ -1140,8 +935,6 @@
         "card_index":"053",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"103",
-        "sprite_index":"24",
         "lang": "EN"
     },
     "hBP01-054_U":
@@ -1151,8 +944,6 @@
         "card_index":"054",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"104",
-        "sprite_index":"14",
         "lang": "EN"
     },
     "hBP01-054_S":
@@ -1162,8 +953,6 @@
         "card_index":"054",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"105",
-        "sprite_index":"25",
         "lang": "EN"
     },
     "hBP01-055_R":
@@ -1173,8 +962,6 @@
         "card_index":"055",
         "source_index":"hBP01",
         "rarity":"Rare",
-        "sibling_index":"106",
-        "sprite_index":"6",
         "lang": "EN"
     },
     "hBP01-055_SR":
@@ -1184,8 +971,6 @@
         "card_index":"055",
         "source_index":"hBP01",
         "rarity":"SuperRare",
-        "sibling_index":"107",
-        "sprite_index":"12",
         "lang": "EN"
     },
     "hBP01-056_C":
@@ -1195,8 +980,6 @@
         "card_index":"056",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"108",
-        "sprite_index":"22",
         "lang": "EN"
     },
     "hBP01-057_S":
@@ -1206,8 +989,6 @@
         "card_index":"057",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"109",
-        "sprite_index":"26",
         "lang": "EN"
     },
     "hBP01-057_U":
@@ -1217,8 +998,6 @@
         "card_index":"057",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"110",
-        "sprite_index":"15",
         "lang": "EN"
     },
     "hBP01-058_C":
@@ -1228,8 +1007,6 @@
         "card_index":"058",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"111",
-        "sprite_index":"23",
         "lang": "EN"
     },
     "hBP01-058_S":
@@ -1239,8 +1016,6 @@
         "card_index":"058",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"112",
-        "sprite_index":"27",
         "lang": "EN"
     },
     "hBP01-059_C":
@@ -1250,8 +1025,6 @@
         "card_index":"059",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"113",
-        "sprite_index":"24",
         "lang": "EN"
     },
     "hBP01-059_S":
@@ -1261,8 +1034,6 @@
         "card_index":"059",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"114",
-        "sprite_index":"28",
         "lang": "EN"
     },
     "hBP01-060_S":
@@ -1272,8 +1043,6 @@
         "card_index":"060",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"115",
-        "sprite_index":"29",
         "lang": "EN"
     },
     "hBP01-060_U":
@@ -1283,8 +1052,6 @@
         "card_index":"060",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"116",
-        "sprite_index":"16",
         "lang": "EN"
     },
     "hBP01-061_R":
@@ -1294,8 +1061,6 @@
         "card_index":"061",
         "source_index":"hBP01",
         "rarity":"Rare",
-        "sibling_index":"117",
-        "sprite_index":"7",
         "lang": "EN"
     },
     "hBP01-061_SR":
@@ -1305,8 +1070,6 @@
         "card_index":"061",
         "source_index":"hBP01",
         "rarity":"SuperRare",
-        "sibling_index":"118",
-        "sprite_index":"13",
         "lang": "EN"
     },
     "hBP01-062_C":
@@ -1316,8 +1079,6 @@
         "card_index":"062",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"119",
-        "sprite_index":"25",
         "lang": "EN"
     },
     "hBP01-063_S":
@@ -1327,8 +1088,6 @@
         "card_index":"063",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"120",
-        "sprite_index":"30",
         "lang": "EN"
     },
     "hBP01-063_U":
@@ -1338,8 +1097,6 @@
         "card_index":"063",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"121",
-        "sprite_index":"17",
         "lang": "EN"
     },
     "hBP01-064_C":
@@ -1349,8 +1106,6 @@
         "card_index":"064",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"122",
-        "sprite_index":"26",
         "lang": "EN"
     },
     "hBP01-064_S":
@@ -1360,8 +1115,6 @@
         "card_index":"064",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"123",
-        "sprite_index":"31",
         "lang": "EN"
     },
     "hBP01-065_S":
@@ -1371,8 +1124,6 @@
         "card_index":"065",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"124",
-        "sprite_index":"32",
         "lang": "EN"
     },
     "hBP01-065_U":
@@ -1382,8 +1133,6 @@
         "card_index":"065",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"125",
-        "sprite_index":"18",
         "lang": "EN"
     },
     "hBP01-066_R":
@@ -1393,8 +1142,6 @@
         "card_index":"066",
         "source_index":"hBP01",
         "rarity":"Rare",
-        "sibling_index":"126",
-        "sprite_index":"8",
         "lang": "EN"
     },
     "hBP01-066_SR":
@@ -1404,8 +1151,6 @@
         "card_index":"066",
         "source_index":"hBP01",
         "rarity":"SuperRare",
-        "sibling_index":"127",
-        "sprite_index":"14",
         "lang": "EN"
     },
     "hBP01-067_RR":
@@ -1415,8 +1160,6 @@
         "card_index":"067",
         "source_index":"hBP01",
         "rarity":"DoubleRare",
-        "sibling_index":"128",
-        "sprite_index":"7",
         "lang": "EN"
     },
     "hBP01-067_SR":
@@ -1426,8 +1169,6 @@
         "card_index":"067",
         "source_index":"hBP01",
         "rarity":"SuperRare",
-        "sibling_index":"129",
-        "sprite_index":"15",
         "lang": "EN"
     },
     "hBP01-067_UR":
@@ -1437,8 +1178,6 @@
         "card_index":"067",
         "source_index":"hBP01",
         "rarity":"UltraRare",
-        "sibling_index":"130",
-        "sprite_index":"7",
         "lang": "EN"
     },
     "hBP01-068_C":
@@ -1448,8 +1187,6 @@
         "card_index":"068",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"131",
-        "sprite_index":"27",
         "lang": "EN"
     },
     "hBP01-069_C":
@@ -1459,8 +1196,6 @@
         "card_index":"069",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"132",
-        "sprite_index":"28",
         "lang": "EN"
     },
     "hBP01-069_S":
@@ -1470,8 +1205,6 @@
         "card_index":"069",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"133",
-        "sprite_index":"33",
         "lang": "EN"
     },
     "hBP01-070_S":
@@ -1481,8 +1214,6 @@
         "card_index":"070",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"134",
-        "sprite_index":"34",
         "lang": "EN"
     },
     "hBP01-070_U":
@@ -1492,8 +1223,6 @@
         "card_index":"070",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"135",
-        "sprite_index":"19",
         "lang": "EN"
     },
     "hBP01-071_RR":
@@ -1503,8 +1232,6 @@
         "card_index":"071",
         "source_index":"hBP01",
         "rarity":"DoubleRare",
-        "sibling_index":"136",
-        "sprite_index":"8",
         "lang": "EN"
     },
     "hBP01-071_SR":
@@ -1514,8 +1241,6 @@
         "card_index":"071",
         "source_index":"hBP01",
         "rarity":"SuperRare",
-        "sibling_index":"137",
-        "sprite_index":"16",
         "lang": "EN"
     },
     "hBP01-071_UR":
@@ -1525,8 +1250,6 @@
         "card_index":"071",
         "source_index":"hBP01",
         "rarity":"UltraRare",
-        "sibling_index":"138",
-        "sprite_index":"8",
         "lang": "EN"
     },
     "hBP01-072_C":
@@ -1536,8 +1259,6 @@
         "card_index":"072",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"139",
-        "sprite_index":"29",
         "lang": "EN"
     },
     "hBP01-073_C":
@@ -1547,8 +1268,6 @@
         "card_index":"073",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"140",
-        "sprite_index":"30",
         "lang": "EN"
     },
     "hBP01-073_S":
@@ -1558,8 +1277,6 @@
         "card_index":"073",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"141",
-        "sprite_index":"35",
         "lang": "EN"
     },
     "hBP01-074_S":
@@ -1569,8 +1286,6 @@
         "card_index":"074",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"142",
-        "sprite_index":"36",
         "lang": "EN"
     },
     "hBP01-074_U":
@@ -1580,8 +1295,6 @@
         "card_index":"074",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"143",
-        "sprite_index":"20",
         "lang": "EN"
     },
     "hBP01-075_R":
@@ -1591,8 +1304,6 @@
         "card_index":"075",
         "source_index":"hBP01",
         "rarity":"Rare",
-        "sibling_index":"144",
-        "sprite_index":"9",
         "lang": "EN"
     },
     "hBP01-075_SR":
@@ -1602,8 +1313,6 @@
         "card_index":"075",
         "source_index":"hBP01",
         "rarity":"SuperRare",
-        "sibling_index":"145",
-        "sprite_index":"17",
         "lang": "EN"
     },
     "hBP01-076_C":
@@ -1613,8 +1322,6 @@
         "card_index":"076",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"146",
-        "sprite_index":"31",
         "lang": "EN"
     },
     "hBP01-077_S":
@@ -1624,8 +1331,6 @@
         "card_index":"077",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"147",
-        "sprite_index":"37",
         "lang": "EN"
     },
     "hBP01-077_U":
@@ -1635,8 +1340,6 @@
         "card_index":"077",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"148",
-        "sprite_index":"21",
         "lang": "EN"
     },
     "hBP01-078_C":
@@ -1646,8 +1349,6 @@
         "card_index":"078",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"149",
-        "sprite_index":"32",
         "lang": "EN"
     },
     "hBP01-078_S":
@@ -1657,8 +1358,6 @@
         "card_index":"078",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"150",
-        "sprite_index":"38",
         "lang": "EN"
     },
     "hBP01-079_S":
@@ -1668,8 +1367,6 @@
         "card_index":"079",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"151",
-        "sprite_index":"39",
         "lang": "EN"
     },
     "hBP01-079_U":
@@ -1679,8 +1376,6 @@
         "card_index":"079",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"152",
-        "sprite_index":"22",
         "lang": "EN"
     },
     "hBP01-080_R":
@@ -1690,8 +1385,6 @@
         "card_index":"080",
         "source_index":"hBP01",
         "rarity":"Rare",
-        "sibling_index":"153",
-        "sprite_index":"10",
         "lang": "EN"
     },
     "hBP01-080_SR":
@@ -1701,8 +1394,6 @@
         "card_index":"080",
         "source_index":"hBP01",
         "rarity":"SuperRare",
-        "sibling_index":"154",
-        "sprite_index":"18",
         "lang": "EN"
     },
     "hBP01-081_RR":
@@ -1712,8 +1403,6 @@
         "card_index":"081",
         "source_index":"hBP01",
         "rarity":"DoubleRare",
-        "sibling_index":"155",
-        "sprite_index":"9",
         "lang": "EN"
     },
     "hBP01-081_SR":
@@ -1723,8 +1412,6 @@
         "card_index":"081",
         "source_index":"hBP01",
         "rarity":"SuperRare",
-        "sibling_index":"156",
-        "sprite_index":"19",
         "lang": "EN"
     },
     "hBP01-081_UR":
@@ -1734,8 +1421,6 @@
         "card_index":"081",
         "source_index":"hBP01",
         "rarity":"UltraRare",
-        "sibling_index":"157",
-        "sprite_index":"9",
         "lang": "EN"
     },
     "hBP01-082_C":
@@ -1745,8 +1430,6 @@
         "card_index":"082",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"158",
-        "sprite_index":"33",
         "lang": "EN"
     },
     "hBP01-083_S":
@@ -1756,8 +1439,6 @@
         "card_index":"083",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"159",
-        "sprite_index":"40",
         "lang": "EN"
     },
     "hBP01-083_U":
@@ -1767,8 +1448,6 @@
         "card_index":"083",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"160",
-        "sprite_index":"23",
         "lang": "EN"
     },
     "hBP01-084_C":
@@ -1778,8 +1457,6 @@
         "card_index":"084",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"161",
-        "sprite_index":"34",
         "lang": "EN"
     },
     "hBP01-084_S":
@@ -1789,8 +1466,6 @@
         "card_index":"084",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"162",
-        "sprite_index":"41",
         "lang": "EN"
     },
     "hBP01-085_C":
@@ -1800,8 +1475,6 @@
         "card_index":"085",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"163",
-        "sprite_index":"35",
         "lang": "EN"
     },
     "hBP01-085_S":
@@ -1811,8 +1484,6 @@
         "card_index":"085",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"164",
-        "sprite_index":"42",
         "lang": "EN"
     },
     "hBP01-086_S":
@@ -1822,8 +1493,6 @@
         "card_index":"086",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"165",
-        "sprite_index":"43",
         "lang": "EN"
     },
     "hBP01-086_U":
@@ -1833,8 +1502,6 @@
         "card_index":"086",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"166",
-        "sprite_index":"24",
         "lang": "EN"
     },
     "hBP01-087_R":
@@ -1844,8 +1511,6 @@
         "card_index":"087",
         "source_index":"hBP01",
         "rarity":"Rare",
-        "sibling_index":"167",
-        "sprite_index":"11",
         "lang": "EN"
     },
     "hBP01-087_SR":
@@ -1855,8 +1520,6 @@
         "card_index":"087",
         "source_index":"hBP01",
         "rarity":"SuperRare",
-        "sibling_index":"168",
-        "sprite_index":"20",
         "lang": "EN"
     },
     "hBP01-088_C":
@@ -1866,8 +1529,6 @@
         "card_index":"088",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"169",
-        "sprite_index":"36",
         "lang": "EN"
     },
     "hBP01-089_C":
@@ -1877,8 +1538,6 @@
         "card_index":"089",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"170",
-        "sprite_index":"37",
         "lang": "EN"
     },
     "hBP01-089_S":
@@ -1888,8 +1547,6 @@
         "card_index":"089",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"171",
-        "sprite_index":"44",
         "lang": "EN"
     },
     "hBP01-090_S":
@@ -1899,8 +1556,6 @@
         "card_index":"090",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"172",
-        "sprite_index":"45",
         "lang": "EN"
     },
     "hBP01-090_U":
@@ -1910,8 +1565,6 @@
         "card_index":"090",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"173",
-        "sprite_index":"25",
         "lang": "EN"
     },
     "hBP01-091_RR":
@@ -1921,8 +1574,6 @@
         "card_index":"091",
         "source_index":"hBP01",
         "rarity":"DoubleRare",
-        "sibling_index":"174",
-        "sprite_index":"10",
         "lang": "EN"
     },
     "hBP01-091_SR":
@@ -1932,8 +1583,6 @@
         "card_index":"091",
         "source_index":"hBP01",
         "rarity":"SuperRare",
-        "sibling_index":"175",
-        "sprite_index":"21",
         "lang": "EN"
     },
     "hBP01-091_UR":
@@ -1943,8 +1592,6 @@
         "card_index":"091",
         "source_index":"hBP01",
         "rarity":"UltraRare",
-        "sibling_index":"176",
-        "sprite_index":"10",
         "lang": "EN"
     },
     "hBP01-092_C":
@@ -1954,8 +1601,6 @@
         "card_index":"092",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"177",
-        "sprite_index":"38",
         "lang": "EN"
     },
     "hBP01-093_C":
@@ -1965,8 +1610,6 @@
         "card_index":"093",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"178",
-        "sprite_index":"39",
         "lang": "EN"
     },
     "hBP01-093_S":
@@ -1976,8 +1619,6 @@
         "card_index":"093",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"179",
-        "sprite_index":"46",
         "lang": "EN"
     },
     "hBP01-094_S":
@@ -1987,8 +1628,6 @@
         "card_index":"094",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"180",
-        "sprite_index":"47",
         "lang": "EN"
     },
     "hBP01-094_U":
@@ -1998,8 +1637,6 @@
         "card_index":"094",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"181",
-        "sprite_index":"26",
         "lang": "EN"
     },
     "hBP01-095_R":
@@ -2009,8 +1646,6 @@
         "card_index":"095",
         "source_index":"hBP01",
         "rarity":"Rare",
-        "sibling_index":"182",
-        "sprite_index":"12",
         "lang": "EN"
     },
     "hBP01-095_SR":
@@ -2020,8 +1655,6 @@
         "card_index":"095",
         "source_index":"hBP01",
         "rarity":"SuperRare",
-        "sibling_index":"183",
-        "sprite_index":"22",
         "lang": "EN"
     },
     "hBP01-096_R":
@@ -2031,8 +1664,6 @@
         "card_index":"096",
         "source_index":"hBP01",
         "rarity":"Rare",
-        "sibling_index":"184",
-        "sprite_index":"13",
         "lang": "EN"
     },
     "hBP01-096_SR":
@@ -2042,8 +1673,6 @@
         "card_index":"096",
         "source_index":"hBP01",
         "rarity":"SuperRare",
-        "sibling_index":"185",
-        "sprite_index":"23",
         "lang": "EN"
     },
     "hBP01-097_R":
@@ -2053,8 +1682,6 @@
         "card_index":"097",
         "source_index":"hBP01",
         "rarity":"Rare",
-        "sibling_index":"186",
-        "sprite_index":"14",
         "lang": "EN"
     },
     "hBP01-097_SR":
@@ -2064,8 +1691,6 @@
         "card_index":"097",
         "source_index":"hBP01",
         "rarity":"SuperRare",
-        "sibling_index":"187",
-        "sprite_index":"24",
         "lang": "EN"
     },
     "hBP01-098_R":
@@ -2075,8 +1700,6 @@
         "card_index":"098",
         "source_index":"hBP01",
         "rarity":"Rare",
-        "sibling_index":"188",
-        "sprite_index":"15",
         "lang": "EN"
     },
     "hBP01-098_SR":
@@ -2086,8 +1709,6 @@
         "card_index":"098",
         "source_index":"hBP01",
         "rarity":"SuperRare",
-        "sibling_index":"189",
-        "sprite_index":"25",
         "lang": "EN"
     },
     "hBP01-099_R":
@@ -2097,8 +1718,6 @@
         "card_index":"099",
         "source_index":"hBP01",
         "rarity":"Rare",
-        "sibling_index":"190",
-        "sprite_index":"16",
         "lang": "EN"
     },
     "hBP01-099_SR":
@@ -2108,8 +1727,6 @@
         "card_index":"099",
         "source_index":"hBP01",
         "rarity":"SuperRare",
-        "sibling_index":"191",
-        "sprite_index":"26",
         "lang": "EN"
     },
     "hBP01-100_C":
@@ -2119,8 +1736,6 @@
         "card_index":"100",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"192",
-        "sprite_index":"40",
         "lang": "EN"
     },
     "hBP01-100_S":
@@ -2130,8 +1745,6 @@
         "card_index":"100",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"193",
-        "sprite_index":"48",
         "lang": "EN"
     },
     "hBP01-101_C":
@@ -2141,8 +1754,6 @@
         "card_index":"101",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"194",
-        "sprite_index":"41",
         "lang": "EN"
     },
     "hBP01-101_S":
@@ -2152,8 +1763,6 @@
         "card_index":"101",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"195",
-        "sprite_index":"49",
         "lang": "EN"
     },
     "hBP01-102_S":
@@ -2163,8 +1772,6 @@
         "card_index":"102",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"196",
-        "sprite_index":"50",
         "lang": "EN"
     },
     "hBP01-102_U":
@@ -2174,8 +1781,6 @@
         "card_index":"102",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"197",
-        "sprite_index":"27",
         "lang": "EN"
     },
     "hBP01-103_S":
@@ -2185,8 +1790,6 @@
         "card_index":"103",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"198",
-        "sprite_index":"51",
         "lang": "EN"
     },
     "hBP01-103_U":
@@ -2196,8 +1799,6 @@
         "card_index":"103",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"199",
-        "sprite_index":"28",
         "lang": "EN"
     },
     "hBP01-104_C":
@@ -2207,8 +1808,6 @@
         "card_index":"104",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"200",
-        "sprite_index":"42",
         "lang": "EN"
     },
     "hBP01-104_S":
@@ -2218,8 +1817,6 @@
         "card_index":"104",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"201",
-        "sprite_index":"52",
         "lang": "EN"
     },
     "hBP01-105_S":
@@ -2229,8 +1826,6 @@
         "card_index":"105",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"202",
-        "sprite_index":"53",
         "lang": "EN"
     },
     "hBP01-105_U":
@@ -2240,8 +1835,6 @@
         "card_index":"105",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"203",
-        "sprite_index":"29",
         "lang": "EN"
     },
     "hBP01-106_S":
@@ -2251,8 +1844,6 @@
         "card_index":"106",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"204",
-        "sprite_index":"54",
         "lang": "EN"
     },
     "hBP01-106_U":
@@ -2262,8 +1853,6 @@
         "card_index":"106",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"205",
-        "sprite_index":"30",
         "lang": "EN"
     },
     "hBP01-107_C":
@@ -2273,8 +1862,6 @@
         "card_index":"107",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"206",
-        "sprite_index":"43",
         "lang": "EN"
     },
     "hBP01-107_S":
@@ -2284,8 +1871,6 @@
         "card_index":"107",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"207",
-        "sprite_index":"55",
         "lang": "EN"
     },
     "hBP01-108_S":
@@ -2295,8 +1880,6 @@
         "card_index":"108",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"208",
-        "sprite_index":"56",
         "lang": "EN"
     },
     "hBP01-108_U":
@@ -2306,8 +1889,6 @@
         "card_index":"108",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"209",
-        "sprite_index":"31",
         "lang": "EN"
     },
     "hBP01-109_S":
@@ -2317,8 +1898,6 @@
         "card_index":"109",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"210",
-        "sprite_index":"57",
         "lang": "EN"
     },
     "hBP01-109_U":
@@ -2328,8 +1907,6 @@
         "card_index":"109",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"211",
-        "sprite_index":"32",
         "lang": "EN"
     },
     "hBP01-110_S":
@@ -2339,8 +1916,6 @@
         "card_index":"110",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"212",
-        "sprite_index":"58",
         "lang": "EN"
     },
     "hBP01-110_U":
@@ -2350,8 +1925,6 @@
         "card_index":"110",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"213",
-        "sprite_index":"33",
         "lang": "EN"
     },
     "hBP01-111_S":
@@ -2361,8 +1934,7 @@
         "card_index":"111",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"214",
-        "sprite_index":"59",
+        
         "lang": "EN"
     },
     "hBP01-111_U":
@@ -2372,8 +1944,6 @@
         "card_index":"111",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"215",
-        "sprite_index":"34",
         "lang": "EN"
     },
     "hBP01-112_S":
@@ -2383,8 +1953,6 @@
         "card_index":"112",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"216",
-        "sprite_index":"60",
         "lang": "EN"
     },
     "hBP01-112_U":
@@ -2394,8 +1962,6 @@
         "card_index":"112",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"217",
-        "sprite_index":"35",
         "lang": "EN"
     },
     "hBP01-113_S":
@@ -2405,8 +1971,6 @@
         "card_index":"113",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"218",
-        "sprite_index":"61",
         "lang": "EN"
     },
     "hBP01-113_U":
@@ -2416,8 +1980,6 @@
         "card_index":"113",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"219",
-        "sprite_index":"36",
         "lang": "EN"
     },
     "hBP01-114_C":
@@ -2427,8 +1989,6 @@
         "card_index":"114",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"220",
-        "sprite_index":"44",
         "lang": "EN"
     },
     "hBP01-114_S":
@@ -2438,8 +1998,6 @@
         "card_index":"114",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"221",
-        "sprite_index":"62",
         "lang": "EN"
     },
     "hBP01-115_S":
@@ -2449,8 +2007,6 @@
         "card_index":"115",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"222",
-        "sprite_index":"63",
         "lang": "EN"
     },
     "hBP01-115_U":
@@ -2460,8 +2016,6 @@
         "card_index":"115",
         "source_index":"hBP01",
         "rarity":"Uncommon",
-        "sibling_index":"223",
-        "sprite_index":"37",
         "lang": "EN"
     },
     "hBP01-116_C":
@@ -2471,8 +2025,6 @@
         "card_index":"116",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"224",
-        "sprite_index":"45",
         "lang": "EN"
     },
     "hBP01-116_S":
@@ -2482,8 +2034,6 @@
         "card_index":"116",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"225",
-        "sprite_index":"64",
         "lang": "EN"
     },
     "hBP01-117_C":
@@ -2493,8 +2043,6 @@
         "card_index":"117",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"226",
-        "sprite_index":"46",
         "lang": "EN"
     },
     "hBP01-117_S":
@@ -2504,8 +2052,6 @@
         "card_index":"117",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"227",
-        "sprite_index":"65",
         "lang": "EN"
     },
     "hBP01-118_C":
@@ -2515,8 +2061,6 @@
         "card_index":"118",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"228",
-        "sprite_index":"47",
         "lang": "EN"
     },
     "hBP01-118_S":
@@ -2526,8 +2070,6 @@
         "card_index":"118",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"229",
-        "sprite_index":"66",
         "lang": "EN"
     },
     "hBP01-119_C":
@@ -2537,8 +2079,6 @@
         "card_index":"119",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"230",
-        "sprite_index":"48",
         "lang": "EN"
     },
     "hBP01-119_S":
@@ -2548,8 +2088,6 @@
         "card_index":"119",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"231",
-        "sprite_index":"67",
         "lang": "EN"
     },
     "hBP01-120_C":
@@ -2559,8 +2097,6 @@
         "card_index":"120",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"232",
-        "sprite_index":"49",
         "lang": "EN"
     },
     "hBP01-120_S":
@@ -2570,8 +2106,6 @@
         "card_index":"120",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"233",
-        "sprite_index":"68",
         "lang": "EN"
     },
     "hBP01-121_C":
@@ -2581,8 +2115,6 @@
         "card_index":"121",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"234",
-        "sprite_index":"50",
         "lang": "EN"
     },
     "hBP01-121_S":
@@ -2592,8 +2124,6 @@
         "card_index":"121",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"235",
-        "sprite_index":"69",
         "lang": "EN"
     },
     "hBP01-122_C":
@@ -2603,8 +2133,6 @@
         "card_index":"122",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"236",
-        "sprite_index":"51",
         "lang": "EN"
     },
     "hBP01-122_S":
@@ -2614,8 +2142,6 @@
         "card_index":"122",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"237",
-        "sprite_index":"70",
         "lang": "EN"
     },
     "hBP01-123_C":
@@ -2625,8 +2151,6 @@
         "card_index":"123",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"238",
-        "sprite_index":"52",
         "lang": "EN"
     },
     "hBP01-123_S":
@@ -2636,8 +2160,6 @@
         "card_index":"123",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"239",
-        "sprite_index":"71",
         "lang": "EN"
     },
     "hBP01-124_C":
@@ -2647,8 +2169,6 @@
         "card_index":"124",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"240",
-        "sprite_index":"53",
         "lang": "EN"
     },
     "hBP01-124_S":
@@ -2658,8 +2178,6 @@
         "card_index":"124",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"241",
-        "sprite_index":"72",
         "lang": "EN"
     },
     "hBP01-125_C":
@@ -2669,8 +2187,6 @@
         "card_index":"125",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"242",
-        "sprite_index":"54",
         "lang": "EN"
     },
     "hBP01-125_S":
@@ -2680,8 +2196,6 @@
         "card_index":"125",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"243",
-        "sprite_index":"73",
         "lang": "EN"
     },
     "hBP01-126_C":
@@ -2691,8 +2205,6 @@
         "card_index":"126",
         "source_index":"hBP01",
         "rarity":"Common",
-        "sibling_index":"244",
-        "sprite_index":"55",
         "lang": "EN"
     },
     "hBP01-126_S":
@@ -2702,8 +2214,6 @@
         "card_index":"126",
         "source_index":"hBP01",
         "rarity":"Special",
-        "sibling_index":"245",
-        "sprite_index":"74",
         "lang": "EN"
     },
     "hSD01-006_SR":
@@ -2713,8 +2223,6 @@
         "card_index":"006",
         "source_index":"hSD01",
         "rarity":"SuperRare",
-        "sibling_index":"246",
-        "sprite_index":"27",
         "lang": "EN"
     },
     "hSD01-011_SR":
@@ -2724,8 +2232,6 @@
         "card_index":"011",
         "source_index":"hSD01",
         "rarity":"SuperRare",
-        "sibling_index":"247",
-        "sprite_index":"28",
         "lang": "EN"
     },
     "hY01-001_C":
@@ -2735,8 +2241,6 @@
         "card_index":"001",
         "source_index":"hY01",
         "rarity":"Common",
-        "sibling_index":"248",
-        "sprite_index":"56",
         "lang": "EN"
     },
     "hY02-001_C":
@@ -2746,8 +2250,6 @@
         "card_index":"001",
         "source_index":"hY02",
         "rarity":"Common",
-        "sibling_index":"249",
-        "sprite_index":"57",
         "lang": "EN"
     },
     "hY03-001_C":
@@ -2757,8 +2259,6 @@
         "card_index":"001",
         "source_index":"hY03",
         "rarity":"Common",
-        "sibling_index":"250",
-        "sprite_index":"58",
         "lang": "EN"
     },
     "hY04-001_C":
@@ -2768,8 +2268,6 @@
         "card_index":"001",
         "source_index":"hY04",
         "rarity":"Common",
-        "sibling_index":"251",
-        "sprite_index":"59",
         "lang": "EN"
     }
 }
