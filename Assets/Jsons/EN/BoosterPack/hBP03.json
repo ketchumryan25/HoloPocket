@@ -5,7 +5,8 @@
         "source_name":"Elite Spark",
         "card_index":"001",
         "source_index":"hBP03",
-        "rarity":"OshiSpecialRare"
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
     },
     "hBP03-001_OUR":
     {
@@ -13,7 +14,8 @@
         "source_name":"Elite Spark",
         "card_index":"001",
         "source_index":"hBP03",
-        "rarity":"OshiUltraRare"
+        "rarity":"OshiUltraRare",
+        "lang": "EN"
     },
     "hBP03-002_OSR":
     {
@@ -21,7 +23,8 @@
         "source_name":"Elite Spark",
         "card_index":"002",
         "source_index":"hBP03",
-        "rarity":"OshiSpecialRare"
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
     },
     "hBP03-002_OUR":
     {
@@ -29,7 +32,8 @@
         "source_name":"Elite Spark",
         "card_index":"002",
         "source_index":"hBP03",
-        "rarity":"OshiUltraRare"
+        "rarity":"OshiUltraRare",
+        "lang": "EN"
     },
     "hBP03-002_SEC":
     {
@@ -37,7 +41,8 @@
         "source_name":"Elite Spark",
         "card_index":"002",
         "source_index":"hBP03",
-        "rarity":"Secret"
+        "rarity":"Secret",
+        "lang": "EN"
     },
     "hBP03-003_OSR":
     {
@@ -45,7 +50,8 @@
         "source_name":"Elite Spark",
         "card_index":"003",
         "source_index":"hBP03",
-        "rarity":"OshiSpecialRare"
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
     },
     "hBP03-003_OUR":
     {
@@ -53,7 +59,8 @@
         "source_name":"Elite Spark",
         "card_index":"003",
         "source_index":"hBP03",
-        "rarity":"OshiUltraRare"
+        "rarity":"OshiUltraRare",
+        "lang": "EN"
     },
     "hBP03-003_SEC":
     {
@@ -61,7 +68,8 @@
         "source_name":"Elite Spark",
         "card_index":"003",
         "source_index":"hBP03",
-        "rarity":"Secret"
+        "rarity":"Secret",
+        "lang": "EN"
     },
     "hBP03-004_OSR":
     {
@@ -69,7 +77,8 @@
         "source_name":"Elite Spark",
         "card_index":"004",
         "source_index":"hBP03",
-        "rarity":"OshiSpecialRare"
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
     },
     "hBP03-004_OUR":
     {
@@ -77,7 +86,8 @@
         "source_name":"Elite Spark",
         "card_index":"004",
         "source_index":"hBP03",
-        "rarity":"OshiUltraRare"
+        "rarity":"OshiUltraRare",
+        "lang": "EN"
     },
     "hBP03-005_OSR":
     {
@@ -85,7 +95,8 @@
         "source_name":"Elite Spark",
         "card_index":"005",
         "source_index":"hBP03",
-        "rarity":"OshiSpecialRare"
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
     },
     "hBP03-005_OUR":
     {
@@ -93,7 +104,8 @@
         "source_name":"Elite Spark",
         "card_index":"005",
         "source_index":"hBP03",
-        "rarity":"OshiUltraRare"
+        "rarity":"OshiUltraRare",
+        "lang": "EN"
     },
     "hBP03-005_SEC":
     {
@@ -101,7 +113,8 @@
         "source_name":"Elite Spark",
         "card_index":"005",
         "source_index":"hBP03",
-        "rarity":"Secret"
+        "rarity":"Secret",
+        "lang": "EN"
     },
     "hBP03-006_OSR":
     {
@@ -109,7 +122,8 @@
         "source_name":"Elite Spark",
         "card_index":"006",
         "source_index":"hBP03",
-        "rarity":"OshiSpecialRare"
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
     },
     "hBP03-006_OUR":
     {
@@ -117,7 +131,8 @@
         "source_name":"Elite Spark",
         "card_index":"006",
         "source_index":"hBP03",
-        "rarity":"OshiUltraRare"
+        "rarity":"OshiUltraRare",
+        "lang": "EN"
     },
     "hBP03-007_OSR":
     {
@@ -125,7 +140,8 @@
         "source_name":"Elite Spark",
         "card_index":"007",
         "source_index":"hBP03",
-        "rarity":"OshiSpecialRare"
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
     },
     "hBP03-007_OUR":
     {
@@ -133,7 +149,8 @@
         "source_name":"Elite Spark",
         "card_index":"007",
         "source_index":"hBP03",
-        "rarity":"OshiUltraRare"
+        "rarity":"OshiUltraRare",
+        "lang": "EN"
     },
     "hBP03-007_SEC":
     {
@@ -141,7 +158,8 @@
         "source_name":"Elite Spark",
         "card_index":"007",
         "source_index":"hBP03",
-        "rarity":"Secret"
+        "rarity":"Secret",
+        "lang": "EN"
     },
     "hBP03-008_OSR":
     {
@@ -149,7 +167,8 @@
         "source_name":"Elite Spark",
         "card_index":"008",
         "source_index":"hBP03",
-        "rarity":"OshiSpecialRare"
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
     },
     "hBP03-008_OUR":
     {
@@ -157,7 +176,8 @@
         "source_name":"Elite Spark",
         "card_index":"008",
         "source_index":"hBP03",
-        "rarity":"OshiUltraRare"
+        "rarity":"OshiUltraRare",
+        "lang": "EN"
     },
     "hBP03-009_C":
     {
@@ -165,7 +185,8 @@
         "source_name":"Elite Spark",
         "card_index":"009",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-010_S":
     {
@@ -173,7 +194,8 @@
         "source_name":"Elite Spark",
         "card_index":"010",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-010_U":
     {
@@ -181,7 +203,8 @@
         "source_name":"Elite Spark",
         "card_index":"010",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-011_C":
     {
@@ -189,7 +212,8 @@
         "source_name":"Elite Spark",
         "card_index":"011",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-011_S":
     {
@@ -197,7 +221,8 @@
         "source_name":"Elite Spark",
         "card_index":"011",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-012_S":
     {
@@ -205,7 +230,8 @@
         "source_name":"Elite Spark",
         "card_index":"012",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-012_U":
     {
@@ -213,7 +239,8 @@
         "source_name":"Elite Spark",
         "card_index":"012",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-013_R":
     {
@@ -221,7 +248,8 @@
         "source_name":"Elite Spark",
         "card_index":"013",
         "source_index":"hBP03",
-        "rarity":"Rare"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-013_SR":
     {
@@ -229,7 +257,8 @@
         "source_name":"Elite Spark",
         "card_index":"013",
         "source_index":"hBP03",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-014_RR":
     {
@@ -237,7 +266,8 @@
         "source_name":"Elite Spark",
         "card_index":"014",
         "source_index":"hBP03",
-        "rarity":"DoubleRare"
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP03-014_SR":
     {
@@ -245,7 +275,8 @@
         "source_name":"Elite Spark",
         "card_index":"014",
         "source_index":"hBP03",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-014_UR":
     {
@@ -253,7 +284,8 @@
         "source_name":"Elite Spark",
         "card_index":"014",
         "source_index":"hBP03",
-        "rarity":"UltraRare"
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP03-015_RR":
     {
@@ -261,7 +293,8 @@
         "source_name":"Elite Spark",
         "card_index":"015",
         "source_index":"hBP03",
-        "rarity":"DoubleRare"
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP03-015_SR":
     {
@@ -269,7 +302,8 @@
         "source_name":"Elite Spark",
         "card_index":"015",
         "source_index":"hBP03",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-015_UR":
     {
@@ -277,7 +311,8 @@
         "source_name":"Elite Spark",
         "card_index":"015",
         "source_index":"hBP03",
-        "rarity":"UltraRare"
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP03-016_C":
     {
@@ -285,7 +320,8 @@
         "source_name":"Elite Spark",
         "card_index":"016",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-017_U":
     {
@@ -293,7 +329,8 @@
         "source_name":"Elite Spark",
         "card_index":"017",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-017_S":
     {
@@ -301,7 +338,8 @@
         "source_name":"Elite Spark",
         "card_index":"017",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-018_C":
     {
@@ -309,7 +347,8 @@
         "source_name":"Elite Spark",
         "card_index":"018",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-018_S":
     {
@@ -317,7 +356,8 @@
         "source_name":"Elite Spark",
         "card_index":"018",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-019_S":
     {
@@ -325,7 +365,8 @@
         "source_name":"Elite Spark",
         "card_index":"019",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-019_U":
     {
@@ -333,7 +374,8 @@
         "source_name":"Elite Spark",
         "card_index":"019",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-020_R":
     {
@@ -341,7 +383,8 @@
         "source_name":"Elite Spark",
         "card_index":"020",
         "source_index":"hBP03",
-        "rarity":"Rare"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-020_SR":
     {
@@ -349,7 +392,8 @@
         "source_name":"Elite Spark",
         "card_index":"020",
         "source_index":"hBP03",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-021_RR":
     {
@@ -357,7 +401,8 @@
         "source_name":"Elite Spark",
         "card_index":"021",
         "source_index":"hBP03",
-        "rarity":"DoubleRare"
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP03-021_SR":
     {
@@ -365,7 +410,8 @@
         "source_name":"Elite Spark",
         "card_index":"021",
         "source_index":"hBP03",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-021_UR":
     {
@@ -373,7 +419,8 @@
         "source_name":"Elite Spark",
         "card_index":"021",
         "source_index":"hBP03",
-        "rarity":"UltraRare"
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP03-022_R":
     {
@@ -381,7 +428,8 @@
         "source_name":"Elite Spark",
         "card_index":"022",
         "source_index":"hBP03",
-        "rarity":"Rare"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-022_SR":
     {
@@ -389,7 +437,8 @@
         "source_name":"Elite Spark",
         "card_index":"022",
         "source_index":"hBP03",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-023_R":
     {
@@ -397,7 +446,8 @@
         "source_name":"Elite Spark",
         "card_index":"023",
         "source_index":"hBP03",
-        "rarity":"Rare"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-023_SR":
     {
@@ -405,7 +455,8 @@
         "source_name":"Elite Spark",
         "card_index":"023",
         "source_index":"hBP03",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-024_RR":
     {
@@ -413,7 +464,8 @@
         "source_name":"Elite Spark",
         "card_index":"024",
         "source_index":"hBP03",
-        "rarity":"DoubleRare"
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP03-024_SR":
     {
@@ -421,7 +473,8 @@
         "source_name":"Elite Spark",
         "card_index":"024",
         "source_index":"hBP03",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-024_UR":
     {
@@ -429,7 +482,8 @@
         "source_name":"Elite Spark",
         "card_index":"024",
         "source_index":"hBP03",
-        "rarity":"UltraRare"
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP03-025_C":
     {
@@ -437,7 +491,8 @@
         "source_name":"Elite Spark",
         "card_index":"025",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-026_S":
     {
@@ -445,7 +500,8 @@
         "source_name":"Elite Spark",
         "card_index":"026",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-026_U":
     {
@@ -453,7 +509,8 @@
         "source_name":"Elite Spark",
         "card_index":"026",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-027_C":
     {
@@ -461,7 +518,8 @@
         "source_name":"Elite Spark",
         "card_index":"027",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-027_S":
     {
@@ -469,7 +527,8 @@
         "source_name":"Elite Spark",
         "card_index":"027",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-028_S":
     {
@@ -477,7 +536,8 @@
         "source_name":"Elite Spark",
         "card_index":"028",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-028_U":
     {
@@ -485,7 +545,8 @@
         "source_name":"Elite Spark",
         "card_index":"028",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-029_R":
     {
@@ -493,7 +554,8 @@
         "source_name":"Elite Spark",
         "card_index":"029",
         "source_index":"hBP03",
-        "rarity":"Rare"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-029_SR":
     {
@@ -501,7 +563,8 @@
         "source_name":"Elite Spark",
         "card_index":"029",
         "source_index":"hBP03",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-030_RR":
     {
@@ -509,7 +572,8 @@
         "source_name":"Elite Spark",
         "card_index":"030",
         "source_index":"hBP03",
-        "rarity":"DoubleRare"
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP03-030_SR":
     {
@@ -517,7 +581,8 @@
         "source_name":"Elite Spark",
         "card_index":"030",
         "source_index":"hBP03",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-030_UR":
     {
@@ -525,7 +590,8 @@
         "source_name":"Elite Spark",
         "card_index":"030",
         "source_index":"hBP03",
-        "rarity":"UltraRare"
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP03-031_C":
     {
@@ -533,7 +599,8 @@
         "source_name":"Elite Spark",
         "card_index":"031",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-032_C":
     {
@@ -541,7 +608,8 @@
         "source_name":"Elite Spark",
         "card_index":"032",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-032_S":
     {
@@ -549,7 +617,8 @@
         "source_name":"Elite Spark",
         "card_index":"032",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-033_S":
     {
@@ -557,7 +626,8 @@
         "source_name":"Elite Spark",
         "card_index":"033",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-033_U":
     {
@@ -565,7 +635,8 @@
         "source_name":"Elite Spark",
         "card_index":"033",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-034_RR":
     {
@@ -573,7 +644,8 @@
         "source_name":"Elite Spark",
         "card_index":"034",
         "source_index":"hBP03",
-        "rarity":"DoubleRare"
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP03-034_SR":
     {
@@ -581,7 +653,8 @@
         "source_name":"Elite Spark",
         "card_index":"034",
         "source_index":"hBP03",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-034_UR":
     {
@@ -589,7 +662,8 @@
         "source_name":"Elite Spark",
         "card_index":"034",
         "source_index":"hBP03",
-        "rarity":"UltraRare"
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP03-035_R":
     {
@@ -597,7 +671,8 @@
         "source_name":"Elite Spark",
         "card_index":"035",
         "source_index":"hBP03",
-        "rarity":"Rare"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-035_SR":
     {
@@ -605,7 +680,8 @@
         "source_name":"Elite Spark",
         "card_index":"035",
         "source_index":"hBP03",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-036_R":
     {
@@ -613,7 +689,8 @@
         "source_name":"Elite Spark",
         "card_index":"036",
         "source_index":"hBP03",
-        "rarity":"Rare"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-036_SR":
     {
@@ -621,7 +698,8 @@
         "source_name":"Elite Spark",
         "card_index":"036",
         "source_index":"hBP03",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-037_C":
     {
@@ -629,7 +707,8 @@
         "source_name":"Elite Spark",
         "card_index":"037",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-038_C":
     {
@@ -637,7 +716,8 @@
         "source_name":"Elite Spark",
         "card_index":"038",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-038_S":
     {
@@ -645,7 +725,8 @@
         "source_name":"Elite Spark",
         "card_index":"038",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-039_R":
     {
@@ -653,7 +734,8 @@
         "source_name":"Elite Spark",
         "card_index":"039",
         "source_index":"hBP03",
-        "rarity":"Rare"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-039_SR":
     {
@@ -661,7 +743,8 @@
         "source_name":"Elite Spark",
         "card_index":"039",
         "source_index":"hBP03",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-040_C":
     {
@@ -669,7 +752,8 @@
         "source_name":"Elite Spark",
         "card_index":"040",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-041_C":
     {
@@ -677,7 +761,8 @@
         "source_name":"Elite Spark",
         "card_index":"041",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-041_S":
     {
@@ -685,7 +770,8 @@
         "source_name":"Elite Spark",
         "card_index":"041",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-042_S":
     {
@@ -693,7 +779,8 @@
         "source_name":"Elite Spark",
         "card_index":"042",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-042_U":
     {
@@ -701,7 +788,8 @@
         "source_name":"Elite Spark",
         "card_index":"042",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-043_RR":
     {
@@ -709,7 +797,8 @@
         "source_name":"Elite Spark",
         "card_index":"043",
         "source_index":"hBP03",
-        "rarity":"DoubleRare"
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP03-043_SR":
     {
@@ -717,7 +806,8 @@
         "source_name":"Elite Spark",
         "card_index":"043",
         "source_index":"hBP03",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-043_UR":
     {
@@ -725,7 +815,8 @@
         "source_name":"Elite Spark",
         "card_index":"043",
         "source_index":"hBP03",
-        "rarity":"UltraRare"
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP03-044_R":
     {
@@ -733,7 +824,8 @@
         "source_name":"Elite Spark",
         "card_index":"044",
         "source_index":"hBP03",
-        "rarity":"Rare"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-044_SR":
     {
@@ -741,7 +833,8 @@
         "source_name":"Elite Spark",
         "card_index":"044",
         "source_index":"hBP03",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-045_R":
     {
@@ -749,7 +842,8 @@
         "source_name":"Elite Spark",
         "card_index":"045",
         "source_index":"hBP03",
-        "rarity":"Rare"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-045_SR":
     {
@@ -757,7 +851,8 @@
         "source_name":"Elite Spark",
         "card_index":"045",
         "source_index":"hBP03",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-046_C":
     {
@@ -765,7 +860,8 @@
         "source_name":"Elite Spark",
         "card_index":"046",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-047_C":
     {
@@ -773,7 +869,8 @@
         "source_name":"Elite Spark",
         "card_index":"047",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-047_S":
     {
@@ -781,7 +878,8 @@
         "source_name":"Elite Spark",
         "card_index":"047",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-048_S":
     {
@@ -789,7 +887,8 @@
         "source_name":"Elite Spark",
         "card_index":"048",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-048_U":
     {
@@ -797,7 +896,8 @@
         "source_name":"Elite Spark",
         "card_index":"048",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-049_R":
     {
@@ -805,7 +905,8 @@
         "source_name":"Elite Spark",
         "card_index":"049",
         "source_index":"hBP03",
-        "rarity":"Rare"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-049_SR":
     {
@@ -813,7 +914,8 @@
         "source_name":"Elite Spark",
         "card_index":"049",
         "source_index":"hBP03",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-050_R":
     {
@@ -821,7 +923,8 @@
         "source_name":"Elite Spark",
         "card_index":"050",
         "source_index":"hBP03",
-        "rarity":"Rare"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-050_SR":
     {
@@ -829,7 +932,8 @@
         "source_name":"Elite Spark",
         "card_index":"050",
         "source_index":"hBP03",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-051_C":
     {
@@ -837,7 +941,8 @@
         "source_name":"Elite Spark",
         "card_index":"051",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-052_S":
     {
@@ -845,7 +950,8 @@
         "source_name":"Elite Spark",
         "card_index":"052",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-052_U":
     {
@@ -853,7 +959,8 @@
         "source_name":"Elite Spark",
         "card_index":"052",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-053_C":
     {
@@ -861,7 +968,8 @@
         "source_name":"Elite Spark",
         "card_index":"053",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-053_S":
     {
@@ -869,7 +977,8 @@
         "source_name":"Elite Spark",
         "card_index":"053",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-054_U":
     {
@@ -877,7 +986,8 @@
         "source_name":"Elite Spark",
         "card_index":"054",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-054_S":
     {
@@ -885,7 +995,8 @@
         "source_name":"Elite Spark",
         "card_index":"054",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-055_R":
     {
@@ -893,7 +1004,8 @@
         "source_name":"Elite Spark",
         "card_index":"055",
         "source_index":"hBP03",
-        "rarity":"Rare"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-055_SR":
     {
@@ -901,7 +1013,8 @@
         "source_name":"Elite Spark",
         "card_index":"055",
         "source_index":"hBP03",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-056_RR":
     {
@@ -909,7 +1022,8 @@
         "source_name":"Elite Spark",
         "card_index":"056",
         "source_index":"hBP03",
-        "rarity":"DoubleRare"
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP03-056_SR":
     {
@@ -917,7 +1031,8 @@
         "source_name":"Elite Spark",
         "card_index":"056",
         "source_index":"hBP03",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-056_UR":
     {
@@ -925,7 +1040,8 @@
         "source_name":"Elite Spark",
         "card_index":"056",
         "source_index":"hBP03",
-        "rarity":"UltraRare"
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP03-057_C":
     {
@@ -933,7 +1049,8 @@
         "source_name":"Elite Spark",
         "card_index":"057",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-058_C":
     {
@@ -941,7 +1058,8 @@
         "source_name":"Elite Spark",
         "card_index":"058",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-058_S":
     {
@@ -949,7 +1067,8 @@
         "source_name":"Elite Spark",
         "card_index":"058",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-059_U":
     {
@@ -957,7 +1076,8 @@
         "source_name":"Elite Spark",
         "card_index":"059",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-059_S":
     {
@@ -965,7 +1085,8 @@
         "source_name":"Elite Spark",
         "card_index":"059",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-060_SR":
     {
@@ -973,7 +1094,8 @@
         "source_name":"Elite Spark",
         "card_index":"060",
         "source_index":"hBP03",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-060_R":
     {
@@ -981,7 +1103,8 @@
         "source_name":"Elite Spark",
         "card_index":"060",
         "source_index":"hBP03",
-        "rarity":"Rare"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-061_C":
     {
@@ -989,7 +1112,8 @@
         "source_name":"Elite Spark",
         "card_index":"061",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-062_S":
     {
@@ -997,7 +1121,8 @@
         "source_name":"Elite Spark",
         "card_index":"062",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-062_U":
     {
@@ -1005,7 +1130,8 @@
         "source_name":"Elite Spark",
         "card_index":"062",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-063_S":
     {
@@ -1013,7 +1139,8 @@
         "source_name":"Elite Spark",
         "card_index":"063",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-063_C":
     {
@@ -1021,7 +1148,8 @@
         "source_name":"Elite Spark",
         "card_index":"063",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-064_U":
     {
@@ -1029,7 +1157,8 @@
         "source_name":"Elite Spark",
         "card_index":"064",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-064_S":
     {
@@ -1037,7 +1166,8 @@
         "source_name":"Elite Spark",
         "card_index":"064",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-065_R":
     {
@@ -1045,7 +1175,8 @@
         "source_name":"Elite Spark",
         "card_index":"065",
         "source_index":"hBP03",
-        "rarity":"Rare"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-065_SR":
     {
@@ -1053,7 +1184,8 @@
         "source_name":"Elite Spark",
         "card_index":"065",
         "source_index":"hBP03",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-066_RR":
     {
@@ -1061,7 +1193,8 @@
         "source_name":"Elite Spark",
         "card_index":"066",
         "source_index":"hBP03",
-        "rarity":"DoubleRare"
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP03-066_SR":
     {
@@ -1069,7 +1202,8 @@
         "source_name":"Elite Spark",
         "card_index":"066",
         "source_index":"hBP03",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-066_UR":
     {
@@ -1077,7 +1211,8 @@
         "source_name":"Elite Spark",
         "card_index":"066",
         "source_index":"hBP03",
-        "rarity":"UltraRare"
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP03-067_C":
     {
@@ -1085,7 +1220,8 @@
         "source_name":"Elite Spark",
         "card_index":"067",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-068_S":
     {
@@ -1093,7 +1229,8 @@
         "source_name":"Elite Spark",
         "card_index":"068",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-068_U":
     {
@@ -1101,7 +1238,8 @@
         "source_name":"Elite Spark",
         "card_index":"068",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-069_C":
     {
@@ -1109,7 +1247,8 @@
         "source_name":"Elite Spark",
         "card_index":"069",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-069_S":
     {
@@ -1117,7 +1256,8 @@
         "source_name":"Elite Spark",
         "card_index":"069",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-070_S":
     {
@@ -1125,7 +1265,8 @@
         "source_name":"Elite Spark",
         "card_index":"070",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-070_U":
     {
@@ -1133,7 +1274,8 @@
         "source_name":"Elite Spark",
         "card_index":"070",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-071_R":
     {
@@ -1141,7 +1283,8 @@
         "source_name":"Elite Spark",
         "card_index":"071",
         "source_index":"hBP03",
-        "rarity":"Rare"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-071_SR":
     {
@@ -1149,7 +1292,8 @@
         "source_name":"Elite Spark",
         "card_index":"071",
         "source_index":"hBP03",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-072_RR":
     {
@@ -1157,7 +1301,8 @@
         "source_name":"Elite Spark",
         "card_index":"072",
         "source_index":"hBP03",
-        "rarity":"DoubleRare"
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP03-072_SR":
     {
@@ -1165,7 +1310,8 @@
         "source_name":"Elite Spark",
         "card_index":"072",
         "source_index":"hBP03",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-072_UR":
     {
@@ -1173,7 +1319,8 @@
         "source_name":"Elite Spark",
         "card_index":"072",
         "source_index":"hBP03",
-        "rarity":"UltraRare"
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP03-073_C":
     {
@@ -1181,7 +1328,8 @@
         "source_name":"Elite Spark",
         "card_index":"073",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-074_S":
     {
@@ -1189,7 +1337,8 @@
         "source_name":"Elite Spark",
         "card_index":"074",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-074_U":
     {
@@ -1197,7 +1346,8 @@
         "source_name":"Elite Spark",
         "card_index":"074",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-075_C":
     {
@@ -1205,7 +1355,8 @@
         "source_name":"Elite Spark",
         "card_index":"075",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-075_S":
     {
@@ -1213,7 +1364,8 @@
         "source_name":"Elite Spark",
         "card_index":"075",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-076_S":
     {
@@ -1221,7 +1373,8 @@
         "source_name":"Elite Spark",
         "card_index":"076",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-076_U":
     {
@@ -1229,7 +1382,8 @@
         "source_name":"Elite Spark",
         "card_index":"076",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-077_R":
     {
@@ -1237,7 +1391,8 @@
         "source_name":"Elite Spark",
         "card_index":"077",
         "source_index":"hBP03",
-        "rarity":"Rare"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-077_SR":
     {
@@ -1245,7 +1400,8 @@
         "source_name":"Elite Spark",
         "card_index":"077",
         "source_index":"hBP03",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-078_RR":
     {
@@ -1253,7 +1409,8 @@
         "source_name":"Elite Spark",
         "card_index":"078",
         "source_index":"hBP03",
-        "rarity":"DoubleRare"
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP03-078_SR":
     {
@@ -1261,7 +1418,8 @@
         "source_name":"Elite Spark",
         "card_index":"078",
         "source_index":"hBP03",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-078_UR":
     {
@@ -1269,7 +1427,8 @@
         "source_name":"Elite Spark",
         "card_index":"078",
         "source_index":"hBP03",
-        "rarity":"UltraRare"
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP03-079_RR":
     {
@@ -1277,7 +1436,8 @@
         "source_name":"Elite Spark",
         "card_index":"079",
         "source_index":"hBP03",
-        "rarity":"DoubleRare"
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP03-079_SR":
     {
@@ -1285,7 +1445,8 @@
         "source_name":"Elite Spark",
         "card_index":"079",
         "source_index":"hBP03",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-079_UR":
     {
@@ -1293,7 +1454,8 @@
         "source_name":"Elite Spark",
         "card_index":"079",
         "source_index":"hBP03",
-        "rarity":"UltraRare"
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP03-080_C":
     {
@@ -1301,7 +1463,8 @@
         "source_name":"Elite Spark",
         "card_index":"080",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-081_S":
     {
@@ -1309,7 +1472,8 @@
         "source_name":"Elite Spark",
         "card_index":"081",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-081_C":
     {
@@ -1317,7 +1481,8 @@
         "source_name":"Elite Spark",
         "card_index":"081",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-082_S":
     {
@@ -1325,7 +1490,8 @@
         "source_name":"Elite Spark",
         "card_index":"082",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-082_U":
     {
@@ -1333,7 +1499,8 @@
         "source_name":"Elite Spark",
         "card_index":"082",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-083_R":
     {
@@ -1341,7 +1508,8 @@
         "source_name":"Elite Spark",
         "card_index":"083",
         "source_index":"hBP03",
-        "rarity":"Rare"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-083_SR":
     {
@@ -1349,7 +1517,8 @@
         "source_name":"Elite Spark",
         "card_index":"083",
         "source_index":"hBP03",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-084_U":
     {
@@ -1357,7 +1526,8 @@
         "source_name":"Elite Spark",
         "card_index":"084",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-084_S":
     {
@@ -1365,7 +1535,8 @@
         "source_name":"Elite Spark",
         "card_index":"084",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-085_U":
     {
@@ -1373,7 +1544,8 @@
         "source_name":"Elite Spark",
         "card_index":"085",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-085_S":
     {
@@ -1381,7 +1553,8 @@
         "source_name":"Elite Spark",
         "card_index":"085",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-086_S":
     {
@@ -1389,7 +1562,8 @@
         "source_name":"Elite Spark",
         "card_index":"086",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-086_C":
     {
@@ -1397,7 +1571,8 @@
         "source_name":"Elite Spark",
         "card_index":"086",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-087_C":
     {
@@ -1405,7 +1580,8 @@
         "source_name":"Elite Spark",
         "card_index":"087",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-087_S":
     {
@@ -1413,7 +1589,8 @@
         "source_name":"Elite Spark",
         "card_index":"087",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-088_S":
     {
@@ -1421,7 +1598,8 @@
         "source_name":"Elite Spark",
         "card_index":"088",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-088_U":
     {
@@ -1429,7 +1607,8 @@
         "source_name":"Elite Spark",
         "card_index":"088",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-089_U":
     {
@@ -1437,7 +1616,8 @@
         "source_name":"Elite Spark",
         "card_index":"089",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-089_S":
     {
@@ -1445,7 +1625,8 @@
         "source_name":"Elite Spark",
         "card_index":"089",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-090_S":
     {
@@ -1453,7 +1634,8 @@
         "source_name":"Elite Spark",
         "card_index":"090",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-090_U":
     {
@@ -1461,7 +1643,8 @@
         "source_name":"Elite Spark",
         "card_index":"090",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-091_S":
     {
@@ -1469,7 +1652,8 @@
         "source_name":"Elite Spark",
         "card_index":"091",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-091_U":
     {
@@ -1477,7 +1661,8 @@
         "source_name":"Elite Spark",
         "card_index":"091",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-092_S":
     {
@@ -1485,7 +1670,8 @@
         "source_name":"Elite Spark",
         "card_index":"092",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-092_U":
     {
@@ -1493,7 +1679,8 @@
         "source_name":"Elite Spark",
         "card_index":"092",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-093_U":
     {
@@ -1501,7 +1688,8 @@
         "source_name":"Elite Spark",
         "card_index":"093",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-093_S":
     {
@@ -1509,7 +1697,8 @@
         "source_name":"Elite Spark",
         "card_index":"093",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-094_S":
     {
@@ -1517,7 +1706,8 @@
         "source_name":"Elite Spark",
         "card_index":"094",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-094_U":
     {
@@ -1525,7 +1715,8 @@
         "source_name":"Elite Spark",
         "card_index":"094",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-095_C":
     {
@@ -1533,7 +1724,8 @@
         "source_name":"Elite Spark",
         "card_index":"095",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-095_S":
     {
@@ -1541,7 +1733,8 @@
         "source_name":"Elite Spark",
         "card_index":"095",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-096_S":
     {
@@ -1549,7 +1742,8 @@
         "source_name":"Elite Spark",
         "card_index":"096",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-096_U":
     {
@@ -1557,7 +1751,8 @@
         "source_name":"Elite Spark",
         "card_index":"096",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-097_C":
     {
@@ -1565,7 +1760,8 @@
         "source_name":"Elite Spark",
         "card_index":"097",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-097_S":
     {
@@ -1573,7 +1769,8 @@
         "source_name":"Elite Spark",
         "card_index":"097",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-098_S":
     {
@@ -1581,7 +1778,8 @@
         "source_name":"Elite Spark",
         "card_index":"098",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-098_U":
     {
@@ -1589,7 +1787,8 @@
         "source_name":"Elite Spark",
         "card_index":"098",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-099_C":
     {
@@ -1597,7 +1796,8 @@
         "source_name":"Elite Spark",
         "card_index":"099",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-099_S":
     {
@@ -1605,7 +1805,8 @@
         "source_name":"Elite Spark",
         "card_index":"099",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-100_C":
     {
@@ -1613,7 +1814,8 @@
         "source_name":"Elite Spark",
         "card_index":"100",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-100_S":
     {
@@ -1621,7 +1823,8 @@
         "source_name":"Elite Spark",
         "card_index":"100",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-101_C":
     {
@@ -1629,7 +1832,8 @@
         "source_name":"Elite Spark",
         "card_index":"101",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-101_S":
     {
@@ -1637,7 +1841,8 @@
         "source_name":"Elite Spark",
         "card_index":"101",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-102_S":
     {
@@ -1645,7 +1850,8 @@
         "source_name":"Elite Spark",
         "card_index":"102",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-102_U":
     {
@@ -1653,7 +1859,8 @@
         "source_name":"Elite Spark",
         "card_index":"102",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-103_S":
     {
@@ -1661,7 +1868,8 @@
         "source_name":"Elite Spark",
         "card_index":"103",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-103_C":
     {
@@ -1669,7 +1877,8 @@
         "source_name":"Elite Spark",
         "card_index":"103",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-104_C":
     {
@@ -1677,7 +1886,8 @@
         "source_name":"Elite Spark",
         "card_index":"104",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-104_S":
     {
@@ -1685,7 +1895,8 @@
         "source_name":"Elite Spark",
         "card_index":"104",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-105_S":
     {
@@ -1693,7 +1904,8 @@
         "source_name":"Elite Spark",
         "card_index":"105",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-105_U":
     {
@@ -1701,7 +1913,8 @@
         "source_name":"Elite Spark",
         "card_index":"105",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-106_S":
     {
@@ -1709,7 +1922,8 @@
         "source_name":"Elite Spark",
         "card_index":"106",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-106_C":
     {
@@ -1717,7 +1931,8 @@
         "source_name":"Elite Spark",
         "card_index":"106",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-107_U":
     {
@@ -1725,7 +1940,8 @@
         "source_name":"Elite Spark",
         "card_index":"107",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-107_S":
     {
@@ -1733,7 +1949,8 @@
         "source_name":"Elite Spark",
         "card_index":"107",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-108_S":
     {
@@ -1741,7 +1958,8 @@
         "source_name":"Elite Spark",
         "card_index":"108",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-108_C":
     {
@@ -1749,7 +1967,8 @@
         "source_name":"Elite Spark",
         "card_index":"108",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-109_S":
     {
@@ -1757,7 +1976,8 @@
         "source_name":"Elite Spark",
         "card_index":"109",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-109_C":
     {
@@ -1765,7 +1985,8 @@
         "source_name":"Elite Spark",
         "card_index":"109",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-110_S":
     {
@@ -1773,7 +1994,8 @@
         "source_name":"Elite Spark",
         "card_index":"110",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-110_U":
     {
@@ -1781,7 +2003,8 @@
         "source_name":"Elite Spark",
         "card_index":"110",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-111_S":
     {
@@ -1789,7 +2012,8 @@
         "source_name":"Elite Spark",
         "card_index":"111",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-111_C":
     {
@@ -1797,7 +2021,8 @@
         "source_name":"Elite Spark",
         "card_index":"111",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-112_S":
     {
@@ -1805,7 +2030,8 @@
         "source_name":"Elite Spark",
         "card_index":"112",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-112_U":
     {
@@ -1813,7 +2039,8 @@
         "source_name":"Elite Spark",
         "card_index":"112",
         "source_index":"hBP03",
-        "rarity":"Uncommon"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-113_S":
     {
@@ -1821,7 +2048,8 @@
         "source_name":"Elite Spark",
         "card_index":"113",
         "source_index":"hBP03",
-        "rarity":"Special"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-113_C":
     {
@@ -1829,7 +2057,8 @@
         "source_name":"Elite Spark",
         "card_index":"113",
         "source_index":"hBP03",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hSD05-009_SR":
     {
@@ -1837,7 +2066,8 @@
         "source_name":"Elite Spark",
         "card_index":"009",
         "source_index":"hSD05",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hSD06-007_SR":
     {
@@ -1845,7 +2075,8 @@
         "source_name":"Elite Spark",
         "card_index":"007",
         "source_index":"hSD06",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hSD07-009_SR":
     {
@@ -1853,7 +2084,8 @@
         "source_name":"Elite Spark",
         "card_index":"009",
         "source_index":"hSD07",
-        "rarity":"SuperRare"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hY01-001_C":
     {
