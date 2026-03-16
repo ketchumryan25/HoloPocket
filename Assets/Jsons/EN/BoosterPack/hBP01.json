@@ -2,2009 +2,2272 @@
     "hBP01-001_OSR":
     {
         "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "source_name":"BloomingRadiance",
+        "card_index":"001",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
     },
     "hBP01-001_OUR":
     {
         "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "source_name":"BloomingRadiance",
+        "card_index":"001",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"OshiUltraRare",
+        "lang": "EN"
     },
     "hBP01-002_OSR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Nanashi Mumei",
+        "source_name":"BloomingRadiance",
+        "card_index":"002",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
     },
     "hBP01-002_OUR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Nanashi Mumei",
+        "source_name":"BloomingRadiance",
+        "card_index":"002",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"OshiUltraRare",
+        "lang": "EN"
     },
     "hBP01-003_OSR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Aki Rosenthal",
+        "source_name":"BloomingRadiance",
+        "card_index":"003",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
+    },
+    "hBP01-003_OUR":
+    {
+        "card_name":"Aki Rosenthal",
+        "source_name":"BloomingRadiance",
+        "card_index":"003",
+        "source_index":"hBP01",
+        "rarity":"OshiUltraRare",
+        "lang": "EN"
     },
     "hBP01-004_OSR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Usada Pekora",
+        "source_name":"BloomingRadiance",
+        "card_index":"004",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
     },
     "hBP01-004_OUR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Usada Pekora",
+        "source_name":"BloomingRadiance",
+        "card_index":"004",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"OshiUltraRare",
+        "lang": "EN"
     },
     "hBP01-005_OSR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Takane Lui",
+        "source_name":"BloomingRadiance",
+        "card_index":"005",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
     },
     "hBP01-005_OUR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Takane Lui",
+        "source_name":"BloomingRadiance",
+        "card_index":"005",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"OshiUltraRare",
+        "lang": "EN"
     },
     "hBP01-006_OSR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Takanashi Kiara",
+        "source_name":"BloomingRadiance",
+        "card_index":"006",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"OshiSpecialRare",
+
+        "lang": "EN"
     },
     "hBP01-006_OUR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Takanashi Kiara",
+        "source_name":"BloomingRadiance",
+        "card_index":"006",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"OshiUltraRare",
+
+        "lang": "EN"
     },
     "hBP01-006_SEC":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Takanashi Kiara",
+        "source_name":"BloomingRadiance",
+        "card_index":"006",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Secret",
+        "lang": "EN"
     },
     "hBP01-007_OSR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Hoshimachi Suisei",
+        "source_name":"BloomingRadiance",
+        "card_index":"007",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
     },
     "hBP01-007_OUR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Hoshimachi Suisei",
+        "source_name":"BloomingRadiance",
+        "card_index":"007",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"OshiUltraRare",
+        "lang": "EN"
     },
     "hBP01-007_SEC":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Hoshimachi Suisei",
+        "source_name":"BloomingRadiance",
+        "card_index":"007",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Secret",
+        "lang": "EN"
     },
     "hBP01-008_OSR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Kobo Kanaeru",
+        "source_name":"BloomingRadiance",
+        "card_index":"008",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
     },
     "hBP01-008_OUR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Kobo Kanaeru",
+        "source_name":"BloomingRadiance",
+        "card_index":"008",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"OshiUltraRare",
+        "lang": "EN"
     },
     "hBP01-009_C":
     {
         "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
+        "source_name":"BloomingRadiance",
         "card_index":"009",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-010_S":
     {
         "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "source_name":"BloomingRadiance",
+        "card_index":"010",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-010_U":
     {
         "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "source_name":"BloomingRadiance",
+        "card_index":"010",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-011_C":
     {
         "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
+        "source_name":"BloomingRadiance",
         "card_index":"011",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-011_S":
     {
         "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "source_name":"BloomingRadiance",
+        "card_index":"011",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-012_S":
     {
         "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "source_name":"BloomingRadiance",
+        "card_index":"012",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-012_U":
     {
         "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "source_name":"BloomingRadiance",
+        "card_index":"012",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-013_R":
     {
         "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "source_name":"BloomingRadiance",
+        "card_index":"013",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP01-013_SR":
     {
         "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "source_name":"BloomingRadiance",
+        "card_index":"013",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP01-014_RR":
     {
         "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "source_name":"BloomingRadiance",
+        "card_index":"014",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP01-014_SR":
     {
         "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "source_name":"BloomingRadiance",
+        "card_index":"014",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP01-014_UR":
     {
         "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "source_name":"BloomingRadiance",
+        "card_index":"014",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP01-015_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Nanashi Mumei",
+        "source_name":"BloomingRadiance",
+        "card_index":"015",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-016_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Nanashi Mumei",
+        "source_name":"BloomingRadiance",
+        "card_index":"016",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-016_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Nanashi Mumei",
+        "source_name":"BloomingRadiance",
+        "card_index":"016",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-017_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Nanashi Mumei",
+        "source_name":"BloomingRadiance",
+        "card_index":"017",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-017_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Nanashi Mumei",
+        "source_name":"BloomingRadiance",
+        "card_index":"017",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-018_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Nanashi Mumei",
+        "source_name":"BloomingRadiance",
+        "card_index":"018",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-018_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Nanashi Mumei",
+        "source_name":"BloomingRadiance",
+        "card_index":"018",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-019_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Nanashi Mumei",
+        "source_name":"BloomingRadiance",
+        "card_index":"019",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-019_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Nanashi Mumei",
+        "source_name":"BloomingRadiance",
+        "card_index":"019",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-020_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Nanashi Mumei",
+        "source_name":"BloomingRadiance",
+        "card_index":"020",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP01-020_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Nanashi Mumei",
+        "source_name":"BloomingRadiance",
+        "card_index":"020",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP01-021_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Tokino Sora",
+        "source_name":"BloomingRadiance",
+        "card_index":"021",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-022_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Tokino Sora",
+        "source_name":"BloomingRadiance",
+        "card_index":"022",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-022_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Tokino Sora",
+        "source_name":"BloomingRadiance",
+        "card_index":"022",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-023_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Tokino Sora",
+        "source_name":"BloomingRadiance",
+        "card_index":"023",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP01-023_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Tokino Sora",
+        "source_name":"BloomingRadiance",
+        "card_index":"023",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP01-023_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Tokino Sora",
+        "source_name":"BloomingRadiance",
+        "card_index":"023",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP01-024_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Vestia Zeta",
+        "source_name":"BloomingRadiance",
+        "card_index":"024",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-025_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Vestia Zeta",
+        "source_name":"BloomingRadiance",
+        "card_index":"025",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-025_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Vestia Zeta",
+        "source_name":"BloomingRadiance",
+        "card_index":"025",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-026_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Vestia Zeta",
+        "source_name":"BloomingRadiance",
+        "card_index":"026",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-026_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Vestia Zeta",
+        "source_name":"BloomingRadiance",
+        "card_index":"026",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-027_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Vestia Zeta",
+        "source_name":"BloomingRadiance",
+        "card_index":"027",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP01-027_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Vestia Zeta",
+        "source_name":"BloomingRadiance",
+        "card_index":"027",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP01-027_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Vestia Zeta",
+        "source_name":"BloomingRadiance",
+        "card_index":"027",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP01-028_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"IRyS",
+        "source_name":"BloomingRadiance",
+        "card_index":"028",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-029_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"IRyS",
+        "source_name":"BloomingRadiance",
+        "card_index":"029",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-029_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"IRyS",
+        "source_name":"BloomingRadiance",
+        "card_index":"029",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-030_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"IRyS",
+        "source_name":"BloomingRadiance",
+        "card_index":"030",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-030_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"IRyS",
+        "source_name":"BloomingRadiance",
+        "card_index":"030",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-031_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"IRyS",
+        "source_name":"BloomingRadiance",
+        "card_index":"031",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP01-031_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"IRyS",
+        "source_name":"BloomingRadiance",
+        "card_index":"031",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP01-032_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Aki Rosenthal",
+        "source_name":"BloomingRadiance",
+        "card_index":"032",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-033_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Aki Rosenthal",
+        "source_name":"BloomingRadiance",
+        "card_index":"033",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-033_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Aki Rosenthal",
+        "source_name":"BloomingRadiance",
+        "card_index":"033",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-034_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Aki Rosenthal",
+        "source_name":"BloomingRadiance",
+        "card_index":"034",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-034_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Aki Rosenthal",
+        "source_name":"BloomingRadiance",
+        "card_index":"034",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-035_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Aki Rosenthal",
+        "source_name":"BloomingRadiance",
+        "card_index":"035",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-035_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Aki Rosenthal",
+        "source_name":"BloomingRadiance",
+        "card_index":"035",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-036_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Aki Rosenthal",
+        "source_name":"BloomingRadiance",
+        "card_index":"036",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-036_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Aki Rosenthal",
+        "source_name":"BloomingRadiance",
+        "card_index":"036",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-037_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Aki Rosenthal",
+        "source_name":"BloomingRadiance",
+        "card_index":"037",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP01-037_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Aki Rosenthal",
+        "source_name":"BloomingRadiance",
+        "card_index":"037",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP01-038_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Usada Pekora",
+        "source_name":"BloomingRadiance",
+        "card_index":"038",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-039_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Usada Pekora",
+        "source_name":"BloomingRadiance",
+        "card_index":"039",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-039_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Usada Pekora",
+        "source_name":"BloomingRadiance",
+        "card_index":"039",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-040_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Usada Pekora",
+        "source_name":"BloomingRadiance",
+        "card_index":"040",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-040_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Usada Pekora",
+        "source_name":"BloomingRadiance",
+        "card_index":"040",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-041_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Usada Pekora",
+        "source_name":"BloomingRadiance",
+        "card_index":"041",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-041_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Usada Pekora",
+        "source_name":"BloomingRadiance",
+        "card_index":"041",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-042_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Usada Pekora",
+        "source_name":"BloomingRadiance",
+        "card_index":"042",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP01-042_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Usada Pekora",
+        "source_name":"BloomingRadiance",
+        "card_index":"042",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP01-043_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Usada Pekora",
+        "source_name":"BloomingRadiance",
+        "card_index":"043",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP01-043_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Usada Pekora",
+        "source_name":"BloomingRadiance",
+        "card_index":"043",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP01-043_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Usada Pekora",
+        "source_name":"BloomingRadiance",
+        "card_index":"043",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP01-044_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"AZKi",
+        "source_name":"BloomingRadiance",
+        "card_index":"044",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-045_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"AZKi",
+        "source_name":"BloomingRadiance",
+        "card_index":"045",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-045_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"AZKi",
+        "source_name":"BloomingRadiance",
+        "card_index":"045",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-046_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"AZKi",
+        "source_name":"BloomingRadiance",
+        "card_index":"046",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-046_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"AZKi",
+        "source_name":"BloomingRadiance",
+        "card_index":"046",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-047_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"AZKi",
+        "source_name":"BloomingRadiance",
+        "card_index":"047",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP01-047_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"AZKi",
+        "source_name":"BloomingRadiance",
+        "card_index":"047",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP01-047_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"AZKi",
+        "source_name":"BloomingRadiance",
+        "card_index":"047",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP01-048_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Kazama Iroha",
+        "source_name":"BloomingRadiance",
+        "card_index":"048",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-049_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Kazama Iroha",
+        "source_name":"BloomingRadiance",
+        "card_index":"049",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-049_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Kazama Iroha",
+        "source_name":"BloomingRadiance",
+        "card_index":"049",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-050_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Kazama Iroha",
+        "source_name":"BloomingRadiance",
+        "card_index":"050",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-050_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Kazama Iroha",
+        "source_name":"BloomingRadiance",
+        "card_index":"050",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-051_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Kazama Iroha",
+        "source_name":"BloomingRadiance",
+        "card_index":"051",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP01-051_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Kazama Iroha",
+        "source_name":"BloomingRadiance",
+        "card_index":"051",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP01-051_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Kazama Iroha",
+        "source_name":"BloomingRadiance",
+        "card_index":"051",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP01-052_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Airani lofiteen",
+        "source_name":"BloomingRadiance",
+        "card_index":"052",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-053_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Airani lofiteen",
+        "source_name":"BloomingRadiance",
+        "card_index":"053",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-053_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Airani lofiteen",
+        "source_name":"BloomingRadiance",
+        "card_index":"053",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-054_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Airani lofiteen",
+        "source_name":"BloomingRadiance",
+        "card_index":"054",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-054_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Airani lofiteen",
+        "source_name":"BloomingRadiance",
+        "card_index":"054",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-055_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Airani lofiteen",
+        "source_name":"BloomingRadiance",
+        "card_index":"055",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP01-055_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Airani lofiteen",
+        "source_name":"BloomingRadiance",
+        "card_index":"055",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP01-056_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Takane Lui",
+        "source_name":"BloomingRadiance",
+        "card_index":"056",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-057_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Takane Lui",
+        "source_name":"BloomingRadiance",
+        "card_index":"057",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-057_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Takane Lui",
+        "source_name":"BloomingRadiance",
+        "card_index":"057",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-058_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Takane Lui",
+        "source_name":"BloomingRadiance",
+        "card_index":"058",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-058_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Takane Lui",
+        "source_name":"BloomingRadiance",
+        "card_index":"058",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-059_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Takane Lui",
+        "source_name":"BloomingRadiance",
+        "card_index":"059",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-059_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Takane Lui",
+        "source_name":"BloomingRadiance",
+        "card_index":"059",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-060_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Takane Lui",
+        "source_name":"BloomingRadiance",
+        "card_index":"060",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-060_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Takane Lui",
+        "source_name":"BloomingRadiance",
+        "card_index":"060",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-061_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Takane Lui",
+        "source_name":"BloomingRadiance",
+        "card_index":"061",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP01-061_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Takane Lui",
+        "source_name":"BloomingRadiance",
+        "card_index":"061",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP01-062_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Takanashi Kiara",
+        "source_name":"BloomingRadiance",
+        "card_index":"062",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-063_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Takanashi Kiara",
+        "source_name":"BloomingRadiance",
+        "card_index":"063",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-063_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Takanashi Kiara",
+        "source_name":"BloomingRadiance",
+        "card_index":"063",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-064_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Takanashi Kiara",
+        "source_name":"BloomingRadiance",
+        "card_index":"064",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-064_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Takanashi Kiara",
+        "source_name":"BloomingRadiance",
+        "card_index":"064",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-065_S":
     {
         "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "source_name":"BloomingRadiance",
+        "card_index":"065",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-065_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Takanashi Kiara",
+        "source_name":"BloomingRadiance",
+        "card_index":"065",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-066_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Takanashi Kiara",
+        "source_name":"BloomingRadiance",
+        "card_index":"066",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP01-066_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Takanashi Kiara",
+        "source_name":"BloomingRadiance",
+        "card_index":"066",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP01-067_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Takanashi Kiara",
+        "source_name":"BloomingRadiance",
+        "card_index":"067",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP01-067_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Takanashi Kiara",
+        "source_name":"BloomingRadiance",
+        "card_index":"067",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP01-067_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Takanashi Kiara",
+        "source_name":"BloomingRadiance",
+        "card_index":"067",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP01-068_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Omaru Polka",
+        "source_name":"BloomingRadiance",
+        "card_index":"068",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-069_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Omaru Polka",
+        "source_name":"BloomingRadiance",
+        "card_index":"069",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-069_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Omaru Polka",
+        "source_name":"BloomingRadiance",
+        "card_index":"069",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-070_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Omaru Polka",
+        "source_name":"BloomingRadiance",
+        "card_index":"070",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-070_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Omaru Polka",
+        "source_name":"BloomingRadiance",
+        "card_index":"070",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-071_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Omaru Polka",
+        "source_name":"BloomingRadiance",
+        "card_index":"071",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP01-071_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Omaru Polka",
+        "source_name":"BloomingRadiance",
+        "card_index":"071",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP01-071_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Omaru Polka",
+        "source_name":"BloomingRadiance",
+        "card_index":"071",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP01-072_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Hakos Baelz",
+        "source_name":"BloomingRadiance",
+        "card_index":"072",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-073_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Hakos Baelz",
+        "source_name":"BloomingRadiance",
+        "card_index":"073",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-073_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Hakos Baelz",
+        "source_name":"BloomingRadiance",
+        "card_index":"073",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-074_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Hakos Baelz",
+        "source_name":"BloomingRadiance",
+        "card_index":"074",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-074_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Hakos Baelz",
+        "source_name":"BloomingRadiance",
+        "card_index":"074",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-075_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Hakos Baelz",
+        "source_name":"BloomingRadiance",
+        "card_index":"075",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP01-075_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Hakos Baelz",
+        "source_name":"BloomingRadiance",
+        "card_index":"075",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP01-076_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Hoshimachi Suisei",
+        "source_name":"BloomingRadiance",
+        "card_index":"076",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-077_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Hoshimachi Suisei",
+        "source_name":"BloomingRadiance",
+        "card_index":"077",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-077_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Hoshimachi Suisei",
+        "source_name":"BloomingRadiance",
+        "card_index":"077",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-078_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Hoshimachi Suisei",
+        "source_name":"BloomingRadiance",
+        "card_index":"078",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-078_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Hoshimachi Suisei",
+        "source_name":"BloomingRadiance",
+        "card_index":"078",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-079_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Hoshimachi Suisei",
+        "source_name":"BloomingRadiance",
+        "card_index":"079",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-079_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Hoshimachi Suisei",
+        "source_name":"BloomingRadiance",
+        "card_index":"079",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-080_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Hoshimachi Suisei",
+        "source_name":"BloomingRadiance",
+        "card_index":"080",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP01-080_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Hoshimachi Suisei",
+        "source_name":"BloomingRadiance",
+        "card_index":"080",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP01-081_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Hoshimachi Suisei",
+        "source_name":"BloomingRadiance",
+        "card_index":"081",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP01-081_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Hoshimachi Suisei",
+        "source_name":"BloomingRadiance",
+        "card_index":"081",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP01-081_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Hoshimachi Suisei",
+        "source_name":"BloomingRadiance",
+        "card_index":"081",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP01-082_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Kobo Kanaeru",
+        "source_name":"BloomingRadiance",
+        "card_index":"082",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-083_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Kobo Kanaeru",
+        "source_name":"BloomingRadiance",
+        "card_index":"083",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-083_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Kobo Kanaeru",
+        "source_name":"BloomingRadiance",
+        "card_index":"083",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-084_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Kobo Kanaeru",
+        "source_name":"BloomingRadiance",
+        "card_index":"084",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-084_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Kobo Kanaeru",
+        "source_name":"BloomingRadiance",
+        "card_index":"084",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-085_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Kobo Kanaeru",
+        "source_name":"BloomingRadiance",
+        "card_index":"085",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-085_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Kobo Kanaeru",
+        "source_name":"BloomingRadiance",
+        "card_index":"085",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-086_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Kobo Kanaeru",
+        "source_name":"BloomingRadiance",
+        "card_index":"086",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-086_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Kobo Kanaeru",
+        "source_name":"BloomingRadiance",
+        "card_index":"086",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-087_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Kobo Kanaeru",
+        "source_name":"BloomingRadiance",
+        "card_index":"087",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP01-087_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Kobo Kanaeru",
+        "source_name":"BloomingRadiance",
+        "card_index":"087",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP01-088_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Moona Hoshinova",
+        "source_name":"BloomingRadiance",
+        "card_index":"088",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-089_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Moona Hoshinova",
+        "source_name":"BloomingRadiance",
+        "card_index":"089",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-089_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Moona Hoshinova",
+        "source_name":"BloomingRadiance",
+        "card_index":"089",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-090_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Moona Hoshinova",
+        "source_name":"BloomingRadiance",
+        "card_index":"090",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-090_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Moona Hoshinova",
+        "source_name":"BloomingRadiance",
+        "card_index":"090",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-091_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Moona Hoshinova",
+        "source_name":"BloomingRadiance",
+        "card_index":"091",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP01-091_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Moona Hoshinova",
+        "source_name":"BloomingRadiance",
+        "card_index":"091",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP01-091_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Moona Hoshinova",
+        "source_name":"BloomingRadiance",
+        "card_index":"091",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP01-092_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Ouro Kronii",
+        "source_name":"BloomingRadiance",
+        "card_index":"092",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-093_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Ouro Kronii",
+        "source_name":"BloomingRadiance",
+        "card_index":"093",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-093_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Ouro Kronii",
+        "source_name":"BloomingRadiance",
+        "card_index":"093",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-094_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Ouro Kronii",
+        "source_name":"BloomingRadiance",
+        "card_index":"094",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-094_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Ouro Kronii",
+        "source_name":"BloomingRadiance",
+        "card_index":"094",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-095_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Ouro Kronii",
+        "source_name":"BloomingRadiance",
+        "card_index":"095",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP01-095_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Ouro Kronii",
+        "source_name":"BloomingRadiance",
+        "card_index":"095",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP01-096_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Usada Pekora",
+        "source_name":"BloomingRadiance",
+        "card_index":"096",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP01-096_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Usada Pekora",
+        "source_name":"BloomingRadiance",
+        "card_index":"096",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP01-097_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Shiranui Flare",
+        "source_name":"BloomingRadiance",
+        "card_index":"097",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP01-097_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Shiranui Flare",
+        "source_name":"BloomingRadiance",
+        "card_index":"097",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP01-098_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Shirogane Noel",
+        "source_name":"BloomingRadiance",
+        "card_index":"098",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP01-098_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Shirogane Noel",
+        "source_name":"BloomingRadiance",
+        "card_index":"098",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP01-099_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Houshou Marine",
+        "source_name":"BloomingRadiance",
+        "card_index":"099",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP01-099_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Houshou Marine",
+        "source_name":"BloomingRadiance",
+        "card_index":"099",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP01-100_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Mori Calliope",
+        "source_name":"BloomingRadiance",
+        "card_index":"100",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-100_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Mori Calliope",
+        "source_name":"BloomingRadiance",
+        "card_index":"100",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-101_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Watson Amelia",
+        "source_name":"BloomingRadiance",
+        "card_index":"101",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-101_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Watson Amelia",
+        "source_name":"BloomingRadiance",
+        "card_index":"101",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-102_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Idol Microphone",
+        "source_name":"BloomingRadiance",
+        "card_index":"102",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-102_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Idol Microphone",
+        "source_name":"BloomingRadiance",
+        "card_index":"102",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-103_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Gaming PC",
+        "source_name":"BloomingRadiance",
+        "card_index":"103",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-103_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Gaming PC",
+        "source_name":"BloomingRadiance",
+        "card_index":"103",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-104_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Normal PC",
+        "source_name":"BloomingRadiance",
+        "card_index":"104",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-104_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Normal PC",
+        "source_name":"BloomingRadiance",
+        "card_index":"104",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-105_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Penlight",
+        "source_name":"BloomingRadiance",
+        "card_index":"105",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-105_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Penlight",
+        "source_name":"BloomingRadiance",
+        "card_index":"105",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-106_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"I leave the rest to you!",
+        "source_name":"BloomingRadiance",
+        "card_index":"106",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-106_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"I leave the rest to you!",
+        "source_name":"BloomingRadiance",
+        "card_index":"106",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-107_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Encore",
+        "source_name":"BloomingRadiance",
+        "card_index":"107",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-107_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Encore",
+        "source_name":"BloomingRadiance",
+        "card_index":"107",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-108_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"So, That Makes You My Enemy",
+        "source_name":"BloomingRadiance",
+        "card_index":"108",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-108_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"So, That Makes You My Enemy",
+        "source_name":"BloomingRadiance",
+        "card_index":"108",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-109_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Tale of the Moon and the Rabbit",
+        "source_name":"BloomingRadiance",
+        "card_index":"109",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-109_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Tale of the Moon and the Rabbit",
+        "source_name":"BloomingRadiance",
+        "card_index":"109",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-110_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"I'll smack you with a blunt weapon!",
+        "source_name":"BloomingRadiance",
+        "card_index":"110",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-110_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"I'll smack you with a blunt weapon!",
+        "source_name":"BloomingRadiance",
+        "card_index":"110",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-111_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"hololive Indonesia Gen 3",
+        "source_name":"BloomingRadiance",
+        "card_index":"111",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        
+        "lang": "EN"
     },
     "hBP01-111_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"hololive Indonesia Gen 3",
+        "source_name":"BloomingRadiance",
+        "card_index":"111",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-112_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Exciting Prank Time",
+        "source_name":"BloomingRadiance",
+        "card_index":"112",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-112_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Exciting Prank Time",
+        "source_name":"BloomingRadiance",
+        "card_index":"112",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-113_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Promise",
+        "source_name":"BloomingRadiance",
+        "card_index":"113",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-113_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Promise",
+        "source_name":"BloomingRadiance",
+        "card_index":"113",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-114_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Stone Axe",
+        "source_name":"BloomingRadiance",
+        "card_index":"114",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-114_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Stone Axe",
+        "source_name":"BloomingRadiance",
+        "card_index":"114",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-115_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Hoshimachi Suisei's Microphone",
+        "source_name":"BloomingRadiance",
+        "card_index":"115",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-115_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Hoshimachi Suisei's Microphone",
+        "source_name":"BloomingRadiance",
+        "card_index":"115",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP01-116_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Upao",
+        "source_name":"BloomingRadiance",
+        "card_index":"116",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-116_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Upao",
+        "source_name":"BloomingRadiance",
+        "card_index":"116",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-117_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Friend",
+        "source_name":"BloomingRadiance",
+        "card_index":"117",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-117_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Friend",
+        "source_name":"BloomingRadiance",
+        "card_index":"117",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-118_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Ankimo",
+        "source_name":"BloomingRadiance",
+        "card_index":"118",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-118_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Ankimo",
+        "source_name":"BloomingRadiance",
+        "card_index":"118",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-119_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Jobs",
+        "source_name":"BloomingRadiance",
+        "card_index":"119",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-119_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Jobs",
+        "source_name":"BloomingRadiance",
+        "card_index":"119",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-120_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Ganmo",
+        "source_name":"BloomingRadiance",
+        "card_index":"120",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-120_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
+        "card_name":"Ganmo",
+        "source_name":"BloomingRadiance",
+        "card_index":"120",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-121_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Kotori",
+        "source_name":"BloomingRadiance",
+        "card_index":"121",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-121_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Kotori",
+        "source_name":"BloomingRadiance",
+        "card_index":"121",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-122_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Rose Knights",
+        "source_name":"BloomingRadiance",
+        "card_index":"122",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-122_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Rose Knights",
+        "source_name":"BloomingRadiance",
+        "card_index":"122",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-123_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Wild Rabbit Alliance",
+        "source_name":"BloomingRadiance",
+        "card_index":"123",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-123_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Wild Rabbit Alliance",
+        "source_name":"BloomingRadiance",
+        "card_index":"123",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-124_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Pioneers",
+        "source_name":"BloomingRadiance",
+        "card_index":"124",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-124_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Pioneers",
+        "source_name":"BloomingRadiance",
+        "card_index":"124",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-125_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"KFP",
+        "source_name":"BloomingRadiance",
+        "card_index":"125",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-125_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"KFP",
+        "source_name":"BloomingRadiance",
+        "card_index":"125",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP01-126_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Troupe Member",
+        "source_name":"BloomingRadiance",
+        "card_index":"126",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP01-126_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
+        "card_name":"Troupe Member",
+        "source_name":"BloomingRadiance",
+        "card_index":"126",
         "source_index":"hBP01",
-        "rarity":"Common"
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hSD01-006_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tokino Sora",
+        "source_name":"SoraAzki",
+        "card_index":"006",
+        "source_index":"hSD01",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hSD01-011_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
+        "card_name":"AZKi",
+        "source_name":"SoraAzki",
         "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "source_index":"hSD01",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hY01-001_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"White Cheer",
+        "source_name":"Cheer",
+        "card_index":"001",
+        "source_index":"hY01",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hY02-001_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Green Cheer",
+        "source_name":"Cheer",
+        "card_index":"001",
+        "source_index":"hY02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hY03-001_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Red Cheer",
+        "source_name":"Cheer",
+        "card_index":"001",
+        "source_index":"hY03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hY04-001_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Blue Cheer",
+        "source_name":"Cheer",
+        "card_index":"001",
+        "source_index":"hY04",
+        "rarity":"Common",
+        "lang": "EN"
     }
 }

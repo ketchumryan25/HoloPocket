@@ -7,6 +7,7 @@ using UnityEngine.U2D.Animation; // Namespace for SpriteLibrary
 [UnitCategory("Sprites")]
 public class GetSpriteFromLibraryNode : Unit
 {
+
     // Input: GameObject with SpriteLibrary component
     [DoNotSerialize]
     public ValueInput gameObjectInput;

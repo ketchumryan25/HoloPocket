@@ -1,1938 +1,2198 @@
 {
     "hBP03-001_OSR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Himemori Luna",
+        "source_name":"Elite Spark",
+        "card_index":"001",
+        "source_index":"hBP03",
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
     },
     "hBP03-001_OUR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Himemori Luna",
+        "source_name":"Elite Spark",
+        "card_index":"001",
+        "source_index":"hBP03",
+        "rarity":"OshiUltraRare",
+        "lang": "EN"
     },
     "hBP03-002_OSR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shishiro Botan",
+        "source_name":"Elite Spark",
+        "card_index":"002",
+        "source_index":"hBP03",
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
     },
     "hBP03-002_OUR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shishiro Botan",
+        "source_name":"Elite Spark",
+        "card_index":"002",
+        "source_index":"hBP03",
+        "rarity":"OshiUltraRare",
+        "lang": "EN"
+    },
+    "hBP03-002_SEC":
+    {
+        "card_name":"Shishiro Botan",
+        "source_name":"Elite Spark",
+        "card_index":"002",
+        "source_index":"hBP03",
+        "rarity":"Secret",
+        "lang": "EN"
     },
     "hBP03-003_OSR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sakura Miko",
+        "source_name":"Elite Spark",
+        "card_index":"003",
+        "source_index":"hBP03",
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
     },
     "hBP03-003_OUR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sakura Miko",
+        "source_name":"Elite Spark",
+        "card_index":"003",
+        "source_index":"hBP03",
+        "rarity":"OshiUltraRare",
+        "lang": "EN"
     },
     "hBP03-003_SEC":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sakura Miko",
+        "source_name":"Elite Spark",
+        "card_index":"003",
+        "source_index":"hBP03",
+        "rarity":"Secret",
+        "lang": "EN"
     },
     "hBP03-004_OSR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"FUWAMOCO",
+        "source_name":"Elite Spark",
+        "card_index":"004",
+        "source_index":"hBP03",
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
     },
     "hBP03-004_OUR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"FUWAMOCO",
+        "source_name":"Elite Spark",
+        "card_index":"004",
+        "source_index":"hBP03",
+        "rarity":"OshiUltraRare",
+        "lang": "EN"
     },
     "hBP03-005_OSR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tokoyami Towa",
+        "source_name":"Elite Spark",
+        "card_index":"005",
+        "source_index":"hBP03",
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
     },
     "hBP03-005_OUR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tokoyami Towa",
+        "source_name":"Elite Spark",
+        "card_index":"005",
+        "source_index":"hBP03",
+        "rarity":"OshiUltraRare",
+        "lang": "EN"
     },
     "hBP03-005_SEC":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tokoyami Towa",
+        "source_name":"Elite Spark",
+        "card_index":"005",
+        "source_index":"hBP03",
+        "rarity":"Secret",
+        "lang": "EN"
     },
     "hBP03-006_OSR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Inugami Korone",
+        "source_name":"Elite Spark",
+        "card_index":"006",
+        "source_index":"hBP03",
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
     },
     "hBP03-006_OUR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Inugami Korone",
+        "source_name":"Elite Spark",
+        "card_index":"006",
+        "source_index":"hBP03",
+        "rarity":"OshiUltraRare",
+        "lang": "EN"
     },
     "hBP03-007_OSR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tsunomaki Watame",
+        "source_name":"Elite Spark",
+        "card_index":"007",
+        "source_index":"hBP03",
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
     },
     "hBP03-007_OUR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tsunomaki Watame",
+        "source_name":"Elite Spark",
+        "card_index":"007",
+        "source_index":"hBP03",
+        "rarity":"OshiUltraRare",
+        "lang": "EN"
     },
     "hBP03-007_SEC":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tsunomaki Watame",
+        "source_name":"Elite Spark",
+        "card_index":"007",
+        "source_index":"hBP03",
+        "rarity":"Secret",
+        "lang": "EN"
     },
     "hBP03-008_OSR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ayunda Risu",
+        "source_name":"Elite Spark",
+        "card_index":"008",
+        "source_index":"hBP03",
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
     },
     "hBP03-008_OUR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ayunda Risu",
+        "source_name":"Elite Spark",
+        "card_index":"008",
+        "source_index":"hBP03",
+        "rarity":"OshiUltraRare",
+        "lang": "EN"
     },
     "hBP03-009_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
+        "card_name":"Himemori Luna",
+        "source_name":"Elite Spark",
         "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-010_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Himemori Luna",
+        "source_name":"Elite Spark",
+        "card_index":"010",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-010_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Himemori Luna",
+        "source_name":"Elite Spark",
+        "card_index":"010",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-011_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
+        "card_name":"Himemori Luna",
+        "source_name":"Elite Spark",
         "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-011_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Himemori Luna",
+        "source_name":"Elite Spark",
+        "card_index":"011",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-012_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Himemori Luna",
+        "source_name":"Elite Spark",
+        "card_index":"012",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-012_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Himemori Luna",
+        "source_name":"Elite Spark",
+        "card_index":"012",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-013_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Himemori Luna",
+        "source_name":"Elite Spark",
+        "card_index":"013",
+        "source_index":"hBP03",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-013_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Himemori Luna",
+        "source_name":"Elite Spark",
+        "card_index":"013",
+        "source_index":"hBP03",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-014_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Himemori Luna",
+        "source_name":"Elite Spark",
+        "card_index":"014",
+        "source_index":"hBP03",
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP03-014_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Himemori Luna",
+        "source_name":"Elite Spark",
+        "card_index":"014",
+        "source_index":"hBP03",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-014_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Himemori Luna",
+        "source_name":"Elite Spark",
+        "card_index":"014",
+        "source_index":"hBP03",
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP03-015_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Todoroki Hajime",
+        "source_name":"Elite Spark",
+        "card_index":"015",
+        "source_index":"hBP03",
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP03-015_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Todoroki Hajime",
+        "source_name":"Elite Spark",
+        "card_index":"015",
+        "source_index":"hBP03",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-015_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Todoroki Hajime",
+        "source_name":"Elite Spark",
+        "card_index":"015",
+        "source_index":"hBP03",
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP03-016_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shishiro Botan",
+        "source_name":"Elite Spark",
+        "card_index":"016",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-017_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shishiro Botan",
+        "source_name":"Elite Spark",
+        "card_index":"017",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-017_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shishiro Botan",
+        "source_name":"Elite Spark",
+        "card_index":"017",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-018_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shishiro Botan",
+        "source_name":"Elite Spark",
+        "card_index":"018",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-018_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shishiro Botan",
+        "source_name":"Elite Spark",
+        "card_index":"018",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-019_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shishiro Botan",
+        "source_name":"Elite Spark",
+        "card_index":"019",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-019_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shishiro Botan",
+        "source_name":"Elite Spark",
+        "card_index":"019",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-020_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shishiro Botan",
+        "source_name":"Elite Spark",
+        "card_index":"020",
+        "source_index":"hBP03",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-020_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shishiro Botan",
+        "source_name":"Elite Spark",
+        "card_index":"020",
+        "source_index":"hBP03",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-021_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shishiro Botan",
+        "source_name":"Elite Spark",
+        "card_index":"021",
+        "source_index":"hBP03",
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP03-021_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shishiro Botan",
+        "source_name":"Elite Spark",
+        "card_index":"021",
+        "source_index":"hBP03",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-021_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shishiro Botan",
+        "source_name":"Elite Spark",
+        "card_index":"021",
+        "source_index":"hBP03",
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP03-022_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Aki Rosenthal",
+        "source_name":"Elite Spark",
+        "card_index":"022",
+        "source_index":"hBP03",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-022_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Aki Rosenthal",
+        "source_name":"Elite Spark",
+        "card_index":"022",
+        "source_index":"hBP03",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-023_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Usada Pekora",
+        "source_name":"Elite Spark",
+        "card_index":"023",
+        "source_index":"hBP03",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-023_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Usada Pekora",
+        "source_name":"Elite Spark",
+        "card_index":"023",
+        "source_index":"hBP03",
+        "rarity":"SuperRare",
+        "lang": "EN"
+    },
+    "hBP03-024_RR":
+    {
+        "card_name":"Kazama Iroha",
+        "source_name":"Elite Spark",
+        "card_index":"024",
+        "source_index":"hBP03",
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP03-024_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Kazama Iroha",
+        "source_name":"Elite Spark",
+        "card_index":"024",
+        "source_index":"hBP03",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-024_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Kazama Iroha",
+        "source_name":"Elite Spark",
+        "card_index":"024",
+        "source_index":"hBP03",
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP03-025_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sakura Miko",
+        "source_name":"Elite Spark",
+        "card_index":"025",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-026_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sakura Miko",
+        "source_name":"Elite Spark",
+        "card_index":"026",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-026_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sakura Miko",
+        "source_name":"Elite Spark",
+        "card_index":"026",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-027_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sakura Miko",
+        "source_name":"Elite Spark",
+        "card_index":"027",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-027_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sakura Miko",
+        "source_name":"Elite Spark",
+        "card_index":"027",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-028_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sakura Miko",
+        "source_name":"Elite Spark",
+        "card_index":"028",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-028_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sakura Miko",
+        "source_name":"Elite Spark",
+        "card_index":"028",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-029_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sakura Miko",
+        "source_name":"Elite Spark",
+        "card_index":"029",
+        "source_index":"hBP03",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-029_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sakura Miko",
+        "source_name":"Elite Spark",
+        "card_index":"029",
+        "source_index":"hBP03",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-030_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sakura Miko",
+        "source_name":"Elite Spark",
+        "card_index":"030",
+        "source_index":"hBP03",
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP03-030_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sakura Miko",
+        "source_name":"Elite Spark",
+        "card_index":"030",
+        "source_index":"hBP03",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-030_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Sakura Miko",
+        "source_name":"Elite Spark",
+        "card_index":"030",
+        "source_index":"hBP03",
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP03-031_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Akai Haato",
+        "source_name":"Elite Spark",
+        "card_index":"031",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-032_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Akai Haato",
+        "source_name":"Elite Spark",
+        "card_index":"032",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-032_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Akai Haato",
+        "source_name":"Elite Spark",
+        "card_index":"032",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-033_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Akai Haato",
+        "source_name":"Elite Spark",
+        "card_index":"033",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-033_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Akai Haato",
+        "source_name":"Elite Spark",
+        "card_index":"033",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-034_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Akai Haato",
+        "source_name":"Elite Spark",
+        "card_index":"034",
+        "source_index":"hBP03",
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP03-034_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Akai Haato",
+        "source_name":"Elite Spark",
+        "card_index":"034",
+        "source_index":"hBP03",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-034_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Akai Haato",
+        "source_name":"Elite Spark",
+        "card_index":"034",
+        "source_index":"hBP03",
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP03-035_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Takane Lui",
+        "source_name":"Elite Spark",
+        "card_index":"035",
+        "source_index":"hBP03",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-035_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Takane Lui",
+        "source_name":"Elite Spark",
+        "card_index":"035",
+        "source_index":"hBP03",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-036_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Takanashi Kiara",
+        "source_name":"Elite Spark",
+        "card_index":"036",
+        "source_index":"hBP03",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-036_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Takanashi Kiara",
+        "source_name":"Elite Spark",
+        "card_index":"036",
+        "source_index":"hBP03",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-037_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Mococo Abyssgard",
+        "source_name":"Elite Spark",
+        "card_index":"037",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-038_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Mococo Abyssgard",
+        "source_name":"Elite Spark",
+        "card_index":"038",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-038_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Mococo Abyssgard",
+        "source_name":"Elite Spark",
+        "card_index":"038",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-039_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Mococo Abyssgard",
+        "source_name":"Elite Spark",
+        "card_index":"039",
+        "source_index":"hBP03",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-039_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Mococo Abyssgard",
+        "source_name":"Elite Spark",
+        "card_index":"039",
+        "source_index":"hBP03",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-040_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Fuwawa Abyssgard",
+        "source_name":"Elite Spark",
+        "card_index":"040",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-041_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Fuwawa Abyssgard",
+        "source_name":"Elite Spark",
+        "card_index":"041",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-041_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Fuwawa Abyssgard",
+        "source_name":"Elite Spark",
+        "card_index":"041",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-042_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Fuwawa Abyssgard",
+        "source_name":"Elite Spark",
+        "card_index":"042",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-042_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Fuwawa Abyssgard",
+        "source_name":"Elite Spark",
+        "card_index":"042",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-043_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Fuwawa Abyssgard",
+        "source_name":"Elite Spark",
+        "card_index":"043",
+        "source_index":"hBP03",
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP03-043_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Fuwawa Abyssgard",
+        "source_name":"Elite Spark",
+        "card_index":"043",
+        "source_index":"hBP03",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-043_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Fuwawa Abyssgard",
+        "source_name":"Elite Spark",
+        "card_index":"043",
+        "source_index":"hBP03",
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP03-044_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Hoshimachi Suisei",
+        "source_name":"Elite Spark",
+        "card_index":"044",
+        "source_index":"hBP03",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-044_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Hoshimachi Suisei",
+        "source_name":"Elite Spark",
+        "card_index":"044",
+        "source_index":"hBP03",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-045_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Kobo Kanaeru",
+        "source_name":"Elite Spark",
+        "card_index":"045",
+        "source_index":"hBP03",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-045_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Kobo Kanaeru",
+        "source_name":"Elite Spark",
+        "card_index":"045",
+        "source_index":"hBP03",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-046_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Hiodoshi Ao",
+        "source_name":"Elite Spark",
+        "card_index":"046",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-047_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Hiodoshi Ao",
+        "source_name":"Elite Spark",
+        "card_index":"047",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-047_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Hiodoshi Ao",
+        "source_name":"Elite Spark",
+        "card_index":"047",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-048_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Hiodoshi Ao",
+        "source_name":"Elite Spark",
+        "card_index":"048",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-048_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Hiodoshi Ao",
+        "source_name":"Elite Spark",
+        "card_index":"048",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-049_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Hiodoshi Ao",
+        "source_name":"Elite Spark",
+        "card_index":"049",
+        "source_index":"hBP03",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-049_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Hiodoshi Ao",
+        "source_name":"Elite Spark",
+        "card_index":"049",
+        "source_index":"hBP03",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-050_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"FUWAMOCO",
+        "source_name":"Elite Spark",
+        "card_index":"050",
+        "source_index":"hBP03",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-050_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"FUWAMOCO",
+        "source_name":"Elite Spark",
+        "card_index":"050",
+        "source_index":"hBP03",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-051_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tokoyami Towa",
+        "source_name":"Elite Spark",
+        "card_index":"051",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-052_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tokoyami Towa",
+        "source_name":"Elite Spark",
+        "card_index":"052",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-052_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tokoyami Towa",
+        "source_name":"Elite Spark",
+        "card_index":"052",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-053_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tokoyami Towa",
+        "source_name":"Elite Spark",
+        "card_index":"053",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-053_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tokoyami Towa",
+        "source_name":"Elite Spark",
+        "card_index":"053",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-054_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tokoyami Towa",
+        "source_name":"Elite Spark",
+        "card_index":"054",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-054_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tokoyami Towa",
+        "source_name":"Elite Spark",
+        "card_index":"054",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-055_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tokoyami Towa",
+        "source_name":"Elite Spark",
+        "card_index":"055",
+        "source_index":"hBP03",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-055_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tokoyami Towa",
+        "source_name":"Elite Spark",
+        "card_index":"055",
+        "source_index":"hBP03",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-056_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tokoyami Towa",
+        "source_name":"Elite Spark",
+        "card_index":"056",
+        "source_index":"hBP03",
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP03-056_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tokoyami Towa",
+        "source_name":"Elite Spark",
+        "card_index":"056",
+        "source_index":"hBP03",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-056_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tokoyami Towa",
+        "source_name":"Elite Spark",
+        "card_index":"056",
+        "source_index":"hBP03",
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP03-057_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Robocosan",
+        "source_name":"Elite Spark",
+        "card_index":"057",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-058_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Robocosan",
+        "source_name":"Elite Spark",
+        "card_index":"058",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-058_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Robocosan",
+        "source_name":"Elite Spark",
+        "card_index":"058",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-059_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Robocosan",
+        "source_name":"Elite Spark",
+        "card_index":"059",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-059_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Robocosan",
+        "source_name":"Elite Spark",
+        "card_index":"059",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-060_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Robocosan",
+        "source_name":"Elite Spark",
+        "card_index":"060",
+        "source_index":"hBP03",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-060_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Robocosan",
+        "source_name":"Elite Spark",
+        "card_index":"060",
+        "source_index":"hBP03",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-061_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Inugami Korone",
+        "source_name":"Elite Spark",
+        "card_index":"061",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-062_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Inugami Korone",
+        "source_name":"Elite Spark",
+        "card_index":"062",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-062_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Inugami Korone",
+        "source_name":"Elite Spark",
+        "card_index":"062",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-063_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Inugami Korone",
+        "source_name":"Elite Spark",
+        "card_index":"063",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-063_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Inugami Korone",
+        "source_name":"Elite Spark",
+        "card_index":"063",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-064_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Inugami Korone",
+        "source_name":"Elite Spark",
+        "card_index":"064",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-064_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Inugami Korone",
+        "source_name":"Elite Spark",
+        "card_index":"064",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-065_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Inugami Korone",
+        "source_name":"Elite Spark",
+        "card_index":"065",
+        "source_index":"hBP03",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-065_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Inugami Korone",
+        "source_name":"Elite Spark",
+        "card_index":"065",
+        "source_index":"hBP03",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-066_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Inugami Korone",
+        "source_name":"Elite Spark",
+        "card_index":"066",
+        "source_index":"hBP03",
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP03-066_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Inugami Korone",
+        "source_name":"Elite Spark",
+        "card_index":"066",
+        "source_index":"hBP03",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-066_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Inugami Korone",
+        "source_name":"Elite Spark",
+        "card_index":"066",
+        "source_index":"hBP03",
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP03-067_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tsunomaki Watame",
+        "source_name":"Elite Spark",
+        "card_index":"067",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-068_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tsunomaki Watame",
+        "source_name":"Elite Spark",
+        "card_index":"068",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-068_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tsunomaki Watame",
+        "source_name":"Elite Spark",
+        "card_index":"068",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-069_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tsunomaki Watame",
+        "source_name":"Elite Spark",
+        "card_index":"069",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-069_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tsunomaki Watame",
+        "source_name":"Elite Spark",
+        "card_index":"069",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-070_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tsunomaki Watame",
+        "source_name":"Elite Spark",
+        "card_index":"070",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-070_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tsunomaki Watame",
+        "source_name":"Elite Spark",
+        "card_index":"070",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-071_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tsunomaki Watame",
+        "source_name":"Elite Spark",
+        "card_index":"071",
+        "source_index":"hBP03",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-071_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tsunomaki Watame",
+        "source_name":"Elite Spark",
+        "card_index":"071",
+        "source_index":"hBP03",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-072_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tsunomaki Watame",
+        "source_name":"Elite Spark",
+        "card_index":"072",
+        "source_index":"hBP03",
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP03-072_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tsunomaki Watame",
+        "source_name":"Elite Spark",
+        "card_index":"072",
+        "source_index":"hBP03",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-072_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Tsunomaki Watame",
+        "source_name":"Elite Spark",
+        "card_index":"072",
+        "source_index":"hBP03",
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP03-073_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ayunda Risu",
+        "source_name":"Elite Spark",
+        "card_index":"073",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-074_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ayunda Risu",
+        "source_name":"Elite Spark",
+        "card_index":"074",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-074_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ayunda Risu",
+        "source_name":"Elite Spark",
+        "card_index":"074",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-075_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ayunda Risu",
+        "source_name":"Elite Spark",
+        "card_index":"075",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-075_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ayunda Risu",
+        "source_name":"Elite Spark",
+        "card_index":"075",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-076_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ayunda Risu",
+        "source_name":"Elite Spark",
+        "card_index":"076",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-076_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ayunda Risu",
+        "source_name":"Elite Spark",
+        "card_index":"076",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-077_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ayunda Risu",
+        "source_name":"Elite Spark",
+        "card_index":"077",
+        "source_index":"hBP03",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-077_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ayunda Risu",
+        "source_name":"Elite Spark",
+        "card_index":"077",
+        "source_index":"hBP03",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-078_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ayunda Risu",
+        "source_name":"Elite Spark",
+        "card_index":"078",
+        "source_index":"hBP03",
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP03-078_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ayunda Risu",
+        "source_name":"Elite Spark",
+        "card_index":"078",
+        "source_index":"hBP03",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-078_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ayunda Risu",
+        "source_name":"Elite Spark",
+        "card_index":"078",
+        "source_index":"hBP03",
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP03-079_RR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shiranui Flare",
+        "source_name":"Elite Spark",
+        "card_index":"079",
+        "source_index":"hBP03",
+        "rarity":"DoubleRare",
+        "lang": "EN"
     },
     "hBP03-079_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shiranui Flare",
+        "source_name":"Elite Spark",
+        "card_index":"079",
+        "source_index":"hBP03",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-079_UR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shiranui Flare",
+        "source_name":"Elite Spark",
+        "card_index":"079",
+        "source_index":"hBP03",
+        "rarity":"UltraRare",
+        "lang": "EN"
     },
     "hBP03-080_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Otonose Kanade",
+        "source_name":"Elite Spark",
+        "card_index":"080",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-081_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Otonose Kanade",
+        "source_name":"Elite Spark",
+        "card_index":"081",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-081_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Otonose Kanade",
+        "source_name":"Elite Spark",
+        "card_index":"081",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-082_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Otonose Kanade",
+        "source_name":"Elite Spark",
+        "card_index":"082",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-082_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Otonose Kanade",
+        "source_name":"Elite Spark",
+        "card_index":"082",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-083_R":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Otonose Kanade",
+        "source_name":"Elite Spark",
+        "card_index":"083",
+        "source_index":"hBP03",
+        "rarity":"Rare",
+        "lang": "EN"
     },
     "hBP03-083_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Otonose Kanade",
+        "source_name":"Elite Spark",
+        "card_index":"083",
+        "source_index":"hBP03",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hBP03-084_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Gorgeous PC",
+        "source_name":"Elite Spark",
+        "card_index":"084",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-084_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Gorgeous PC",
+        "source_name":"Elite Spark",
+        "card_index":"084",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-085_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Super PC",
+        "source_name":"Elite Spark",
+        "card_index":"085",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-085_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Super PC",
+        "source_name":"Elite Spark",
+        "card_index":"085",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-086_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Dual-Monitor PC",
+        "source_name":"Elite Spark",
+        "card_index":"086",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-086_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Dual-Monitor PC",
+        "source_name":"Elite Spark",
+        "card_index":"086",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-087_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Call and Response",
+        "source_name":"Elite Spark",
+        "card_index":"087",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-087_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Call and Response",
+        "source_name":"Elite Spark",
+        "card_index":"087",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-088_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Totsumachi",
+        "source_name":"Elite Spark",
+        "card_index":"088",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-088_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Totsumachi",
+        "source_name":"Elite Spark",
+        "card_index":"088",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-089_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Fan Meeting",
+        "source_name":"Elite Spark",
+        "card_index":"089",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-089_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Fan Meeting",
+        "source_name":"Elite Spark",
+        "card_index":"089",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-090_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Can You Do the hololive?",
+        "source_name":"Elite Spark",
+        "card_index":"090",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-090_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Can You Do the hololive?",
+        "source_name":"Elite Spark",
+        "card_index":"090",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-091_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"hololive Indonesia Gen 1",
+        "source_name":"Elite Spark",
+        "card_index":"091",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-091_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"hololive Indonesia Gen 1",
+        "source_name":"Elite Spark",
+        "card_index":"091",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-092_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"hololive Gen 0",
+        "source_name":"Elite Spark",
+        "card_index":"092",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-092_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"hololive Gen 0",
+        "source_name":"Elite Spark",
+        "card_index":"092",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-093_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"hololive Gen 4",
+        "source_name":"Elite Spark",
+        "card_index":"093",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-093_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"hololive Gen 4",
+        "source_name":"Elite Spark",
+        "card_index":"093",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-094_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"FPS Stream",
+        "source_name":"Elite Spark",
+        "card_index":"094",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-094_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"FPS Stream",
+        "source_name":"Elite Spark",
+        "card_index":"094",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-095_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"holoCap",
+        "source_name":"Elite Spark",
+        "card_index":"095",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-095_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"holoCap",
+        "source_name":"Elite Spark",
+        "card_index":"095",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-096_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Rifle",
+        "source_name":"Elite Spark",
+        "card_index":"096",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-096_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Rifle",
+        "source_name":"Elite Spark",
+        "card_index":"096",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-097_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Recorder",
+        "source_name":"Elite Spark",
+        "card_index":"097",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-097_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Recorder",
+        "source_name":"Elite Spark",
+        "card_index":"097",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-098_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Kintoki",
+        "source_name":"Elite Spark",
+        "card_index":"098",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-098_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Kintoki",
+        "source_name":"Elite Spark",
+        "card_index":"098",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-099_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Maguchi",
+        "source_name":"Elite Spark",
+        "card_index":"099",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-099_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Maguchi",
+        "source_name":"Elite Spark",
+        "card_index":"099",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-100_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Pero",
+        "source_name":"Elite Spark",
+        "card_index":"100",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-100_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Pero",
+        "source_name":"Elite Spark",
+        "card_index":"100",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-101_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Bibi",
+        "source_name":"Elite Spark",
+        "card_index":"101",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-101_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Bibi",
+        "source_name":"Elite Spark",
+        "card_index":"101",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-102_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Futoinu",
+        "source_name":"Elite Spark",
+        "card_index":"102",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-102_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Futoinu",
+        "source_name":"Elite Spark",
+        "card_index":"102",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-103_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Hosoinu",
+        "source_name":"Elite Spark",
+        "card_index":"103",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-103_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Hosoinu",
+        "source_name":"Elite Spark",
+        "card_index":"103",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-104_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Riscot",
+        "source_name":"Elite Spark",
+        "card_index":"104",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-104_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Riscot",
+        "source_name":"Elite Spark",
+        "card_index":"104",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-105_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Lu-knights",
+        "source_name":"Elite Spark",
+        "card_index":"105",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-105_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Lu-knights",
+        "source_name":"Elite Spark",
+        "card_index":"105",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-106_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"SSRB",
+        "source_name":"Elite Spark",
+        "card_index":"106",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-106_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"SSRB",
+        "source_name":"Elite Spark",
+        "card_index":"106",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-107_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"35P",
+        "source_name":"Elite Spark",
+        "card_index":"107",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-107_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"35P",
+        "source_name":"Elite Spark",
+        "card_index":"107",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-108_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Haaton",
+        "source_name":"Elite Spark",
+        "card_index":"108",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-108_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Haaton",
+        "source_name":"Elite Spark",
+        "card_index":"108",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-109_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ruffians",
+        "source_name":"Elite Spark",
+        "card_index":"109",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-109_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Ruffians",
+        "source_name":"Elite Spark",
+        "card_index":"109",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-110_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Roboser",
+        "source_name":"Elite Spark",
+        "card_index":"110",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-110_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"009",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Roboser",
+        "source_name":"Elite Spark",
+        "card_index":"110",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-111_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Koronesky",
+        "source_name":"Elite Spark",
+        "card_index":"111",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-111_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Koronesky",
+        "source_name":"Elite Spark",
+        "card_index":"111",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hBP03-112_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Watamates",
+        "source_name":"Elite Spark",
+        "card_index":"112",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-112_U":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Watamates",
+        "source_name":"Elite Spark",
+        "card_index":"112",
+        "source_index":"hBP03",
+        "rarity":"Uncommon",
+        "lang": "EN"
     },
     "hBP03-113_S":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Risuners",
+        "source_name":"Elite Spark",
+        "card_index":"113",
+        "source_index":"hBP03",
+        "rarity":"Special",
+        "lang": "EN"
     },
     "hBP03-113_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Risuners",
+        "source_name":"Elite Spark",
+        "card_index":"113",
+        "source_index":"hBP03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hSD05-009_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Todoroki Hajime",
+        "source_name":"Elite Spark",
+        "card_index":"009",
+        "source_index":"hSD05",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hSD06-007_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Kazama Iroha",
+        "source_name":"Elite Spark",
+        "card_index":"007",
+        "source_index":"hSD06",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hSD07-009_SR":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Shiranui Flare",
+        "source_name":"Elite Spark",
+        "card_index":"009",
+        "source_index":"hSD07",
+        "rarity":"SuperRare",
+        "lang": "EN"
     },
     "hY01-001_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"White Cheer",
+        "source_name":"Cheer",
+        "card_index":"001",
+        "source_index":"hY01",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hY01-004_SY":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"White Cheer",
+        "source_name":"Cheer",
+        "card_index":"004",
+        "source_index":"hY01",
+        "rarity":"SpecialYell",
+        "lang": "EN"
     },
     "hY02-001_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Green Cheer",
+        "source_name":"Cheer",
+        "card_index":"001",
+        "source_index":"hY02",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hY02-003_SY":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Green Cheer",
+        "source_name":"Cheer",
+        "card_index":"003",
+        "source_index":"hY02",
+        "rarity":"SpecialYell",
+        "lang": "EN"
     },
     "hY03-001_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Red Cheer",
+        "source_name":"Cheer",
+        "card_index":"001",
+        "source_index":"hY03",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hY03-003_SY":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Red Cheer",
+        "source_name":"Cheer",
+        "card_index":"003",
+        "source_index":"hY03",
+        "rarity":"SpecialYell",
+        "lang": "EN"
     },
     "hY04-001_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Blue Cheer",
+        "source_name":"Cheer",
+        "card_index":"001",
+        "source_index":"hY04",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hY04-003_SY":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Blue Cheer",
+        "source_name":"Cheer",
+        "card_index":"003",
+        "source_index":"hY04",
+        "rarity":"SpecialYell",
+        "lang": "EN"
     },
     "hY05-001_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Purple Cheer",
+        "source_name":"Cheer",
+        "card_index":"001",
+        "source_index":"hY05",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hY05-003_SY":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Purple Cheer",
+        "source_name":"Cheer",
+        "card_index":"003",
+        "source_index":"hY05",
+        "rarity":"SpecialYell",
+        "lang": "EN"
     },
     "hY06-001_C":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Yellow Cheer",
+        "source_name":"Cheer",
+        "card_index":"001",
+        "source_index":"hY06",
+        "rarity":"Common",
+        "lang": "EN"
     },
     "hY06-002_SY":
     {
-        "card_name":"Amane Kanata",
-        "source_name":"Blooming Radiance",
-        "card_index":"011",
-        "source_index":"hBP01",
-        "rarity":"Common"
+        "card_name":"Yellow Cheer",
+        "source_name":"Cheer",
+        "card_index":"002",
+        "source_index":"hY06",
+        "rarity":"SpecialYell",
+        "lang": "EN"
     }
 }

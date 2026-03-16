@@ -19,7 +19,8 @@ public class SceneController : MonoBehaviour
     #endregion
     [SerializeField] private LoadingOverlay loadingOverlay;
     private Dictionary<string, string> loadedSceneBySlot = new();
-    [SerializeField] private bool isBusy = false;
+    [SerializeField] public bool isBusy = false;
+    [SerializeField] public bool sceneChanged = false;
 
     public SceneTransitionPlan NewTransition()
     {
@@ -30,9 +31,11 @@ public class SceneController : MonoBehaviour
         if (isBusy)
         {
             Debug.LogWarning("Scene change already in Progress");
+            sceneChanged = false;
             return null;
         }
         isBusy = true;
+        sceneChanged = false;
         return StartCoroutine(ChangeSceneRoutine(plan));
     }
     private IEnumerator ChangeSceneRoutine(SceneTransitionPlan plan)
@@ -61,6 +64,7 @@ public class SceneController : MonoBehaviour
             yield return loadingOverlay.FadeOutBlack();
         }
         isBusy = false;
+        sceneChanged = true;
     }
     private IEnumerator LoadAdditiveRoutine(string slotKey, string sceneName, bool setActive)
     {
