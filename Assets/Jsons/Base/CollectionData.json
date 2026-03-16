@@ -1,6 +1,6 @@
 {
     "EN": {
-        "Blooming Radiance": {
+        "BloomingRadiance": {
             "hBP01-001_OSR": {
                 "count": "0"
             },
@@ -758,7 +758,7 @@
               "count": "0"
             }
         },
-        "Quintet Spectrum": {
+        "QuintetSpectrum": {
             "hBP02-001_OSR": {
               "count": "0"
             },
@@ -1417,7 +1417,7 @@
               "count": "0"
             }
         },
-        "Elite Spark": {
+        "EliteSpark": {
             "hBP03-001_OSR": {
               "count": "0"
             },

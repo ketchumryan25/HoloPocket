@@ -102,7 +102,7 @@ namespace UnlimitedScrollUI {
                 }
                 else
                 {
-                    Debug.Log($"{cardName} Token is null");
+                    Debug.Log($"{cardName} Token is null.");
                 }
             }
             else

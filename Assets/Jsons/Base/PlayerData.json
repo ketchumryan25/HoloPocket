@@ -2,13 +2,13 @@
   "Counts": {
     "Packs": {
       "EN_hBP01": {
-        "count": "0"
+        "count": "10"
       },
       "EN_hBP02": {
-        "count": "0"
+        "count": "10"
       },
       "EN_hBP03": {
-        "count": "0"
+        "count": "10"
       },
       "JP_hBP01": {
         "count": "0"
@@ -22,13 +22,13 @@
     },
     "Currency": {
       "TimeSkip": {
-        "count": "0"
+        "count": "6000"
       },
       "ShopTicket": {
         "count": "0"
       },
       "CardDust": {
-        "count": "0"
+        "count": "6000"
       },
       "Spyglass": {
         "count": "0"
