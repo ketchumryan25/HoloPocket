@@ -89,19 +89,39 @@ public class RNG : MonoBehaviour
 
     int GetTier(List<float> percentages)
     {
-        float randValue = GetRandomFloat();
-        float cumulative = 0f;
+        int maxAttempts = 10; // prevent infinite loops
+        int attempts = 0;
+        int selectedTier = -1;
 
-        for (int i = 0; i < percentages.Count; i++)
+        while (attempts < maxAttempts)
         {
-            cumulative += percentages[i];
+            float randValue = GetRandomFloat();
+            float cumulative = 0f;
 
-            if (randValue <= cumulative)
+            for (int i = 0; i < percentages.Count; i++)
             {
-                return i + 1; // tiers are 1-indexed
+                if (percentages[i] == 0f)
+                    continue; // skip zero percentage options
+
+                cumulative += percentages[i];
+
+                if (randValue <= cumulative)
+                {
+                    selectedTier = i;
+                    break;
+                }
             }
+
+            if (selectedTier != -1)
+            {
+            // Successfully selected a non-zero percentage tier
+                return selectedTier;
+            }
+
+            attempts++;
         }
 
-        return percentages.Count; // fallback
+        // If no non-zero tier was selected after max attempts, fallback
+        return 0;
     }
 }

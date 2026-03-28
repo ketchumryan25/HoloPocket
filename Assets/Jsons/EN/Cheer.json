@@ -1,0 +1,155 @@
+{
+    "hY01-001_C":
+    {
+        "card_name":"White Cheer",
+        "source_name":"Cheer",
+        "card_index":"001",
+        "source_index":"hY01",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hY01-003_SY":
+    {
+        "card_name":"White Cheer",
+        "source_name":"Cheer",
+        "card_index":"003",
+        "source_index":"hY01",
+        "rarity":"SpecialYell",
+        "lang": "EN"
+    },
+    "hY01-004_SY":
+    {
+        "card_name":"White Cheer",
+        "source_name":"Cheer",
+        "card_index":"004",
+        "source_index":"hY01",
+        "rarity":"SpecialYell",
+        "lang": "EN"
+    },
+    "hY02-001_C":
+    {
+        "card_name":"Green Cheer",
+        "source_name":"Cheer",
+        "card_index":"001",
+        "source_index":"hY02",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hY02-002_SY":
+    {
+        "card_name":"Green Cheer",
+        "source_name":"Cheer",
+        "card_index":"002",
+        "source_index":"hY02",
+        "rarity":"SpecialYell",
+        "lang": "EN"
+    },
+    "hY02-003_SY":
+    {
+        "card_name":"Green Cheer",
+        "source_name":"Cheer",
+        "card_index":"003",
+        "source_index":"hY02",
+        "rarity":"SpecialYell",
+        "lang": "EN"
+    },
+    "hY03-001_C":
+    {
+        "card_name":"Red Cheer",
+        "source_name":"Cheer",
+        "card_index":"001",
+        "source_index":"hY03",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hY03-002_SY":
+    {
+        "card_name":"Red Cheer",
+        "source_name":"Cheer",
+        "card_index":"002",
+        "source_index":"hY03",
+        "rarity":"SpecialYell",
+        "lang": "EN"
+    },
+    "hY03-003_SY":
+    {
+        "card_name":"Red Cheer",
+        "source_name":"Cheer",
+        "card_index":"003",
+        "source_index":"hY03",
+        "rarity":"SpecialYell",
+        "lang": "EN"
+    },
+    "hY04-001_C":
+    {
+        "card_name":"Blue Cheer",
+        "source_name":"Cheer",
+        "card_index":"001",
+        "source_index":"hY04",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hY04-002_SY":
+    {
+        "card_name":"Blue Cheer",
+        "source_name":"Cheer",
+        "card_index":"002",
+        "source_index":"hY04",
+        "rarity":"SpecialYell",
+        "lang": "EN"
+    },
+    "hY04-003_SY":
+    {
+        "card_name":"Blue Cheer",
+        "source_name":"Cheer",
+        "card_index":"003",
+        "source_index":"hY04",
+        "rarity":"SpecialYell",
+        "lang": "EN"
+    },
+    "hY05-001_C":
+    {
+        "card_name":"Purple Cheer",
+        "source_name":"Cheer",
+        "card_index":"001",
+        "source_index":"hY05",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hY05-002_SY":
+    {
+        "card_name":"Purple Cheer",
+        "source_name":"Cheer",
+        "card_index":"002",
+        "source_index":"hY05",
+        "rarity":"SpecialYell",
+        "lang": "EN"
+    },
+    "hY05-003_SY":
+    {
+        "card_name":"Purple Cheer",
+        "source_name":"Cheer",
+        "card_index":"003",
+        "source_index":"hY05",
+        "rarity":"SpecialYell",
+        "lang": "EN"
+    },
+    "hY06-001_C":
+    {
+        "card_name":"Yellow Cheer",
+        "source_name":"Cheer",
+        "card_index":"001",
+        "source_index":"hY06",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hY06-002_SY":
+    {
+        "card_name":"Yellow Cheer",
+        "source_name":"Cheer",
+        "card_index":"002",
+        "source_index":"hY06",
+        "rarity":"SpecialYell",
+        "lang": "EN"
+    }
+}

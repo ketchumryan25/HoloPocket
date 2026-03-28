@@ -55,10 +55,35 @@ namespace UnlimitedScrollUI {
                     GameObject contentSprites = (GameObject)obj;
                     if (contentSprites != null)
                     {
-                        SpriteManager spritesManager = contentSprites.GetComponent<SpriteManager>();
+                        if (contentSprites.name == "EN_Cheer")
+                        {
+                            SpriteManager[] spriteManagers = contentSprites.GetComponents<SpriteManager>();
+                            int count = spriteManagers.Length;
+                            Debug.Log("Count was " + count);
+                            string targetID = "Cheer";
+                            SpriteManager cheerManager = null;
+                            foreach (var manager in spriteManagers)
+                            {
+                                if (manager.managerID == targetID)
+                                {
+                                    cheerManager = manager;
+                                    break;
+                                }
+                            }
+                            if (cheerManager != null)
+                            {
+                                Sprite cheer = cheerManager.GetSpriteByIndex(index);
+                                image.sprite = cheer;
+                            }
 
-                        Sprite sprite = spritesManager.GetSpriteByIndex(index);
-                        image.sprite = sprite;
+                        }
+                        else
+                        {
+                            SpriteManager spritesManager = contentSprites.GetComponent<SpriteManager>();
+
+                            Sprite sprite = spritesManager.GetSpriteByIndex(index);
+                            image.sprite = sprite;
+                        }
                     }
                 }
             }
