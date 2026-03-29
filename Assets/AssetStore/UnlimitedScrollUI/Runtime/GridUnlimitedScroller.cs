@@ -76,6 +76,8 @@ namespace UnlimitedScrollUI {
         /// <inheritdoc cref="IUnlimitedScroller.CellPerRow"/>
         public int CellPerRow => cellPerRow;
 
+        public int startingRows = 3;
+
         #endregion
 
         #region Public Fields
@@ -326,7 +328,7 @@ namespace UnlimitedScrollUI {
             return start;
         }
 
-        private void GenerateCell(int index, ScrollerPanelSide side) {
+        public void GenerateCell(int index, ScrollerPanelSide side) {
             ICell iCell;
             if (cachedCells.TryGet(index, out var instance)) {
                 instance.transform.SetParent(contentTrans);
@@ -349,7 +351,7 @@ namespace UnlimitedScrollUI {
             iCell.OnBecomeVisible(side);
         }
         
-        private void GenerateAllCells() {
+        public void GenerateAllCells() {
             currentFirstCol = FirstCol;
             currentLastCol = LastCol;
             currentFirstRow = FirstRow;
@@ -369,6 +371,16 @@ namespace UnlimitedScrollUI {
                     if (index >= totalCount) continue;
                     GenerateCell(index, ScrollerPanelSide.NoSide);
                 }
+            }
+        }
+
+        public void MoveCellsToCache()
+        {
+            int startingCellCount = cellPerRow * startingRows;
+            var total = currentCells.Count;
+            for (var i = total; i > startingCellCount; i++)
+            {
+                DestroyCell(total, ScrollerPanelSide.NoSide);
             }
         }
 

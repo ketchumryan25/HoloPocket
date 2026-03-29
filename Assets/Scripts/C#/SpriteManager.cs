@@ -11,6 +11,7 @@ public class SpriteTagPair
 
 public class SpriteManager : MonoBehaviour
 {
+    public string managerID;
     // List of tagged sprites visible in Inspector
     public List<SpriteTagPair> spriteList = new List<SpriteTagPair>();
 

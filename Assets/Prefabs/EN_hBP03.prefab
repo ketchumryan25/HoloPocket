@@ -54,7 +54,7 @@ MonoBehaviour:
     m_Left: 25
     m_Right: 0
     m_Top: 15
-    m_Bottom: 50
+    m_Bottom: 15
   m_ChildAlignment: 0
   m_StartCorner: 0
   m_StartAxis: 0
@@ -64,7 +64,7 @@ MonoBehaviour:
   m_ConstraintCount: 2
   matchContentWidth: 0
   cellPerRow: 8
-  cacheSize: 35
+  cacheSize: 230
   scrollRect: {fileID: 0}
   horizontalAlignment: 1
 --- !u!114 &5776261740158998065

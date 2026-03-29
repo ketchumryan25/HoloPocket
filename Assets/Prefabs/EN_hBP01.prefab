@@ -51,10 +51,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Padding:
-    m_Left: 25
+    m_Left: 23
     m_Right: 0
     m_Top: 15
-    m_Bottom: 50
+    m_Bottom: 15
   m_ChildAlignment: 0
   m_StartCorner: 0
   m_StartAxis: 0
@@ -62,9 +62,10 @@ MonoBehaviour:
   m_Spacing: {x: 20, y: 20}
   m_Constraint: 0
   m_ConstraintCount: 2
+  startingRows: 0
   matchContentWidth: 0
   cellPerRow: 8
-  cacheSize: 35
+  cacheSize: 250
   scrollRect: {fileID: 0}
   horizontalAlignment: 1
 --- !u!114 &3357508110610195383

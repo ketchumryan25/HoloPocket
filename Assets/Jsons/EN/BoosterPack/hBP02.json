@@ -1547,6 +1547,15 @@
         "rarity":"Special",
         "lang": "EN"
     },
+    "hBP02-086_C":
+    {
+        "card_name":"holoSparkling",
+        "source_name":"QuintetSpectrum",
+        "card_index":"086",
+        "source_index":"hBP02",
+        "rarity":"Common",
+        "lang": "EN"
+    },
     "hBP02-086_S":
     {
         "card_name":"holoSparkling",
