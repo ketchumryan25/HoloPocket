@@ -19,7 +19,7 @@ namespace UnlimitedScrollUI {
         public bool isOwned;
         public GameObject content;
         public string cardName;
-        public UIEffect effect;
+        //public UIEffect effect;
         public int cardCount = 0;
         
         private InfoDisplay infoDisplay;
@@ -59,7 +59,7 @@ namespace UnlimitedScrollUI {
                         {
                             SpriteManager[] spriteManagers = contentSprites.GetComponents<SpriteManager>();
                             int count = spriteManagers.Length;
-                            Debug.Log("Count was " + count);
+                            //Debug.Log("Count was " + count);
                             string targetID = "Cheer";
                             SpriteManager cheerManager = null;
                             foreach (var manager in spriteManagers)
@@ -91,11 +91,11 @@ namespace UnlimitedScrollUI {
 
         public void SetUIEffect()
         {
-            if (effect != null)
-            {
+            //if (effect != null)
+            //{
                 //Debug.Log($"{isOwned}");
-                effect.enabled = !isOwned;
-            }
+                //effect.enabled = !isOwned;
+            //}
         }
 
         public void GetOwned()

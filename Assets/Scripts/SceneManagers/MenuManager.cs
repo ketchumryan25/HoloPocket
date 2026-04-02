@@ -44,6 +44,14 @@ public class MenuManager : MonoBehaviour
             .WithOverlay()
             .Perform();
     }
+    public void SwitchToWonderPickOpen()
+    {
+        SceneController.Instance
+            .NewTransition()
+            .Load(SceneDatabase.Slots.SessionContent, SceneDatabase.Scenes.WonderPickOpen, setActive: true)
+            .WithOverlay()
+            .Perform();
+    }
     public void SwitchToBoosterPacks()
     {
         SceneController.Instance
