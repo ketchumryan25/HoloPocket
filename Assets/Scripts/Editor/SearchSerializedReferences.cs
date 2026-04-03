@@ -10,7 +10,11 @@ public class SearchSerializedReferences
         string[] assetPaths = AssetDatabase.GetAllAssetPaths();
         foreach (string path in assetPaths)
         {
-            if (path.EndsWith(".prefab") || path.EndsWith(".asset") || path.EndsWith(".unity"))
+            if (path.EndsWith(".prefab") 
+                || path.EndsWith(".asset") 
+                || path.EndsWith(".unity") 
+                || path.EndsWith(".scene") 
+                || path.EndsWith(".cs"))
             {
                 string text = File.ReadAllText(path);
                 if (text.Contains("UIEffect"))
