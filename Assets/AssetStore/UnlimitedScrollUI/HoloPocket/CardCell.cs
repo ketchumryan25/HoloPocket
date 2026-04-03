@@ -5,7 +5,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
-using Coffee.UIEffects;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using Unity.VisualScripting;
@@ -19,7 +18,6 @@ namespace UnlimitedScrollUI {
         public bool isOwned;
         public GameObject content;
         public string cardName;
-        //public UIEffect effect;
         public int cardCount = 0;
         
         private InfoDisplay infoDisplay;
@@ -87,15 +85,6 @@ namespace UnlimitedScrollUI {
                     }
                 }
             }
-        }
-
-        public void SetUIEffect()
-        {
-            //if (effect != null)
-            //{
-                //Debug.Log($"{isOwned}");
-                //effect.enabled = !isOwned;
-            //}
         }
 
         public void GetOwned()
