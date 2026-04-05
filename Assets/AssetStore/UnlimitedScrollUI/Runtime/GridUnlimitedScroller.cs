@@ -105,6 +105,12 @@ namespace UnlimitedScrollUI {
         /// </summary>
         [Tooltip("The ScrollRect component on ScrollView.")]
         public ScrollRect scrollRect;
+                
+        /// <summary>
+        /// The Cache Node Game Object for this Content.
+        /// </summary>
+        [Tooltip("Cache Node Object")]
+        public GameObject cacheNode;
 
         public Alignment horizontalAlignment;
 
@@ -151,6 +157,18 @@ namespace UnlimitedScrollUI {
             
             if (totalCount <= 0) return;
             GenerateAllCells();
+        }
+
+        public void GenerateAllCards(GameObject newCell, int newTotalCount, Action<int, ICell> onGenerate)
+        {
+            if (!Initialized) Initialize();
+            cellPrefab = newCell;
+            totalCount = newTotalCount;
+            onCellGenerate = onGenerate;
+            InitParams();
+            GenerateAllCells();
+            Generated = true;
+            Debug.Log("GeneratedAllCards");
         }
 
         public void JumpTo(uint index, JumpToMethod method) {
@@ -302,7 +320,7 @@ namespace UnlimitedScrollUI {
             
             currentCells = new List<Cell>();
             
-            pendingDestroyGo = new GameObject("[Cache Node]");
+            pendingDestroyGo = cacheNode;
             pendingDestroyGo.transform.SetParent(transform);
             pendingDestroyGo.SetActive(false);
 

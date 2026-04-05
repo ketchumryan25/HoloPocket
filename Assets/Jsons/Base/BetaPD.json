@@ -1,0 +1,101 @@
+{
+  "Version": "Beta",
+  "Profile": {
+    "Avatar": "",
+    "UID": ""
+  },
+  "Counts": {
+    "Packs": {
+      "EN_hBP01": {
+        "count": "10"
+      },
+      "EN_hBP02": {
+        "count": "10"
+      },
+      "EN_hBP03": {
+        "count": "10"
+      },
+      "JP_hBP01": {
+        "count": "0"
+      },
+      "JP_hBP02": {
+        "count": "0"
+      },
+      "JP_hBP03": {
+        "count": "0"
+      }
+    },
+    "Currency": {
+      "TimeSkip": {
+        "count": "6000"
+      },
+      "ShopTicket": {
+        "count": "0"
+      },
+      "CardDust": {
+        "count": "6000"
+      },
+      "Spyglass": {
+        "count": "0"
+      }
+    },
+    "WonderPick": {
+      "EN_hBP01": {
+        "count": "1"
+      },
+      "EN_hBP02": {
+        "count": "1"
+      },
+      "EN_hBP03": {
+        "count": "1"
+      },
+      "EN_Cheer": {
+        "count": "1"
+      }
+    },
+    "Tasks": {
+      "Missions": {
+        "Open_1": "0",
+        "Open_3": "0",
+        "Pick_1": "0",
+        "Pick_3": "0"
+      },
+      "Quests": {
+        "Open_10": "0",
+        "Open_30": "0",
+        "Pick_10": "0",
+        "Pick_30": "0"
+      },
+      "Challenges": {
+        "Open_50": "0",
+        "Open_100": "0",
+        "Open_200": "0",
+        "Pick_50": "0",
+        "Pick_100": "0",
+        "Pick_200": "0"
+      }
+    }
+  },
+  "Tasks": {
+    "Missions": {
+      "Open_1": false,
+      "Open_3": false,
+      "Pick_1": false,
+      "Pick_3": false
+    },
+    "Quests": {
+      "Open_10": false,
+      "Open_30": false,
+      "Pick_10": false,
+      "Pick_30": false
+    },
+    "Challenges": {
+      "Open_50": false,
+      "Open_100": false,
+      "Open_200": false,
+      "Pick_50": false,
+      "Pick_100": false,
+      "Pick_200": false
+    }
+  }
+}
