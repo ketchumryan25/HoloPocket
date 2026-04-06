@@ -27,13 +27,13 @@
     },
     "Currency": {
       "TimeSkip": {
-        "count": "6000"
+        "count": "3000"
       },
       "ShopTicket": {
         "count": "0"
       },
       "CardDust": {
-        "count": "6000"
+        "count": "3000"
       },
       "Spyglass": {
         "count": "0"
