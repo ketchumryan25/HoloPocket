@@ -27,6 +27,9 @@ EditorBuildSettings:
     path: Assets/Scenes/WonderPick.unity
     guid: e7ce88114ca09a747a702057095d3dd7
   - enabled: 1
+    path: Assets/Scenes/WonderPickOpen.unity
+    guid: 3b3a94c333c372242b034e2c47e8b1da
+  - enabled: 1
     path: Assets/Scenes/BoosterPacks.unity
     guid: b2f62135dbb633444b2e16aaad5db777
   - enabled: 1

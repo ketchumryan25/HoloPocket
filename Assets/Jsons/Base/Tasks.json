@@ -1,0 +1,22 @@
+{
+    "Missions": {
+            "Open_1": "Open 1 Pack",
+            "Open_3": "Open 3 Packs",
+            "Pick_1": "WonderPick 1 Card",
+            "Pick_3": "WonderPick 3 Cards"
+    },
+    "Quests": {
+            "Open_10": "Open 10 Packs",
+            "Open_30": "Open 30 Packs",
+            "Pick_10": "WonderPick 10 Cards",
+            "Pick_30": "WonderPick 30 Cards"
+    },
+    "Challenges": {
+            "Open_50": "Open 50 Packs",
+            "Open_100": "Open 100 Packs",
+            "Open_200": "Open 200 Packs",
+            "Pick_50": "WonderPick 50 Cards",
+            "Pick_100": "WonderPick 100 Cards",
+            "Pick_200": "WonderPick 200 Cards"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "TimeSkip": {
+        "Missions": {
+            "Open_1": "2",
+            "Open_3": "4",
+            "Pick_1": "2",
+            "Pick_3": "4"
+        },
+        "Quests": {
+            "Open_10": "8",
+            "Open_30": "15",
+            "Pick_10": "8",
+            "Pick_30": "15"
+        },
+        "Challenges": {
+            "Open_50": "25",
+            "Open_100": "50",
+            "Open_200": "120",
+            "Pick_50": "25",
+            "Pick_100": "50",
+            "Pick_200": "120"
+        }
+    },
+    "CardDust": {
+        "Missions": {
+            "Open_1": "2",
+            "Open_3": "4",
+            "Pick_1": "2",
+            "Pick_3": "4"
+        },
+        "Quests": {
+            "Open_10": "8",
+            "Open_30": "15",
+            "Pick_10": "8",
+            "Pick_30": "15"
+        },
+        "Challenges": {
+            "Open_50": "25",
+            "Open_100": "50",
+            "Open_200": "120",
+            "Pick_50": "25",
+            "Pick_100": "50",
+            "Pick_200": "120"
+        }
+    },
+    "Spyglass": {
+        "Missions": {
+            "Open_1": "0",
+            "Open_3": "0",
+            "Pick_1": "0",
+            "Pick_3": "0"
+        },
+        "Quests": {
+            "Open_10": "1",
+            "Open_30": "2",
+            "Pick_10": "1",
+            "Pick_30": "2"
+        },
+        "Challenges": {
+            "Open_50": "3",
+            "Open_100": "5",
+            "Open_200": "10",
+            "Pick_50": "3",
+            "Pick_100": "5",
+            "Pick_200": "10"
+        }
+    }
+}

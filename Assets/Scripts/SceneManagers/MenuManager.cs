@@ -4,6 +4,14 @@ using UnityEngine;
 
 public class MenuManager : MonoBehaviour
 {
+    public void SwitchToTitleScreen()
+    {
+        SceneController.Instance
+            .NewTransition()
+            .Load(SceneDatabase.Slots.SessionContent, SceneDatabase.Scenes.TitleScreen, setActive: true)
+            .WithOverlay()
+            .Perform();
+    }
     public void SwitchToMainMenu()
     {
         SceneController.Instance
@@ -41,6 +49,14 @@ public class MenuManager : MonoBehaviour
         SceneController.Instance
             .NewTransition()
             .Load(SceneDatabase.Slots.SessionContent, SceneDatabase.Scenes.WonderPick, setActive: true)
+            .WithOverlay()
+            .Perform();
+    }
+    public void SwitchToWonderPickOpen()
+    {
+        SceneController.Instance
+            .NewTransition()
+            .Load(SceneDatabase.Slots.SessionContent, SceneDatabase.Scenes.WonderPickOpen, setActive: true)
             .WithOverlay()
             .Perform();
     }

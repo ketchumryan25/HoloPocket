@@ -5,5 +5,8 @@
     "Cheer": "Cheer",
     "BloomingRadiance": "hBP01",
     "QuintetSpectrum": "hBP02",
-    "EliteSpark": "hBP03"
+    "EliteSpark": "hBP03",
+    "hBP01": "BloomingRadiance",
+    "hBP02": "QuintetSpectrum",
+    "hBP03": "EliteSpark"
 }

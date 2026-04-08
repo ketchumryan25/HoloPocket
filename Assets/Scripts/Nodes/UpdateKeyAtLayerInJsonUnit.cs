@@ -2,13 +2,11 @@ using UnityEngine;
 using Unity.VisualScripting;
 using Newtonsoft.Json.Linq;
 using System;
-using System.Collections.Generic;
 
 [UnitTitle("Update Key at Layer in JSON")]
 [UnitCategory("Custom/JSON")]
 public class UpdateKeyAtLayerInJsonUnit : Unit
 {
-
     // Inputs
     [DoNotSerialize]
     public ValueInput jsonInput; // JSON array or object
@@ -17,7 +15,7 @@ public class UpdateKeyAtLayerInJsonUnit : Unit
     public ValueInput keyPathInput; // Path to key, e.g., "layer1.layer2.key"
 
     [DoNotSerialize]
-    public ValueInput newValueInput; // New value
+    public ValueInput newValueInput; // New value as string
 
     // Output
     [DoNotSerialize]
@@ -68,7 +66,7 @@ public class UpdateKeyAtLayerInJsonUnit : Unit
                 UpdateValueAtPath(token, keyPath, newValue);
             }
 
-            return token.ToString();
+            return token.ToString(Newtonsoft.Json.Formatting.None);
         }
         catch (Exception e)
         {
@@ -97,7 +95,19 @@ public class UpdateKeyAtLayerInJsonUnit : Unit
                     var obj = (JObject)current;
                     if (obj.ContainsKey(keys[i]))
                     {
-                        obj[keys[i]] = JToken.FromObject(newVal);
+                        // Check for "true"/"false" and set as boolean
+                        if (string.Equals(newVal, "true", StringComparison.OrdinalIgnoreCase))
+                        {
+                            obj[keys[i]] = JToken.FromObject(true);
+                        }
+                        else if (string.Equals(newVal, "false", StringComparison.OrdinalIgnoreCase))
+                        {
+                            obj[keys[i]] = JToken.FromObject(false);
+                        }
+                        else
+                        {
+                            obj[keys[i]] = JToken.FromObject(newVal);
+                        }
                     }
                 }
             }

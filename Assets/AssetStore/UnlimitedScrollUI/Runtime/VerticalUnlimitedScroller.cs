@@ -123,6 +123,19 @@ namespace UnlimitedScrollUI {
             if (totalCount <= 0) return;
             GenerateAllCells();
         }
+        
+        public void GenerateAllCards(GameObject newCell, int newTotalCount, Action<int, ICell> onGenerate)
+        {
+            if (!Initialized) Initialize();
+            cellPrefab = newCell;
+            totalCount = newTotalCount;
+            onCellGenerate = onGenerate;
+            InitParams();
+            GenerateAllCells();
+            Generated = true;
+            Debug.Log("GeneratedAllCards");
+        }
+
 
         public void JumpTo(uint index, JumpToMethod method) {
             if (index >= totalCount) return;

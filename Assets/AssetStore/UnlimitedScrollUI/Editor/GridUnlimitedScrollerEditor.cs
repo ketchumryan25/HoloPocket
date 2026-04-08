@@ -10,6 +10,7 @@ namespace UnlimitedScrollUI {
         private SerializedProperty horizontalAlignment;
         private SerializedProperty cacheSize;
         private SerializedProperty scrollRect;
+        private SerializedProperty cacheNode;
 
         protected override void OnEnable() {
             base.OnEnable();
@@ -19,6 +20,7 @@ namespace UnlimitedScrollUI {
             horizontalAlignment = serializedObject.FindProperty("horizontalAlignment");
             cacheSize = serializedObject.FindProperty("cacheSize");
             scrollRect = serializedObject.FindProperty("scrollRect");
+            cacheNode = serializedObject.FindProperty("cacheNode");
         }
 
         public override void OnInspectorGUI() {
@@ -34,6 +36,7 @@ namespace UnlimitedScrollUI {
             EditorGUILayout.PropertyField(horizontalAlignment, true);
             EditorGUILayout.PropertyField(cacheSize, true);
             EditorGUILayout.PropertyField(scrollRect, true);
+            EditorGUILayout.PropertyField(cacheNode, true);
 
             serializedObject.ApplyModifiedProperties();
         }

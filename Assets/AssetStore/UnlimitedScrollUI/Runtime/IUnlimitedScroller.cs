@@ -75,6 +75,14 @@ namespace UnlimitedScrollUI
         void Generate(GameObject newCell, int newTotalCount, Action<int, ICell> onGenerate);
 
         /// <summary>
+        /// Call this function to initialize and generate cells.
+        /// </summary>
+        /// <param name="newCell">The cell game object.</param>
+        /// <param name="newTotalCount">The total cell count you want to generate.</param>
+        /// <param name="onGenerate">The delegate when the cell is generated, you can initialize cell data here.</param>
+        void GenerateAllCards(GameObject newCell, int newTotalCount, Action<int, ICell> onGenerate);
+
+        /// <summary>
         /// Call this function to jump to cell at index.
         /// </summary>
         /// <param name="index">The index of the cell.</param>

@@ -6,6 +6,7 @@ namespace UnlimitedScrollUI {
     public class CollectionScroller : MonoBehaviour {
         public GameObject cell;
         public bool autoGenerate;
+        public bool generateAll;
         public int totalCount = 33;
         public string lang;
         public string source;
@@ -19,12 +20,25 @@ namespace UnlimitedScrollUI {
                 if (regularCell != null) regularCell.onGenerated?.Invoke(index);
             });
         }
+        
+        public void GenerateAll() {
+            unlimitedScroller = GetComponent<IUnlimitedScroller>();
+            unlimitedScroller.GenerateAllCards(cell, totalCount, (index, iCell) => {
+                var regularCell = iCell as RegularCell;
+                if (regularCell != null) regularCell.onGenerated?.Invoke(index);
+            });
+        }
+
 
         private void Start() {
             unlimitedScroller = GetComponent<IUnlimitedScroller>();
             // Wait until the scroller size was set by other layout controllers.
             if (autoGenerate) {
                 StartCoroutine(DelayGenerate());
+            }
+            if (generateAll) {
+                Debug.Log("GenerateAll");
+                GenerateAll();
             }
         }
 
