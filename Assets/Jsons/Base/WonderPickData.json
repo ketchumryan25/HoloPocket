@@ -1,4 +1,5 @@
 {
+    "Version": "Beta",
     "EN_hBP01": {
         "Card_1": "",
         "Card_2": "",
@@ -14,6 +15,13 @@
         "Card_5": ""
     },
     "EN_hBP03": {
+        "Card_1": "",
+        "Card_2": "",
+        "Card_3": "",
+        "Card_4": "",
+        "Card_5": ""
+    },
+    "EN_Cheer": {
         "Card_1": "",
         "Card_2": "",
         "Card_3": "",

@@ -4,6 +4,14 @@ using UnityEngine;
 
 public class MenuManager : MonoBehaviour
 {
+    public void SwitchToTitleScreen()
+    {
+        SceneController.Instance
+            .NewTransition()
+            .Load(SceneDatabase.Slots.SessionContent, SceneDatabase.Scenes.TitleScreen, setActive: true)
+            .WithOverlay()
+            .Perform();
+    }
     public void SwitchToMainMenu()
     {
         SceneController.Instance

@@ -1,5 +1,7 @@
 {
-  "TimeStart": "2026/03/16 18:54:40",
-  "TimeExit": "2026/03/16 18:55:01",
-  "TimeSkipTimer": "0"
+  "Version": "Beta",
+  "TimeStart": "",
+  "TimeExit": "",
+  "TimeSkipTimer": "0",
+  "ResetTime": ""
 }

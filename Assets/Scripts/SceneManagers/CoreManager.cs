@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CoreManager : MonoBehaviour
 {
-    void Start()
+    public void SwitchToTitleScreen()
     {
         SceneController.Instance
             .NewTransition()
