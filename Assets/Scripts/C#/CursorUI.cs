@@ -41,7 +41,15 @@ public class CursorUI : MonoBehaviour
         if (RectTransformUtility.ScreenPointToLocalPointInRectangle(
             _canvasRectTransform, mousePosition, _canvasCamera, out var localPoint))
         {
-            _cursorTransform.anchoredPosition = localPoint;
+            Vector2 clampedPoint = localPoint;
+
+            Vector2 min = _canvasRectTransform.rect.min;
+            Vector2 max = _canvasRectTransform.rect.max;
+
+            clampedPoint.x = Mathf.Clamp(localPoint.x, min.x, max.x);
+            clampedPoint.y = Mathf.Clamp(localPoint.y, min.y, max.y);
+
+            _cursorTransform.anchoredPosition = clampedPoint;
         }
     }
 }
