@@ -1,22 +1,51 @@
 {
     "Missions": {
-            "Open_1": "Open 1 Pack",
-            "Open_3": "Open 3 Packs",
-            "Pick_1": "WonderPick 1 Card",
-            "Pick_3": "WonderPick 3 Cards"
+        "Open_1": "Open 1 Pack",
+        "Open_3": "Open 3 Packs",
+        "Pick_1": "WonderPick 1 Card",
+        "Pick_3": "WonderPick 3 Cards",
+        "Shred_1": "Shred 1 Cards",
+        "Shred_3": "Shred 3 Cards"
     },
     "Quests": {
-            "Open_10": "Open 10 Packs",
-            "Open_30": "Open 30 Packs",
-            "Pick_10": "WonderPick 10 Cards",
-            "Pick_30": "WonderPick 30 Cards"
+        "Open_10": "Open 10 Packs",
+        "Open_30": "Open 30 Packs",
+        "Pick_10": "WonderPick 10 Cards",
+        "Pick_30": "WonderPick 30 Cards",
+        "Shred_10": "Shred 10 Cards",
+        "Shred_30": "Shred 30 Cards"
     },
     "Challenges": {
-            "Open_50": "Open 50 Packs",
-            "Open_100": "Open 100 Packs",
-            "Open_200": "Open 200 Packs",
-            "Pick_50": "WonderPick 50 Cards",
-            "Pick_100": "WonderPick 100 Cards",
-            "Pick_200": "WonderPick 200 Cards"
+        "Open_50": "Open 50 Packs",
+        "Open_100": "Open 100 Packs",
+        "Open_200": "Open 200 Packs",
+        "Pick_50": "WonderPick 50 Cards",
+        "Pick_75": "WonderPick 100 Cards",
+        "Pick_100": "WonderPick 200 Cards",
+        "Shred_75": "Shred 75 Cards",
+        "Shred_125": "Shred 125 Cards",
+        "Shred_250": "Shred 250 Cards"
+    },
+    "Rituals": {
+        "Open_500": "Open 500 Packs",
+        "Open_1000": "Open 1000 Packs",
+        "Open_2000": "Open 2000 Packs",
+        "Pick_500": "WonderPick 500 Cards",
+        "Pick_1000": "WonderPick 1000 Cards",
+        "Pick_1750": "WonderPick 1750 Cards",
+        "Shred_750": "Shred 750 Cards",
+        "Shred_1250": "Shred 1250 Cards",
+        "Shred_2500": "Shred 2500 Cards"
+    },
+    "Milestones": {
+        "Open_1500": "Open 1500 Packs",
+        "Open_2500": "Open 2500 Packs",
+        "Open_5000": "Open 5000 Packs",
+        "Pick_1500": "WonderPick 1500 Cards",
+        "Pick_2500": "WonderPick 2500 Cards",
+        "Pick_3500": "WonderPick 3500 Cards",
+        "Shred_1750": "Shred 1750 Cards",
+        "Shred_3000": "Shred 3000 Cards",
+        "Shred_6000": "Shred 6000 Cards"
     }
 }

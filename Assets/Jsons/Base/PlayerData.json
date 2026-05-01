@@ -1,5 +1,5 @@
 {
-  "Version": "Beta",
+  "Version": "Release",
   "Profile": {
     "Avatar": "",
     "UID": ""
@@ -58,21 +58,50 @@
         "Open_1": "0",
         "Open_3": "0",
         "Pick_1": "0",
-        "Pick_3": "0"
+        "Pick_3": "0",
+        "Shred_1": "0",
+        "Shred_3": "0"
       },
       "Quests": {
         "Open_10": "0",
         "Open_30": "0",
         "Pick_10": "0",
-        "Pick_30": "0"
+        "Pick_30": "0",
+        "Shred_10": "0",
+        "Shred_30": "0"
       },
       "Challenges": {
         "Open_50": "0",
         "Open_100": "0",
         "Open_200": "0",
         "Pick_50": "0",
+        "Pick_75": "0",
         "Pick_100": "0",
-        "Pick_200": "0"
+        "Shred_75": "0",
+        "Shred_125": "0",
+        "Shred_250": "0"
+      },
+      "Rituals": {
+        "Open_500": "0",
+        "Open_1000": "0",
+        "Open_2000": "0",
+        "Pick_500": "0",
+        "Pick_1000": "0",
+        "Pick_1750": "0",
+        "Shred_750": "0",
+        "Shred_1250": "0",
+        "Shred_2500": "0"
+      },
+      "Milestones": {
+        "Open_1500": "0",
+        "Open_2500": "0",
+        "Open_5000": "0",
+        "Pick_1500": "0",
+        "Pick_2500": "0",
+        "Pick_3500": "0",
+        "Shred_1750": "0",
+        "Shred_3000": "0",
+        "Shred_6000": "0"
       }
     }
   },
@@ -81,21 +110,50 @@
       "Open_1": false,
       "Open_3": false,
       "Pick_1": false,
-      "Pick_3": false
+      "Pick_3": false,
+      "Shred_1": false,
+      "Shred_3": false
     },
     "Quests": {
       "Open_10": false,
       "Open_30": false,
       "Pick_10": false,
-      "Pick_30": false
+      "Pick_30": false,
+      "Shred_10": false,
+      "Shred_30": false
     },
     "Challenges": {
       "Open_50": false,
       "Open_100": false,
       "Open_200": false,
       "Pick_50": false,
+      "Pick_75": false,
       "Pick_100": false,
-      "Pick_200": false
+      "Shred_75": false,
+      "Shred_125": false,
+      "Shred_250": false
+    },
+    "Rituals": {
+      "Open_500": false,
+      "Open_1000": false,
+      "Open_2000": false,
+      "Pick_500": false,
+      "Pick_1000": false,
+      "Pick_1750": false,
+      "Shred_750": false,
+      "Shred_1250": false,
+      "Shred_2500": false
+    },
+    "Milestones": {
+      "Open_1500": false,
+      "Open_2500": false,
+      "Open_5000": false,
+      "Pick_1500": false,
+      "Pick_2500": false,
+      "Pick_3500": false,
+      "Shred_1750": false,
+      "Shred_3000": false,
+      "Shred_6000": false
     }
   }
 }
