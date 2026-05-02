@@ -1,0 +1,378 @@
+{
+    "hBP01-012_P": {
+        "card_name":"Amana Kanata",
+        "source_name":"BloomingRadiance",
+        "card_index":"012",
+        "source_index":"hBP01",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hBP01-021_P": {
+        "card_name":"Tokino Sora",
+        "source_name":"BloomingRadiance",
+        "card_index":"021",
+        "source_index":"hBP01",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hBP01-024_P": {
+        "card_name":"Vestia Zeta",
+        "source_name":"BloomingRadiance",
+        "card_index":"024",
+        "source_index":"hBP01",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hBP01-026_P": {
+        "card_name":"Vestia Zeta",
+        "source_name":"BloomingRadiance",
+        "card_index":"026",
+        "source_index":"hBP01",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hBP01-030_P": {
+        "card_name":"IRyS",
+        "source_name":"BloomingRadiance",
+        "card_index":"030",
+        "source_index":"hBP01",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hBP01-032_P": {
+        "card_name":"Aki Rosenthal",
+        "source_name":"BloomingRadiance",
+        "card_index":"032",
+        "source_index":"hBP01",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hBP01-041_P": {
+        "card_name":"Usada Pekora",
+        "source_name":"BloomingRadiance",
+        "card_index":"041",
+        "source_index":"hBP01",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hBP01-044_P": {
+        "card_name":"AZKi",
+        "source_name":"BloomingRadiance",
+        "card_index":"044",
+        "source_index":"hBP01",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hBP01-048_P": {
+        "card_name":"Kazama Iroha",
+        "source_name":"BloomingRadiance",
+        "card_index":"048",
+        "source_index":"hBP01",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hBP01-050_P": {
+        "card_name":"Kazama Iroha",
+        "source_name":"BloomingRadiance",
+        "card_index":"050",
+        "source_index":"hBP01",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hBP01-054_P": {
+        "card_name":"Airani lofiteen",
+        "source_name":"BloomingRadiance",
+        "card_index":"054",
+        "source_index":"hBP01",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hBP01-062_P": {
+        "card_name":"Takanashi Kiara",
+        "source_name":"BloomingRadiance",
+        "card_index":"062",
+        "source_index":"hBP01",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hBP01-065_P": {
+        "card_name":"Takanashi Kiara",
+        "source_name":"BloomingRadiance",
+        "card_index":"065",
+        "source_index":"hBP01",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hBP01-068_P": {
+        "card_name":"Omaru Polka",
+        "source_name":"BloomingRadiance",
+        "card_index":"068",
+        "source_index":"hBP01",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hBP01-070_P": {
+        "card_name":"Omaru Polka",
+        "source_name":"BloomingRadiance",
+        "card_index":"070",
+        "source_index":"hBP01",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hBP01-072_P": {
+        "card_name":"Hakos Baelz",
+        "source_name":"BloomingRadiance",
+        "card_index":"072",
+        "source_index":"hBP01",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hBP01-076_P": {
+        "card_name":"Hoshimachi Suisei",
+        "source_name":"BloomingRadiance",
+        "card_index":"076",
+        "source_index":"hBP01",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hBP01-090_P": {
+        "card_name":"Moona Hoshinova",
+        "source_name":"BloomingRadiance",
+        "card_index":"090",
+        "source_index":"hBP01",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hBP01-092_P": {
+        "card_name":"Ouro Kronii",
+        "source_name":"BloomingRadiance",
+        "card_index":"092",
+        "source_index":"hBP01",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hBP01-094_P": {
+        "card_name":"Ouro Kronii",
+        "source_name":"BloomingRadiance",
+        "card_index":"094",
+        "source_index":"hBP01",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hBP01-102_P": {
+        "card_name":"Idol Microphone",
+        "source_name":"BloomingRadiance",
+        "card_index":"102",
+        "source_index":"hBP01",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hBP01-113_P": {
+        "card_name":"Promise",
+        "source_name":"BloomingRadiance",
+        "card_index":"113",
+        "source_index":"hBP01",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hBP02-007_P": {
+        "card_name":"Mori Calliope",
+        "source_name":"QuintetSpectrum",
+        "card_index":"007",
+        "source_index":"hBP02",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hBP02-008_P": {
+        "card_name":"Shirakami Fubuki",
+        "source_name":"QuintetSpectrum",
+        "card_index":"008",
+        "source_index":"hBP02",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hBP02-023_P": {
+        "card_name":"Pavolia Reine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"023",
+        "source_index":"hBP02",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hBP02-024_P": {
+        "card_name":"Ookami Mio",
+        "source_name":"QuintetSpectrum",
+        "card_index":"024",
+        "source_index":"hBP02",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hBP02-028_P": {
+        "card_name":"Houshou Marine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"028",
+        "source_index":"hBP02",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hBP02-029_P": {
+        "card_name":"Houshou Marine",
+        "source_name":"QuintetSpectrum",
+        "card_index":"029",
+        "source_index":"hBP02",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hBP02-043_P": {
+        "card_name":"Murasaki Shion",
+        "source_name":"QuintetSpectrum",
+        "card_index":"043",
+        "source_index":"hBP02",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hBP02-048_P": {
+        "card_name":"Kureiji Ollie",
+        "source_name":"QuintetSpectrum",
+        "card_index":"048",
+        "source_index":"hBP02",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hBP02-054_P": {
+        "card_name":"Mori Calliope",
+        "source_name":"QuintetSpectrum",
+        "card_index":"054",
+        "source_index":"hBP02",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hSD01-004_P": {
+        "card_name":"Tokino Sora",
+        "source_name":"TokinoSora&AZKi",
+        "card_index":"004",
+        "source_index":"hSD01",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hSD01-009_P": {
+        "card_name":"AZKi",
+        "source_name":"TokinoSora&AZKi",
+        "card_index":"009",
+        "source_index":"hSD01",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hSD01-013_P": {
+        "card_name":"SorAZ",
+        "source_name":"TokinoSora&AZKi",
+        "card_index":"013",
+        "source_index":"hSD01",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hSD01-016_P": {
+        "card_name":"Harusaki Nodoka",
+        "source_name":"TokinoSora&AZKi",
+        "card_index":"016",
+        "source_index":"hSD01",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hSD01-017_P": {
+        "card_name":"Manager-chan",
+        "source_name":"TokinoSora&AZKi",
+        "card_index":"017",
+        "source_index":"hSD01",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hSD01-018_P": {
+        "card_name":"Sub PC",
+        "source_name":"TokinoSora&AZKi",
+        "card_index":"018",
+        "source_index":"hSD01",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hSD02-007_P": {
+        "card_name":"Nakiri Ayame",
+        "source_name":"RedNakiriAyame",
+        "card_index":"007",
+        "source_index":"hSD02",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hSD03-007_P": {
+        "card_name":"Nekomata Okayu",
+        "source_name":"BlueNekomataOkayu",
+        "card_index":"007",
+        "source_index":"hSD03",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hSD04-007_P": {
+        "card_name":"Yuzuki Choco",
+        "source_name":"PurpleYuzukiChoco",
+        "card_index":"007",
+        "source_index":"hSD04",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hY01-008_P": {
+        "card_name":"White Cheer",
+        "source_name":"Cheer",
+        "card_index":"008",
+        "source_index":"hY01",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hY01-011_P": {
+        "card_name":"White Cheer",
+        "source_name":"Cheer",
+        "card_index":"011",
+        "source_index":"hY01",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hY02-009_P": {
+        "card_name":"Green Cheer",
+        "source_name":"Cheer",
+        "card_index":"009",
+        "source_index":"hY02",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hY03-010_P": {
+        "card_name":"Red Cheer",
+        "source_name":"Cheer",
+        "card_index":"010",
+        "source_index":"hY03",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hY04-008_P": {
+        "card_name":"Blue Cheer",
+        "source_name":"Cheer",
+        "card_index":"008",
+        "source_index":"hY04",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hY05-006_P": {
+        "card_name":"Purple Cheer",
+        "source_name":"Cheer",
+        "card_index":"006",
+        "source_index":"hY05",
+        "rarity":"Promo",
+        "lang": "EN"
+    },
+    "hY06-008_P": {
+        "card_name":"Yellow Cheer",
+        "source_name":"Cheer",
+        "card_index":"008",
+        "source_index":"hY06",
+        "rarity":"Promo",
+        "lang": "EN"
+    }
+}
