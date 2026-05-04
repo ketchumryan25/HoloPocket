@@ -11,7 +11,7 @@
         "Open_10": "Open 10 Packs",
         "Open_30": "Open 30 Packs",
         "Pick_10": "WonderPick 10 Cards",
-        "Pick_30": "WonderPick 30 Cards",
+        "Pick_25": "WonderPick 25 Cards",
         "Shred_10": "Shred 10 Cards",
         "Shred_30": "Shred 30 Cards"
     },
@@ -30,9 +30,9 @@
         "Open_500": "Open 500 Packs",
         "Open_1000": "Open 1000 Packs",
         "Open_2000": "Open 2000 Packs",
-        "Pick_500": "WonderPick 500 Cards",
-        "Pick_1000": "WonderPick 1000 Cards",
-        "Pick_1750": "WonderPick 1750 Cards",
+        "Pick_300": "WonderPick 300 Cards",
+        "Pick_800": "WonderPick 800 Cards",
+        "Pick_1250": "WonderPick 1250 Cards",
         "Shred_750": "Shred 750 Cards",
         "Shred_1250": "Shred 1250 Cards",
         "Shred_2500": "Shred 2500 Cards"
@@ -41,9 +41,9 @@
         "Open_1500": "Open 1500 Packs",
         "Open_2500": "Open 2500 Packs",
         "Open_5000": "Open 5000 Packs",
-        "Pick_1500": "WonderPick 1500 Cards",
+        "Pick_1000": "WonderPick 1000 Cards",
+        "Pick_1750": "WonderPick 1750 Cards",
         "Pick_2500": "WonderPick 2500 Cards",
-        "Pick_3500": "WonderPick 3500 Cards",
         "Shred_1750": "Shred 1750 Cards",
         "Shred_3000": "Shred 3000 Cards",
         "Shred_6000": "Shred 6000 Cards"
