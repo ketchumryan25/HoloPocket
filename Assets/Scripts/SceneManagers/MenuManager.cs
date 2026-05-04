@@ -68,4 +68,12 @@ public class MenuManager : MonoBehaviour
             .WithOverlay()
             .Perform();
     }
+    public void SwitchToVendor()
+    {
+        SceneController.Instance
+            .NewTransition()
+            .Load(SceneDatabase.Slots.SessionContent, SceneDatabase.Scenes.Vendor, setActive: true)
+            .WithOverlay()
+            .Perform();
+    }
 }

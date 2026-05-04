@@ -1,0 +1,920 @@
+{
+    "hSD01-001_OSR": {
+        "card_name":"Tokino Sora",
+        "source_name":"TokinoSora&AZKi",
+        "card_index":"001",
+        "source_index":"hSD01",
+        "sprite_index":"0",
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
+    },
+    "hSD01-002_OSR": {
+        "card_name":"AZKi",
+        "source_name":"TokinoSora&AZKi",
+        "card_index":"002",
+        "source_index":"hSD01",
+        "sprite_index":"1",
+        "rarity":"OshiSpecialRare",
+        "lang": "EN"
+    },
+    "hSD01-004_R": {
+        "card_name":"Tokino Sora",
+        "source_name":"TokinoSora&AZKi",
+        "card_index":"004",
+        "source_index":"hSD01",
+        "sprite_index":"2",
+        "rarity":"Rare",
+        "lang": "EN"
+    },
+    "hSD01-005_U": {
+        "card_name":"Tokino Sora",
+        "source_name":"TokinoSora&AZKi",
+        "card_index":"005",
+        "source_index":"hSD01",
+        "sprite_index":"3",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD01-006_RR": {
+        "card_name":"Tokino Sora",
+        "source_name":"TokinoSora&AZKi",
+        "card_index":"006",
+        "source_index":"hSD01",
+        "sprite_index":"4",
+        "rarity":"DoubleRare",
+        "lang": "EN"
+    },
+    "hSD01-007_C": {
+        "card_name":"IRyS",
+        "source_name":"TokinoSora&AZKi",
+        "card_index":"007",
+        "source_index":"hSD01",
+        "sprite_index":"5",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD01-009_R": {
+        "card_name":"AZKi",
+        "source_name":"TokinoSora&AZKi",
+        "card_index":"009",
+        "source_index":"hSD01",
+        "sprite_index":"6",
+        "rarity":"Rare",
+        "lang": "EN"
+    },
+    "hSD01-010_U": {
+        "card_name":"AZKi",
+        "source_name":"TokinoSora&AZKi",
+        "card_index":"010",
+        "source_index":"hSD01",
+        "sprite_index":"7",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD01-011_RR": {
+        "card_name":"AZKi",
+        "source_name":"TokinoSora&AZKi",
+        "card_index":"011",
+        "source_index":"hSD01",
+        "sprite_index":"8",
+        "rarity":"DoubleRare",
+        "lang": "EN"
+    },
+    "hSD01-012_C": {
+        "card_name":"Airani lofiteen",
+        "source_name":"TokinoSora&AZKi",
+        "card_index":"012",
+        "source_index":"hSD01",
+        "sprite_index":"9",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD01-013_R": {
+        "card_name":"SorAZ",
+        "source_name":"TokinoSora&AZKi",
+        "card_index":"013",
+        "source_index":"hSD01",
+        "sprite_index":"10",
+        "rarity":"Rare",
+        "lang": "EN"
+    },
+    "hSD01-014_U": {
+        "card_name":"Amana Kanata",
+        "source_name":"TokinoSora&AZKi",
+        "card_index":"014",
+        "source_index":"hSD01",
+        "sprite_index":"11",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD01-015_U": {
+        "card_name":"Hakui Koyori",
+        "source_name":"TokinoSora&AZKi",
+        "card_index":"015",
+        "source_index":"hSD01",
+        "sprite_index":"12",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD01-016_C": {
+        "card_name":"Harusaki Nodoka",
+        "source_name":"TokinoSora&AZKi",
+        "card_index":"016",
+        "source_index":"hSD01",
+        "sprite_index":"13",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD01-017_C": {
+        "card_name":"Manager-chan",
+        "source_name":"TokinoSora&AZKi",
+        "card_index":"017",
+        "source_index":"hSD01",
+        "sprite_index":"14",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD01-018_C": {
+        "card_name":"Sub PC",
+        "source_name":"TokinoSora&AZKi",
+        "card_index":"018",
+        "source_index":"hSD01",
+        "sprite_index":"15",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD01-019_C": {
+        "card_name":"Amazing PC",
+        "source_name":"TokinoSora&AZKi",
+        "card_index":"019",
+        "source_index":"hSD01",
+        "sprite_index":"16",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD01-020_C": {
+        "card_name":"Circle of hololive Listeners",
+        "source_name":"TokinoSora&AZKi",
+        "card_index":"020",
+        "source_index":"hSD01",
+        "sprite_index":"17",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD01-021_C": {
+        "card_name":"First Gravity",
+        "source_name":"TokinoSora&AZKi",
+        "card_index":"021",
+        "source_index":"hSD01",
+        "sprite_index":"18",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD02-001_OC": {
+        "card_name":"Nakiri Ayame",
+        "source_name":"RedNakiriAyame",
+        "card_index":"001",
+        "source_index":"hSD02",
+        "sprite_index":"0",
+        "rarity":"OshiCommon",
+        "lang": "EN"
+    },
+    "hSD02-002_C": {
+        "card_name":"Nakiri Ayame",
+        "source_name":"RedNakiriAyame",
+        "card_index":"002",
+        "source_index":"hSD02",
+        "sprite_index":"1",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD02-003_C": {
+        "card_name":"Nakiri Ayame",
+        "source_name":"RedNakiriAyame",
+        "card_index":"003",
+        "source_index":"hSD02",
+        "sprite_index":"2",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD02-004_U": {
+        "card_name":"Nakiri Ayame",
+        "source_name":"RedNakiriAyame",
+        "card_index":"004",
+        "source_index":"hSD02",
+        "sprite_index":"3",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD02-005_C": {
+        "card_name":"Nakiri Ayame",
+        "source_name":"RedNakiriAyame",
+        "card_index":"005",
+        "source_index":"hSD02",
+        "sprite_index":"4",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD02-006_C": {
+        "card_name":"Nakiri Ayame",
+        "source_name":"RedNakiriAyame",
+        "card_index":"006",
+        "source_index":"hSD02",
+        "sprite_index":"5",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD02-007_U": {
+        "card_name":"Nakiri Ayame",
+        "source_name":"RedNakiriAyame",
+        "card_index":"007",
+        "source_index":"hSD02",
+        "sprite_index":"6",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD02-008_R": {
+        "card_name":"Nakiri Ayame",
+        "source_name":"RedNakiriAyame",
+        "card_index":"008",
+        "source_index":"hSD02",
+        "sprite_index":"7",
+        "rarity":"Rare",
+        "lang": "EN"
+    },
+    "hSD02-009_RR": {
+        "card_name":"Nakiri Ayame",
+        "source_name":"RedNakiriAyame",
+        "card_index":"009",
+        "source_index":"hSD02",
+        "sprite_index":"8",
+        "rarity":"DoubleRare",
+        "lang": "EN"
+    },
+    "hSD02-010_U": {
+        "card_name":"Shirakami Fubuki",
+        "source_name":"RedNakiriAyame",
+        "card_index":"010",
+        "source_index":"hSD02",
+        "sprite_index":"9",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD02-011_U": {
+        "card_name":"Ookami Mio",
+        "source_name":"RedNakiriAyame",
+        "card_index":"011",
+        "source_index":"hSD02",
+        "sprite_index":"10",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD02-012_U": {
+        "card_name":"Irohanihohetto AyaFubuMi",
+        "source_name":"RedNakiriAyame",
+        "card_index":"012",
+        "source_index":"hSD02",
+        "sprite_index":"11",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD02-013_C": {
+        "card_name":"Asura & Rakshasa",
+        "source_name":"RedNakiriAyame",
+        "card_index":"013",
+        "source_index":"hSD02",
+        "sprite_index":"12",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD02-014_C": {
+        "card_name":"Poyoyo",
+        "source_name":"RedNakiriAyame",
+        "card_index":"014",
+        "source_index":"hSD02",
+        "sprite_index":"13",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD03-001_OC": {
+        "card_name":"Nekomata Okayu",
+        "source_name":"BlueNekomataOkayu",
+        "card_index":"001",
+        "source_index":"hSD03",
+        "sprite_index":"0",
+        "rarity":"OshiCommon",
+        "lang": "EN"
+    },
+    "hSD03-002_C": {
+        "card_name":"Nekomata Okayu",
+        "source_name":"BlueNekomataOkayu",
+        "card_index":"002",
+        "source_index":"hSD03",
+        "sprite_index":"1",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD03-003_C": {
+        "card_name":"Nekomata Okayu",
+        "source_name":"BlueNekomataOkayu",
+        "card_index":"003",
+        "source_index":"hSD03",
+        "sprite_index":"2",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD03-004_U": {
+        "card_name":"Nekomata Okayu",
+        "source_name":"BlueNekomataOkayu",
+        "card_index":"004",
+        "source_index":"hSD03",
+        "sprite_index":"3",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD03-005_C": {
+        "card_name":"Nekomata Okayu",
+        "source_name":"BlueNekomataOkayu",
+        "card_index":"005",
+        "source_index":"hSD03",
+        "sprite_index":"4",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD03-006_C": {
+        "card_name":"Nekomata Okayu",
+        "source_name":"BlueNekomataOkayu",
+        "card_index":"06",
+        "source_index":"hSD03",
+        "sprite_index":"5",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD03-007_U": {
+        "card_name":"Nekomata Okayu",
+        "source_name":"BlueNekomataOkayu",
+        "card_index":"007",
+        "source_index":"hSD03",
+        "sprite_index":"6",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD03-008_R": {
+        "card_name":"Nekomata Okayu",
+        "source_name":"BlueNekomataOkayu",
+        "card_index":"008",
+        "source_index":"hSD03",
+        "sprite_index":"7",
+        "rarity":"Rare",
+        "lang": "EN"
+    },
+    "hSD03-009_RR": {
+        "card_name":"Nekomata Okayu",
+        "source_name":"BlueNekomataOkayu",
+        "card_index":"009",
+        "source_index":"hSD03",
+        "sprite_index":"8",
+        "rarity":"DoubleRare",
+        "lang": "EN"
+    },
+    "hSD03-010_U": {
+        "card_name":"Inugami Korone",
+        "source_name":"BlueNekomataOkayu",
+        "card_index":"010",
+        "source_index":"hSD03",
+        "sprite_index":"9",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD03-011_U": {
+        "card_name":"La+ Darknesss",
+        "source_name":"BlueNekomataOkayu",
+        "card_index":"011",
+        "source_index":"hSD03",
+        "sprite_index":"10",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD03-012_U": {
+        "card_name":"Dorobo Construction",
+        "source_name":"BlueNekomataOkayu",
+        "card_index":"012",
+        "source_index":"hSD03",
+        "sprite_index":"11",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD03-013_C": {
+        "card_name":"Oka-nyan",
+        "source_name":"BlueNekomataOkayu",
+        "card_index":"013",
+        "source_index":"hSD03",
+        "sprite_index":"12",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD03-014_C": {
+        "card_name":"Onigiryaa",
+        "source_name":"BlueNekomataOkayu",
+        "card_index":"014",
+        "source_index":"hSD03",
+        "sprite_index":"13",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD04-001_OC": {
+        "card_name":"Yuzuki Choco",
+        "source_name":"PurpleYuzukiChoco",
+        "card_index":"001",
+        "source_index":"hSD04",
+        "sprite_index":"0",
+        "rarity":"OshiCommon",
+        "lang": "EN"
+    },
+    "hSD04-002_C": {
+        "card_name":"Yuzuki Choco",
+        "source_name":"PurpleYuzukiChoco",
+        "card_index":"002",
+        "source_index":"hSD04",
+        "sprite_index":"1",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD04-003_C": {
+        "card_name":"Yuzuki Choco",
+        "source_name":"PurpleYuzukiChoco",
+        "card_index":"003",
+        "source_index":"hhSD04Y01",
+        "sprite_index":"2",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD04-004_U": {
+        "card_name":"Yuzuki Choco",
+        "source_name":"PurpleYuzukiChoco",
+        "card_index":"004",
+        "source_index":"hSD04",
+        "sprite_index":"3",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD04-005_C": {
+        "card_name":"Yuzuki Choco",
+        "source_name":"PurpleYuzukiChoco",
+        "card_index":"005",
+        "source_index":"hSD04",
+        "sprite_index":"4",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD04-006_C": {
+        "card_name":"Yuzuki Choco",
+        "source_name":"PurpleYuzukiChoco",
+        "card_index":"006",
+        "source_index":"hSD04",
+        "sprite_index":"5",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD04-007_U": {
+        "card_name":"Yuzuki Choco",
+        "source_name":"PurpleYuzukiChoco",
+        "card_index":"007",
+        "source_index":"hSD04",
+        "sprite_index":"6",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD04-008_R": {
+        "card_name":"Yuzuki Choco",
+        "source_name":"PurpleYuzukiChoco",
+        "card_index":"008",
+        "source_index":"hSD04",
+        "sprite_index":"7",
+        "rarity":"Rare",
+        "lang": "EN"
+    },
+    "hSD04-009_RR": {
+        "card_name":"Yuzuki Choco",
+        "source_name":"PurpleYuzukiChoco",
+        "card_index":"009",
+        "source_index":"hSD04",
+        "sprite_index":"8",
+        "rarity":"DoubleRare",
+        "lang": "EN"
+    },
+    "hSD04-010_U": {
+        "card_name":"Oozora Subaru",
+        "source_name":"PurpleYuzukiChoco",
+        "card_index":"010",
+        "source_index":"hSD04",
+        "sprite_index":"9",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD04-011_U": {
+        "card_name":"Himemori Luna",
+        "source_name":"PurpleYuzukiChoco",
+        "card_index":"011",
+        "source_index":"hSD04",
+        "sprite_index":"10",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD04-012_U": {
+        "card_name":"SubaChocoLuna",
+        "source_name":"PurpleYuzukiChoco",
+        "card_index":"012",
+        "source_index":"hSD04",
+        "sprite_index":"11",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD04-013_C": {
+        "card_name":"Choco's Omurice",
+        "source_name":"PurpleYuzukiChoco",
+        "card_index":"013",
+        "source_index":"hSD04",
+        "sprite_index":"12",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD04-014_C": {
+        "card_name":"Chocolat",
+        "source_name":"PurpleYuzukiChoco",
+        "card_index":"014",
+        "source_index":"hSD04",
+        "sprite_index":"13",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD05-001_OC": {
+        "card_name":"Todoroki Hajime",
+        "source_name":"WhiteTodoroki",
+        "card_index":"001",
+        "source_index":"hSD05",
+        "sprite_index":"0",
+        "rarity":"OshiCommon",
+        "lang": "EN"
+    },
+    "hSD05-002_C": {
+        "card_name":"Todoroki Hajime",
+        "source_name":"WhiteTodoroki",
+        "card_index":"002",
+        "source_index":"hSD05",
+        "sprite_index":"1",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD05-003_C": {
+        "card_name":"Todoroki Hajime",
+        "source_name":"WhiteTodoroki",
+        "card_index":"003",
+        "source_index":"hSD05",
+        "sprite_index":"2",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD05-004_U": {
+        "card_name":"Todoroki Hajime",
+        "source_name":"WhiteTodoroki",
+        "card_index":"004",
+        "source_index":"hSD05",
+        "sprite_index":"3",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD05-005_C": {
+        "card_name":"Todoroki Hajime",
+        "source_name":"WhiteTodoroki",
+        "card_index":"005",
+        "source_index":"hSD05",
+        "sprite_index":"4",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD05-006_C": {
+        "card_name":"Todoroki Hajime",
+        "source_name":"WhiteTodoroki",
+        "card_index":"006",
+        "source_index":"hSD05",
+        "sprite_index":"5",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD05-007_U": {
+        "card_name":"Todoroki Hajime",
+        "source_name":"WhiteTodoroki",
+        "card_index":"007",
+        "source_index":"hSD05",
+        "sprite_index":"6",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD05-008_R": {
+        "card_name":"Todoroki Hajime",
+        "source_name":"WhiteTodoroki",
+        "card_index":"008",
+        "source_index":"hSD05",
+        "sprite_index":"7",
+        "rarity":"Rare",
+        "lang": "EN"
+    },
+    "hSD05-009_RR": {
+        "card_name":"Todoroki Hajime",
+        "source_name":"WhiteTodoroki",
+        "card_index":"009",
+        "source_index":"hSD05",
+        "sprite_index":"8",
+        "rarity":"DoubleRare",
+        "lang": "EN"
+    },
+    "hSD05-010_U": {
+        "card_name":"Juufuutei Raden",
+        "source_name":"WhiteTodoroki",
+        "card_index":"010",
+        "source_index":"hSD05",
+        "sprite_index":"9",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD05-011_U": {
+        "card_name":"Ichijou Ririka",
+        "source_name":"WhiteTodoroki",
+        "card_index":"011",
+        "source_index":"hSD05",
+        "sprite_index":"10",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD05-012_U": {
+        "card_name":"Hiodoshi Ao",
+        "source_name":"WhiteTodoroki",
+        "card_index":"012",
+        "source_index":"hSD05",
+        "sprite_index":"11",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD05-013_U": {
+        "card_name":"Otonose Kanade",
+        "source_name":"WhiteTodoroki",
+        "card_index":"013",
+        "source_index":"hSD05",
+        "sprite_index":"12",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD05-014_C": {
+        "card_name":"Banpen",
+        "source_name":"WhiteTodoroki",
+        "card_index":"014",
+        "source_index":"hSD05",
+        "sprite_index":"13",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD06-001_OC": {
+        "card_name":"Kazama Iroha",
+        "source_name":"GreenKazamaIroha",
+        "card_index":"001",
+        "source_index":"hSD06",
+        "sprite_index":"0",
+        "rarity":"OshiCommon",
+        "lang": "EN"
+    },
+    "hSD06-002_C": {
+        "card_name":"Kazama Iroha",
+        "source_name":"GreenKazamaIroha",
+        "card_index":"002",
+        "source_index":"hSD06",
+        "sprite_index":"1",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD06-003_U": {
+        "card_name":"Kazama Iroha",
+        "source_name":"GreenKazamaIroha",
+        "card_index":"003",
+        "source_index":"hSD06",
+        "sprite_index":"2",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD06-004_C": {
+        "card_name":"Kazama Iroha",
+        "source_name":"GreenKazamaIroha",
+        "card_index":"004",
+        "source_index":"hSD06",
+        "sprite_index":"3",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD06-005_C": {
+        "card_name":"Kazama Iroha",
+        "source_name":"GreenKazamaIroha",
+        "card_index":"005",
+        "source_index":"hSD06",
+        "sprite_index":"4",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD06-006_R": {
+        "card_name":"Kazama Iroha",
+        "source_name":"GreenKazamaIroha",
+        "card_index":"006",
+        "source_index":"hSD06",
+        "sprite_index":"5",
+        "rarity":"Rare",
+        "lang": "EN"
+    },
+    "hSD06-007_RR": {
+        "card_name":"Kazama Iroha",
+        "source_name":"GreenKazamaIroha",
+        "card_index":"007",
+        "source_index":"hSD06",
+        "sprite_index":"6",
+        "rarity":"DoubleRare",
+        "lang": "EN"
+    },
+    "hSD06-008_U": {
+        "card_name":"Hakui Koyori",
+        "source_name":"GreenKazamaIroha",
+        "card_index":"008",
+        "source_index":"hSD06",
+        "sprite_index":"7",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD06-009_U": {
+        "card_name":"Takane Lui",
+        "source_name":"GreenKazamaIroha",
+        "card_index":"009",
+        "source_index":"hSD06",
+        "sprite_index":"8",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD06-010_U": {
+        "card_name":"La+ Darknesss",
+        "source_name":"GreenKazamaIroha",
+        "card_index":"010",
+        "source_index":"hSD06",
+        "sprite_index":"9",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD06-011_C": {
+        "card_name":"Chakimaru",
+        "source_name":"GreenKazamaIroha",
+        "card_index":"011",
+        "source_index":"hSD06",
+        "sprite_index":"10",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD06-012_C": {
+        "card_name":"Pokobe",
+        "source_name":"GreenKazamaIroha",
+        "card_index":"012",
+        "source_index":"hSD06",
+        "sprite_index":"11",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD07-001_OC": {
+        "card_name":"Shiranui Flare",
+        "source_name":"YellowShiranuiFlare",
+        "card_index":"001",
+        "source_index":"hSD07",
+        "sprite_index":"0",
+        "rarity":"OshiCommon",
+        "lang": "EN"
+    },
+    "hSD07-002_C": {
+        "card_name":"Shiranui Flare",
+        "source_name":"YellowShiranuiFlare",
+        "card_index":"002",
+        "source_index":"hSD07",
+        "sprite_index":"1",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD07-003_C": {
+        "card_name":"Shiranui Flare",
+        "source_name":"YellowShiranuiFlare",
+        "card_index":"003",
+        "source_index":"hSD07",
+        "sprite_index":"2",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD07-004_U": {
+        "card_name":"Shiranui Flare",
+        "source_name":"YellowShiranuiFlare",
+        "card_index":"004",
+        "source_index":"hSD07",
+        "sprite_index":"3",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD07-005_C": {
+        "card_name":"Shiranui Flare",
+        "source_name":"YellowShiranuiFlare",
+        "card_index":"005",
+        "source_index":"hSD07",
+        "sprite_index":"4",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD07-006_C": {
+        "card_name":"Shiranui Flare",
+        "source_name":"YellowShiranuiFlare",
+        "card_index":"006",
+        "source_index":"hSD07",
+        "sprite_index":"5",
+        "rarity":"Common",
+        "lang": "EN"
+    },
+    "hSD07-007_U": {
+        "card_name":"Shiranui Flare",
+        "source_name":"YellowShiranuiFlare",
+        "card_index":"007",
+        "source_index":"hSD07",
+        "sprite_index":"6",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD07-008_R": {
+        "card_name":"Shiranui Flare",
+        "source_name":"YellowShiranuiFlare",
+        "card_index":"008",
+        "source_index":"hSD07",
+        "sprite_index":"7",
+        "rarity":"Rare",
+        "lang": "EN"
+    },
+    "hSD07-009_RR": {
+        "card_name":"Shiranui Flare",
+        "source_name":"YellowShiranuiFlare",
+        "card_index":"009",
+        "source_index":"hSD07",
+        "sprite_index":"8",
+        "rarity":"DoubleRare",
+        "lang": "EN"
+    },
+    "hSD07-010_U": {
+        "card_name":"Shirogane Noel",
+        "source_name":"YellowShiranuiFlare",
+        "card_index":"010",
+        "source_index":"hSD07",
+        "sprite_index":"9",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD07-011_U": {
+        "card_name":"Sakura Miko",
+        "source_name":"YellowShiranuiFlare",
+        "card_index":"011",
+        "source_index":"hSD07",
+        "sprite_index":"10",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD07-012_U": {
+        "card_name":"Omaru Polka",
+        "source_name":"YellowShiranuiFlare",
+        "card_index":"012",
+        "source_index":"hSD07",
+        "sprite_index":"11",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD07-013_U": {
+        "card_name":"Hoshimachi Suisei",
+        "source_name":"YellowShiranuiFlare",
+        "card_index":"013",
+        "source_index":"hSD07",
+        "sprite_index":"12",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD07-014_U": {
+        "card_name":"Shiranui Construction",
+        "source_name":"YellowShiranuiFlare",
+        "card_index":"014",
+        "source_index":"hSD07",
+        "sprite_index":"13",
+        "rarity":"Uncommon",
+        "lang": "EN"
+    },
+    "hSD07-015_C": {
+        "card_name":"elfriend",
+        "source_name":"YellowShiranuiFlare",
+        "card_index":"015",
+        "source_index":"hSD07",
+        "sprite_index":"14",
+        "rarity":"Common",
+        "lang": "EN"
+    }
+}

@@ -114,6 +114,12 @@ public class SceneController : MonoBehaviour
             yield return null;
         }
     }
+    public string GetActiveScene()
+    {
+        string slotKey = "SessionContent";
+        string scene = loadedSceneBySlot[slotKey];
+        return scene;
+    }
 
 
     public class SceneTransitionPlan

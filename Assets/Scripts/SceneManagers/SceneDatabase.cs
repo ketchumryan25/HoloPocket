@@ -20,5 +20,6 @@ public static class SceneDatabase
         public const string WonderPick = "WonderPick";
         public const string WonderPickOpen = "WonderPickOpen";
         public const string BoosterPacks = "BoosterPacks";
+        public const string Vendor = "Vendor";
     }
 }

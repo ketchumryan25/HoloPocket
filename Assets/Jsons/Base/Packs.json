@@ -3,10 +3,26 @@
     "Japanese": "JP",
 
     "Cheer": "Cheer",
+    "Promo": "Promo",
+    "StarterDeck": "StarterDeck",
     "BloomingRadiance": "hBP01",
     "QuintetSpectrum": "hBP02",
     "EliteSpark": "hBP03",
     "hBP01": "BloomingRadiance",
     "hBP02": "QuintetSpectrum",
-    "hBP03": "EliteSpark"
+    "hBP03": "EliteSpark",
+
+    "C": "Common",
+    "U": "Uncommon",
+    "R": "Rare",
+    "RR": "DoubleRare",
+    "S": "Special",
+    "SY": "SpecialYell",
+    "SR": "SuperRare",
+    "OSR": "OshiSpecialRare",
+    "UR": "UltraRare",
+    "OUR": "OshiUltraRare",
+    "SEC": "Secret",
+    "OC": "OshiCommon",
+    "P": "Promo"
 }
